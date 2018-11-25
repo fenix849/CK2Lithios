@@ -1,0 +1,7 @@
+title = c_kavonka
+max_settlements = 4
+culture = celestial
+religion = celestial_pagan
+terrain = jungle
+b_rilalum = castle
+b_qavudna = city

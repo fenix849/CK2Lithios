@@ -1,0 +1,6 @@
+title = c_konocia
+max_settlements = 3
+culture = orc
+religion = orc_pagan
+terrain = hills
+b_donalan = tribal

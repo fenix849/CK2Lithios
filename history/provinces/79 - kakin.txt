@@ -1,0 +1,6 @@
+title = c_kakin
+max_settlements = 3
+culture = watren
+religion = seven
+terrain = farmlands
+b_lomo = castle

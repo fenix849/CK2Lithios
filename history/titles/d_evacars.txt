@@ -1,0 +1,4 @@
+994.1.1 = {
+	holder=6007
+	historical_nomad = yes
+}

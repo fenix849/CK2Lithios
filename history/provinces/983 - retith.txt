@@ -1,0 +1,8 @@
+title = c_retith
+max_settlements = 5
+culture = sidhe
+religion = tree
+terrain = woods 
+b_reoyotl = castle
+b_kand = city
+b_tariik = temple

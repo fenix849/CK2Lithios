@@ -1,0 +1,6 @@
+title = c_tutouz
+max_settlements = 4
+culture = sidhe
+religion = tree
+terrain = forest
+b_lapauq = castle

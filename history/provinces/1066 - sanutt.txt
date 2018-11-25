@@ -1,0 +1,6 @@
+title = c_sanutt
+max_settlements = 4
+culture = sidhe
+religion = tree
+terrain = forest
+b_kutt = castle

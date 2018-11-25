@@ -1,0 +1,9 @@
+title = c_tovyuk
+max_settlements = 6
+culture = celestial
+religion = celestial_pagan
+terrain = jungle
+b_qora = castle
+b_kora = castle
+b_tinirma = city
+b_bivyuk = temple

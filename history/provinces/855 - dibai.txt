@@ -1,0 +1,6 @@
+title = c_dibai
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_qiciar = castle

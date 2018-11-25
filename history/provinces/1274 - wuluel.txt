@@ -1,0 +1,8 @@
+title = c_wuluel
+max_settlements = 5
+culture = celestial
+religion = celestial_pagan
+terrain = jungle
+b_nadahu = castle
+b_dudoka = city
+b_qalloka = temple

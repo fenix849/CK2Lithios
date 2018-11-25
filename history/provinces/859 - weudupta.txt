@@ -1,0 +1,6 @@
+title = c_weudupta
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_kekataw = castle

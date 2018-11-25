@@ -1,0 +1,6 @@
+title = c_tunatko
+max_settlements = 3
+culture = sedinan
+religion = seven
+terrain = farmlands
+b_qagona = castle

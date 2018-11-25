@@ -1,0 +1,6 @@
+title = c_karari
+max_settlements = 3
+culture = orc
+religion = orc_pagan
+terrain = hills
+b_timawar = tribal

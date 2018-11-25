@@ -1,0 +1,6 @@
+title = c_labina
+max_settlements = 3
+culture = dvort
+religion = stone
+terrain = hills
+b_turiu = city

@@ -1,0 +1,6 @@
+title = c_bideva
+max_settlements = 3
+culture = clearlakian
+religion = seven
+terrain = farmlands
+b_namideva = castle

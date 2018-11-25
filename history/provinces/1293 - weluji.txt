@@ -1,0 +1,6 @@
+title = c_weluji
+max_settlements = 3
+culture = demon
+religion = demon_pagan
+terrain = arctic
+b_agelida = castle

@@ -1,0 +1,6 @@
+title = c_barashe
+max_settlements = 3
+culture = southporter
+religion = seven
+terrain = farmlands
+b_rorelet = castle

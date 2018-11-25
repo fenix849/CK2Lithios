@@ -1,0 +1,6 @@
+title = c_kyaratta
+max_settlements = 3
+culture = clearlakian
+religion = seven
+terrain = farmlands
+b_wanina = castle

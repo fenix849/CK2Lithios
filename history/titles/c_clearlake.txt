@@ -1,0 +1,5 @@
+992.1.1 = {
+	holder=1000000
+	historical_nomad = no
+	effect = { location = { add_province_modifier={ name=clearlake_op duration=-1 } } }
+}

@@ -1,0 +1,6 @@
+title = c_tinir
+max_settlements = 3
+culture = horsc
+religion = orc_pagan
+terrain = steppe
+b_wudah = tribal

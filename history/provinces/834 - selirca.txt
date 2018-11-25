@@ -1,0 +1,6 @@
+title = c_selirca
+max_settlements = 4
+culture = imperial
+religion = seven
+terrain = farmlands
+b_libona = castle

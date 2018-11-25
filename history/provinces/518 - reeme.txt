@@ -1,0 +1,6 @@
+title = c_reeme
+max_settlements = 3
+culture = sedinan
+religion = seven
+terrain = farmlands
+b_qekirve = castle

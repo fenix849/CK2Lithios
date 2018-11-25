@@ -1,0 +1,6 @@
+title = c_sanda
+max_settlements = 3
+culture = demon
+religion = demon_pagan
+terrain = arctic
+b_agleran = castle

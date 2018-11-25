@@ -1,0 +1,6 @@
+title = c_bierdel
+max_settlements = 3
+culture = dvort
+religion = stone
+terrain = hills
+b_qantan = city

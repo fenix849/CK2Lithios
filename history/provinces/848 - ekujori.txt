@@ -1,0 +1,6 @@
+title = c_ekujori
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_witoja = castle

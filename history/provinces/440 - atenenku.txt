@@ -1,0 +1,6 @@
+title = c_atenenku
+max_settlements = 3
+culture = orc
+religion = orc_pagan
+terrain = hills
+b_waxera = tribal

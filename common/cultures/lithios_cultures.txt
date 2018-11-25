@@ -1,0 +1,610 @@
+human = {
+	graphical_cultures = { westerngfx }
+	
+	imperial = {
+		graphical_cultures = { germangfx }
+		
+		color = { 0.5 0.5 0.5 }
+
+		male_names = {
+			Adalbero_Adalbero Adalbert_Albert Adalhard_Adalhard Adam_Adam Ademar_Ademar Adolf_Adolf Alarich_Alaric Alberich_Aubrey Albrecht_Albert Aldrich_Aldric
+			Alois_Louis Amadeus_Amadeus Amalrich_Amalric Andreas_Andrew Anselm_Anselm Arnold_Arnold Arnulf_Arnulf Augustin_Augustine Baldarich_Baldric
+			Baldewin_Baldwin Baldomar Baldur_Balder Berengar_Berengar Bernhard_Bernard Berthold_Berthold Burchard_Bouchard Christopher_Christopher
+			Dieter_Dieter Dietmar_Dietmar Dietpold_Dietpold Dietrich_Thierry Dietwin Eberhard_Everard Eginolf Ehrenfried Ekbert_Egbert Ekkehard_Ekkehard Emelrich_Aymeric
+			Emich Emmerich_Aymeric Emund_Emund Engelbert_Engelbert Erich_Erik Ernst_Ernest Ferdinand_Ferdinand Filibert_Filibert Folkhard Folkmar Franz_Francis Friedrich_Frederick
+			Gautselin_Joscelin Gebhard_Gebhard Georg_George Gerhard_Gerard Gerlach_Gerlach Giselbert_Gilbert Gottfried_Godfrey Gotthard Gottschalk_Gottschalk
+			Gotzelo Guntram Gunzelin_Günther Günther_Günther Hans_Hans Hartmann Hartwig Heinrich_Henry Helferich Heribert_Herbert Hermann_Herman Hesso
+			Hugo_Hugh Humbert_Humbert Hupold Jakob_Jacob Johann_John Jürgen_George Karl_Charles Karlmann_Carloman Kaspar_Caspar Konrad_Konrad Kuno_Konrad
+			Lambert_Lambert Landolf_Landolf Leopold_Leopold Liudolf_Ludolf Liutbert_Lutbert Liutbrand Liutpold_Leopold Lothar_Lothair Ludolf_Ludolf Ludwig_Louis Lutbert_Lutbert
+			Magnus_Magnus Manegold Manfred_Manfred Markward_Markward Martin_Martin Matthias_Matthew Meinhard Michael_Michael Nikolaus_Nicholas Norbert_Norbert
+			Otto_Otto Peter_Peter Philipp_Philip Poppo Radbot_Radbot Reinhard_Renard Reinhold_Reinhold Rudolf_Ralph Ruprecht_Robert Rutger_Roger Siegfried_Siegfried
+			Sieghard Siegmund_Sigmund Sigismund_Sigmund Simon_Simon Stefan_Stephen Theodorich_Thierry Thietmar_Dietmar Thomas_Thomas
+			Udalrich_Ulrich Ulrich_Ulrich Viktor_Victor Waldemar_Vladimir Walram_Walram Walther_Walter Welf_Lupo Wenzel_Vaclav Werner_Werner Wido_Guy
+			Wigerich Wilhelm_William Wolfgang Wolfram_Wolfram
+		}
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde_Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia Barbara_Barbara
+			Beatrix_Beatrice Benedicta_Benedicta Berchte Berta_Bertha Binhilde Brunhilde_Brunhilda Cecilie_Cecilia Christine_Christina
+			Cothilda_Clotilde Dorothea_Dorothy Elisabeth_Elizabeth Emma_Emma Engeltraud Ermengard_Ermengarde Eufemia_Euphemia
+			Frida Friedrica_Frederique Gerberga_Gerberga Gerhild Gertrude_Gertrude Gisela_Gisela Gudrun_Gudrun Gunhilda_Gunhild
+			Hedwig_Hedwig Heike Heilwiva Helene_Helen Helga Hemma_Emma Henrike Hildeburg Hildegard_Hildegard Ida_Ida Ilsa Inga_Inge
+			Ingeltrude Irmele Irmeltrud Irmgard_Ermengarde Isentrude Jutta_Judith Karlotte_Caroline Katharina_Catherine Klara_Clara
+			Klementia_Clementia Konstanze_Constance Kriemhild Kunigunde_Kunigunde Luitgard_Luitgard Margarete_Margaret Maria_Maria
+			Mechthild_Matilda Oda Osterhild Richara_Ricarda Richenza_Richeza Richwara Romilda Serhilda_Serhilda Sofie_Sophia Sybille_Sibylla Trude_Gertrude
+			Ulrike Ursula_Ursula Ute_Ute Walpurga Wilhelmina_Wilhelmina Winfrida Wulfhilde_Ulfhild
+		}
+		from_dynasty_prefix = "von "
+		founder_named_dynasties = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	
+	sedinan = {
+		graphical_cultures = { ugricgfx }
+		
+		color = { 0.1 0.6 0.6 }
+
+		male_names = {
+			Aatos Ahma Aimo Armas Arvo Asikko Ensio Haapa Hannu Havu Hintsa Ihanti Into Jalo Jurva Kaleva Kalevi Kettu Kolli Lalli Lauri_Laurence Lemetti
+			Mielitty Miemo Mikko_Michael Oiva Onni Otso Pyry Päivio Pentti Reko Sampo Satajalka Satatieto Seppo Susi Tapani Terho Toivo Ukko Uoti Urho Väino
+			Valta Valto Veli Vesa Voitto Erkki_Erik Kaarle_Charles Johannes_John Risto_Christopher Olavi_Olaf Petri_Peter Henri_Henry Yrjo_George 
+			Valteri_Walter Riku_Richard Matti_Matthew Jaakoppi_Jacob Taisto Paavo_Paul Aatso_Adam Ahvo Aarto_Artur Asko Tuokko_David Rieti_Frederick
+			Kauro_Gabriel Kuuti_Knut Pekko Soini_Sven Tuure Turo Tommo Tohmas_Thomas
+		}
+		female_names = {
+			Aamu Aino Hellä Helmi Ilta Kaarina_Catherine Käpy Kielo Kukka Lauha Lempi Mahla Maija Marja Mesi Metta Päivä Päivi Pihla Pilvi Rauha Sisko Suoma
+			Taimi Terhi Titti Tuija Tuovi Tuuli Tuulikki Tyyne Tyyni Vanamo Venla Mielikki Hertta Loviisa Inkeri Ilmatar Irene_Irene Ilona_Helen Kristiina_Christina
+			Elisabet_Elizabeth Sohvi_Sofia Auni_Agnes Liekko_Helen Kivutar Lemmikki Lyylikki Salme Talvikki Tuulitar
+			Evalyn
+		}
+		from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+	}
+	
+	psatese = {
+		graphical_cultures = { englishgfx }
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm_Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher David_David Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Fulk_Folke Geoffrey_Godfrey George_George Gerald_Gerald Gilbert_Gilbert
+			Godfrey_Godfrey Gregory_Gregory Guy_Guy Henry_Henry Hugh_Hugh Humphrey Jocelyn John_John Jordan_Jordan Laurence_Laurence Lionel_Lionel Mark_Marcus Martin_Martin Matthew_Matthew Maurice_Maurice Michael_Michael Nicholas_Nicholas Paul_Paul Peter_Peter Philip_Philip
+			Ralph_Ralph Randolph_Randolph Reginald_Reinhold Richard_Richard Robert_Robert Roger_Roger Simon_Simon Stephen_Stephen Theobald_Theobald Thomas_Thomas Waleran Walter_Walter William_William
+		}
+		female_names = {
+			Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia Constance_Constance Edith_Edith Ela Eleanor_Eleanor Elizabeth_Elizabeth Emma_Emma Hawise Isabel_Elizabeth
+			Isabella_Elizabeth Joan_Joan Joanna_Joan Juliana_Juliana Mahaut_Matilda Margaret_Margaret Mary_Maria Matilda_Matilda Maud_Matilda Philippa_Philippa Sybilla_Sibylla
+		}
+		from_dynasty_prefix = "of "
+		bastard_dynasty_prefix = "Fitz"
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	
+	korvallan = {
+		graphical_cultures = { englishgfx }
+		
+		color = { 0.8 0.2 0.6 }
+		
+		male_names = {
+			Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm_Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher David_David Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Fulk_Folke Geoffrey_Godfrey George_George Gerald_Gerald Gilbert_Gilbert
+			Godfrey_Godfrey Gregory_Gregory Guy_Guy Henry_Henry Hugh_Hugh Humphrey Jocelyn John_John Jordan_Jordan Laurence_Laurence Lionel_Lionel Mark_Marcus Martin_Martin Matthew_Matthew Maurice_Maurice Michael_Michael Nicholas_Nicholas Paul_Paul Peter_Peter Philip_Philip
+			Ralph_Ralph Randolph_Randolph Reginald_Reinhold Richard_Richard Robert_Robert Roger_Roger Simon_Simon Stephen_Stephen Theobald_Theobald Thomas_Thomas Waleran Walter_Walter William_William
+		}
+		female_names = {
+			Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia Constance_Constance Edith_Edith Ela Eleanor_Eleanor Elizabeth_Elizabeth Emma_Emma Hawise Isabel_Elizabeth
+			Isabella_Elizabeth Joan_Joan Joanna_Joan Juliana_Juliana Mahaut_Matilda Margaret_Margaret Mary_Maria Matilda_Matilda Maud_Matilda Philippa_Philippa Sybilla_Sibylla
+		}
+		from_dynasty_prefix = "of "
+		bastard_dynasty_prefix = "Fitz"
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	
+	watren = {
+		graphical_cultures = { englishgfx }
+		
+		color = { 0.8 0.6 0.2 }
+		
+		male_names = {
+			Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm_Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher David_David Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Fulk_Folke Geoffrey_Godfrey George_George Gerald_Gerald Gilbert_Gilbert
+			Godfrey_Godfrey Gregory_Gregory Guy_Guy Henry_Henry Hugh_Hugh Humphrey Jocelyn John_John Jordan_Jordan Laurence_Laurence Lionel_Lionel Mark_Marcus Martin_Martin Matthew_Matthew Maurice_Maurice Michael_Michael Nicholas_Nicholas Paul_Paul Peter_Peter Philip_Philip
+			Ralph_Ralph Randolph_Randolph Reginald_Reinhold Richard_Richard Robert_Robert Roger_Roger Simon_Simon Stephen_Stephen Theobald_Theobald Thomas_Thomas Waleran Walter_Walter William_William
+		}
+		female_names = {
+			Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia Constance_Constance Edith_Edith Ela Eleanor_Eleanor Elizabeth_Elizabeth Emma_Emma Hawise Isabel_Elizabeth
+			Isabella_Elizabeth Joan_Joan Joanna_Joan Juliana_Juliana Mahaut_Matilda Margaret_Margaret Mary_Maria Matilda_Matilda Maud_Matilda Philippa_Philippa Sybilla_Sibylla
+		}
+		from_dynasty_prefix = "of "
+		bastard_dynasty_prefix = "Fitz"
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	
+	southporter = {
+		graphical_cultures = { englishgfx }
+		
+		color = { 0.4 0.2 0.2 }
+		
+		male_names = {
+			Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm_Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher David_David Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Fulk_Folke Geoffrey_Godfrey George_George Gerald_Gerald Gilbert_Gilbert
+			Godfrey_Godfrey Gregory_Gregory Guy_Guy Henry_Henry Hugh_Hugh Humphrey Jocelyn John_John Jordan_Jordan Laurence_Laurence Lionel_Lionel Mark_Marcus Martin_Martin Matthew_Matthew Maurice_Maurice Michael_Michael Nicholas_Nicholas Paul_Paul Peter_Peter Philip_Philip
+			Ralph_Ralph Randolph_Randolph Reginald_Reinhold Richard_Richard Robert_Robert Roger_Roger Simon_Simon Stephen_Stephen Theobald_Theobald Thomas_Thomas Waleran Walter_Walter William_William
+		}
+		female_names = {
+			Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia Constance_Constance Edith_Edith Ela Eleanor_Eleanor Elizabeth_Elizabeth Emma_Emma Hawise Isabel_Elizabeth
+			Isabella_Elizabeth Joan_Joan Joanna_Joan Juliana_Juliana Mahaut_Matilda Margaret_Margaret Mary_Maria Matilda_Matilda Maud_Matilda Philippa_Philippa Sybilla_Sibylla
+		}
+		from_dynasty_prefix = "of "
+		bastard_dynasty_prefix = "Fitz"
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	
+	clearlakian = {
+		graphical_cultures = { englishgfx }
+		
+		color = { 0.1 0.8 0.8 }
+		
+		male_names = {
+			Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm_Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher David_David Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Fulk_Folke Geoffrey_Godfrey George_George Gerald_Gerald Gilbert_Gilbert
+			Godfrey_Godfrey Gregory_Gregory Guy_Guy Henry_Henry Hugh_Hugh Humphrey Jocelyn John_John Jordan_Jordan Laurence_Laurence Lionel_Lionel Mark_Marcus Martin_Martin Matthew_Matthew Maurice_Maurice Michael_Michael Nicholas_Nicholas Paul_Paul Peter_Peter Philip_Philip
+			Ralph_Ralph Randolph_Randolph Reginald_Reinhold Richard_Richard Robert_Robert Roger_Roger Simon_Simon Stephen_Stephen Theobald_Theobald Thomas_Thomas Waleran Walter_Walter William_William
+		}
+		female_names = {
+			Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia Constance_Constance Edith_Edith Ela Eleanor_Eleanor Elizabeth_Elizabeth Emma_Emma Hawise Isabel_Elizabeth
+			Isabella_Elizabeth Joan_Joan Joanna_Joan Juliana_Juliana Mahaut_Matilda Margaret_Margaret Mary_Maria Matilda_Matilda Maud_Matilda Philippa_Philippa Sybilla_Sibylla
+		}
+		from_dynasty_prefix = "of "
+		bastard_dynasty_prefix = "Fitz"
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+elvish = {
+	graphical_cultures = { asraigfx mesoamericangfx muslimgfx }
+	
+	sidhe = {
+		graphical_cultures = { asraigfx mesoamericangfx muslimgfx }
+		color = { 1.0 0.5 0.0 }
+		
+		male_names = {
+			Adanhu Aedoth Aelwyn Aeron Aestin Aeth-Talu Aethellion Afeen Afyn Ain Aingar Akoralu Alanter Alioth Allun Alnwaen Amadri Andaras Aneeran Aneirian Anyr Aon Aonic Araflane Araloth Arin Arkhar Arkon Arkos Arlas Arnoth Arthron Arwel Aryon Asfael Ashan Astwin Athanfel Atharian Atherin Athirel Athlon Atolmis Aysten
+			Bal-Nymraif Bal-Talu Balbane Barwyn Begeir Beldeas Berach Berethbane Berethellion Berethnwaen Born Braith Bran Brandir Brennul Briceris Brim-Auryaur Bryn
+			Cadarn Cadoc Cadwaith Caedel Caedfan Caedfel Caedgeen Caith Calaingor Calgor Camath Caome Caorann Carbul Cardael Cardog Carnbel Caronn Carwel Caryn Cathal Cathnair Cead Cefeir Ceir Ceithin Cellay Celuen Cerd Cernhelm Ciaren Ciliarn Cirirlan Coeddil Coehuir Colmgar Conar Corbal Corentir Corradan Couranstar Cuandran Cuathbar Cuilich Cyanos Cyndor Cystern
+			Daith Dar-Selathoi Daranaith Darath Darendil Darost Daylen Declar Deh-Talu Dehmar Dei Deinal Dest Deweid Dildor Dilirel Dilmar Diloth Dinhenlu Dorien Dorirlan Dorost Drysten Durall Durneel Durthu
+			Eabair Edrael Eeras Efaen Einrar Elatior Elbar Eleised Elisan Ellin Elpenor Emyr End-Talu End-Yenayla Endandril Endhuir Endlin Enfair Eremon Ethilanur Eurin Evrag
+			Faelan Falchar Faolan Faranfel Fardel Farlon Farund Fei Feidul Felanwe Feldath Feldor Felfin Felian Felien Feloth Fian Finavar Findol Findric Finnebar Fluren Folan Fy-Sehenlu
+			Gaelen Galed Garanoth Garneel Garnoc Garun Garuneth Garwiath Gavra Geth Gethir Gith-Sehenlu Githendil Glam Glawin Glorellion Glorulan Glyn Gondaric Gorandol Goronir Gronaith Grufid Guarn Gurian Gwaihir Gwilnid Gwindalor Gwythraul
+			Haldus Har Harath Hareel Haruan Harweld Haryn Hasdeorn Hauran Hedwan Hegaliel Hesteoun Heulog Hiranwe Hirlun Hirund Hual Hurian Huring
+			Idinal Ilaruss Ione Isandar Islen Ithel Ivnor Ivoreth
+			Jarcul Jaroc Jerain Joculeer Jokleel Jondulis Judoc
+			Kaith Kariath Karloc Karnaith Karnol Kastmar Khardan Khoron Kilarn
+			Lain Landroval Ledwarn Lessenhar Lithandril Locleth Loegar Lor-Sehenlu Lorcain Lornaith Lornor Losen Lothnor Lothoth Lothrond Lucarian Lynning
+			Mahaon Maldarn Mannus Marcol Marduc Marloc Masseth Mauro Meir Mellas Melos Meneldor Meryon Meuroc Morain Moratoth Morion Mormo Mormoth Mornaith Mostyn
+			Naga-Auryaur Naga-Nymraif Nagaath Nagadel Nagawin Naisus Naith Neirion Nervath Neurvon Nim-Sethayla Nimmar Nolar Norian
+			Olachas Olandis Orainedar Oran Ordanstar Oshein Oweine Padaron Padoth Paederon Pagaroth Paran Parioth Pascarl Ponleec Ragehal Rhaes Rhoden Rhodian Rhydyhu Riane Romas Roparin Roris Rysel
+			Saetean Salesan Salicis Sayenar Scarloc Sceolan Seachel Seisel Selathoi Selva Selvic Sephian Seun Shael Singas Sinoth Skarn Skaroth Skaryn Sothr Star Sterrain Sturneel Sturnoc Suibhon Sulyn Swendbarn Sylvykultur Sylvyth Synnbor
+			Taen Tainoth Talyn Targol Taroc Tel-Auryaur Tellin Telrond Teluen Teun Teuvor Thalandor Thanala Thanwin Thorondor Thuralin Tomosair Tor-Nymraif Torian Torirlan Torn Tourenal Traevanoth Traevon Trysten Turnoc Turon Twyngor
+			Uhlsidil Ultian Urien Urvas
+			Vandaris Vannic Varnal Vaugard Vaunic Velwed Vercoc Vylan
+			Wulderith Wynas Wynneger
+			Yaldor Yannath Yelstairn Yenoc Yorath
+			Zarjra Zarmor
+			Lysanthir
+		}
+		female_names = {
+			Aderynn Aefa Aefol Aerony Aethund Aineca Aithe Alana Alastra Alfaste Alhena Alira Alis Alissa Allelda Allisara Alys Ambra Andrasta Anel Aneora Angared Anghara Annere Anwen Aprina Arahan Araline Araneir Arastone Arda Arelle Arica Arielle Arien Arsara Arwen Asphalia Astaria Astarielle Atona Avera Ayna
+			Bairethe Baldeorn Bedele Belidae Bellana Bethelan Betrias Bevane Blaeden Bleneid Boadec Bofaen Brene Brenna Briallia Brodiri
+			Cadi Caitha Caressa Caroun Cartrin Carys Catharess Catrassa Catrianna Ceinsara Ceinwyn Celana Cerri Charel Charne Charsara Chelsara Chrain Ciara Coriasta Cura
+			Darana Dedreine Delynna Devena Dil-Sethayla Draya Drya Dylaes
+			Efaena Eilia Eimella Eira Eirwain Elenor Elin Elown Eluine Eluna Elwin Eoalas Epona Erain Erhaen Erinnia Erise Eseld Eslet Estrala Etelenna Ethane Ethilien Evelyne
+			Farsara Fedela Felene Felfae Felhuir Feynaani Finwin Fion Fionise Flane Forsene Fraeda Fyien Fyna
+			Gaena Galena Garnait Gavrielle Genovia Glaesa Glenes Glorana Graine Gwarne Gwenaith Gwythear
+			Haefi Halensara Hamaela Hathdreathia Heggria Helliana Heula Hilenstar Hyled
+			Imeeria Immolde Isandra Isere Isiban Isola
+			Jaelsene Jalyn Jestyne Jorianna Jouriana
+			Kaia Kalara Kareesa Katene Khial Koria Kyra
+			Laelia Laeria Lalana Leannia Lenos Leostine Lownes Lua'loren Luned Lyme'huir Lynet Lyra
+			Macaradyn Mahtarathel Mair Mairyn Maive Maldenia Malle Malueear Marasara Mareged Margara Marian Meinwe Menra Mere Mereda Merrain Mitiaeost Morain Morgalla Moria Moriste Morlanna Morwain Muirien Myna Mythanfae Mywene
+			Nadaeth Naestra Naieth Naiethanel Naileth Nalana Nalia Narrea Neris Nesta Niama Nlaraei
+			Oanes Ohtacar'loren Olana Olwine Olymas Onor Ordaana Oria Orianna Oun Ourana Ourane Owein
+			Padain Paelia Pasara Pelennor Pendea Relene Rhiane Rhosine Riana Rigane Rosene
+			Sarane Sarene Sasa Sassira Serena Siana Sileth Sinear Siohaen Slaine Slasia Solas Stallia Stelynne Sterein Storalla Syansara Syanwen Syldane Sylvanus Synmarra
+			Taila Talana Talaun Talia Talil Tanavea Taranane Telanna Telen Tellane Telsara Tesia Tethea Tevaril Thalyssae Toiress Toria Tornane Torwynne Tyrande Tyste
+			Uasara Ulana Urielme
+			Valeera Vareesa Varsarene Veris
+			Welana Wenleath Wensara Windeir Wyswen
+			Yennica Yllonys Ysal Ysandra
+		}
+		
+		#from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+
+undead = {
+	graphical_cultures = { easterngfx }
+	
+	vampire = {
+		graphical_cultures = { carsteingfx easternslavicgfx }
+		color = { 0.2 0.0 0.0 }
+
+		male_names = {
+			Afanasiy_Athanasius Alexandr_Alexander Alexei_Alexis Andrei_Andrew Boris_Boris Briachislav_Bretislaus Daniil_Daniel Davyd_David Demid Dmitriy_Demetrius Dobrynia Fedot_Theodat Feodor_Theodore Gavriil_Gabriel Gleb
+			Grigoriy_Gregory Iakov_Jacob Igor_Ingvar Iliya Ingvar_Ingvar Ivan_John Iziaslav Kirill_Cyril Konstantin_Constantine Koz'ma_Cosmas Lev_Leo Matfei_Matthew Mikhail_Michael Mitrofan Mstislav_Mstislav
+			Nikita Oleg_Helge Pavel_Paul Putiata Radoslav Rodislav Rogvolod Roman_Roman Rostislav Rurik_Rurik Ruslan Simeon_Simon Stanislav_Stanislav Stepan_Stephen Sudislav
+			Svetozar Sviatopolk_Svatopluk Sviatoslav_Sviatoslav Terentiy Trifon Vasiliy_Basil Vasilko Viacheslav_Vaclav Vladimir_Vladimir Vladislav_Vladislav Voislav Volodar Vseslav
+			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav_Jaroslav Yefimiy Yelisey Yemelyan_Emil Yeremey Yevstafiy Yuriy_George
+		}
+		female_names = {
+			Agafya_Agatha Agrafena Alexandra_Alexandra Anastasia_Anastasia Anna_Anna Boleslava Darya Dobrava Dobronega Dobroslava Yefimia_Euphemia Yefrosinia_Euphrosyne Yekaterina_Catherine
+			Yelizaveta_Elizabeth Yevdokia_Eudocia Yevpraxia Feodora_Theodora Feodosia_Theodosia Fevronia Gorislava Gradislava Gremislava Irina_Irene Xenia Liubava
+			Liudmila_Liudmila Malfrida Malusha Maria_Maria Marina_Marine Olena_Helen Olga Pereyaslava Praskovya Praxida Prebrana Predslava Premyslava
+			Pribislava Rogneda Rostislava Sbyslava Sofia_Sophia Sviatoslava Tatyana Ulita Ulyana Varvara Vasilisa Veleslava Verkhoslava
+			Vseslava Viacheslava Yaroslava Zabava Zvenislava
+		}
+		from_dynasty_prefix = "of "
+		
+		male_patronym = "ovich"
+		female_patronym = "ovna"
+		prefix = no
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 40
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+
+feline = {
+	graphical_cultures = { catgfx }
+	
+	catfolk = {
+		graphical_cultures = { catgfx }
+		secondary_event_pictures = bengali
+		
+		color = { 0.8 0.6 0.0 }
+		male_names = {
+			Mittens Fluffy Tom Smudge Shadow Zimm Samm Misstoffelees Deuteronomy Pouncival Quaxo Mungojerrie Mozart Simba Tiger Socrates Salem Toulouse Berlioz Thomas Birk Paws
+			"Basileus Harlocke Spoops" Bazcat Furball Angry Snuggles Lucky Buttons Snowbell Cuddles Crookshanks "Mr. Bigglesworth" Spot Whiskers Lucky Juni Maow Cat Coins Panther
+			Frumpkin Chairman Meow Floof Ninja Orion Felix Tim Rowl Lister Crockett Zebedeus Syd Bear Ripper Maurice Jake Sylvester Big Talking Tom Atlas Serafettin Simon Santa Paws
+			M'aiq Vincent Hades Fëa Tyki Lavi Pan Tjockisen Lotus Morris Shadow Oscar Eskil Shadow Tommiecat Bosse Lasse Basil Zylyn Snooka Maat
+			Lord-Admiral-Edward-Hawke-First-Baron-Hawke-First-Lord-of-the-Admiralty Nimitz Katz
+		}
+		female_names = {
+			Missy Kitty Mittens Ginger Princess Bella Sigma Mysan Missan Victoria Rumpelteazer Grizabella Demeter Bombalurina Sooty Suzie Syllabub Luna Midnight Nala Tussan Selma Salem
+			Duchess Marie Signe Paws "Basileus Harlocke Spoops" Bazcat Furball Angry Snuggles Lucky Buttons Snowbell Cuddles Crookshanks "Mr. Bigglesworth" Spot Whiskers Lucky Juni Maow Cat
+			Coins Panther Frumpkin Chairman Meow Floof Poppy Yuki Mimmy Stina Witch Caline Doortje Cwtch Tina River Cleo Willow Chloe Bastet Mafdet Aeris Tonks Lisa Myran Lillkissen Daisy
+			Sekhmet Nova Birdie Mynta Molly Tjoppan Nyanners Suki Isis Masika Caliope Sor-Juana-Inés-de-la-Cruz Mitzi Mischief Smilla Aggi
+			Sedna
+		}
+		
+		dynasty_title_names = yes
+
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 25
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}
+}
+
+halfling = {
+	graphical_cultures = { sartosangfx mongolgfx muslimgfx }
+	
+	lightfoot = {
+		graphical_cultures = { sartosangfx mongolgfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.4 0.4 1.0 }
+
+		male_names = {
+			Abagha Achigh Aguchu Ajai Ajinai Akhutai Alagh Alchi Alchidai Altan Ambaghai Arkhai Arasen Babur Badai Bagaridai Bala Barghujin Bartan Batu Bedugun Begter Belgutei
+			Belgunutei Bilge Berke Bodonchar Bogen Bogorchu Bolkhadar Borjigidai Boroghul Bughu Bugidai Bugunutei Bujeg Bukha Bulughan Buri Burkhan Burundai Chagatai Chaghagan Chanai Chigu
+			Chidukhul Chilagun Chiledu Chormakhan Chulgetei Dagun Daritai Dayir Dodai Duua Eljigedei Ghazan Ghunan Guchu Gughlug Guyug Harghasun Horkhudagh Hulegu Husun Inalchi Inancha Iturgen 
+			Jajiradai Jamugha Jebe Jochi Jurchedei Khabichi Khachi Khachigun Khadagh Khagatai Khaidu Khal Khorchi Khorilartai Khubilai Khudu Khutula Khuyildar Kogsegu Kokochu Megetu Megujin
+			Menggei Mongke Morokha Munglig Nakhu Narin Nayaga Nogai Odchigin Ogodei Okhotur Oljaitu Oronartai Shiraghul Shirgugetu Subetei Suyiketu Taghai Tamachi Targhutai Temuge Temujin Temur_Timur
+			Todogen Toghoril Toghtoga Tokhtamis Tolui Torolchi Tumen Uighurtai Ukhuna Usun Yedi Yegu Yeke Yesugei Yesunge Yokhunan Kadan Godan
+		}
+		female_names = {
+			Al-Alta Alan Altani Borte Botokhui Bulughan Chabi Chagur Chakha Checheyigen Chotan Doregene Doquz Ebegei Gurbesu Hogelun Holuikhan Ibakha Khadagan Khogaghchin Khojin Khorijin Khugurchin Khulan Khutulun Mandukhai Mongoljin Nomolun Oghul Orbei Sokhatai Sorkhaghatani Tekine Temulun Toregene Yesugun Yesui Hoelun
+		}
+		
+		from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+	}
+}
+
+dwarven = {
+	graphical_cultures = { dwarfgfx norsegfx }
+	
+	dvort = {
+		graphical_cultures = { dwarfgfx norsegfx }
+		
+		color = { 0.3 0.55 0.8 }
+		
+		# Th 222 Th 254 th 208 th 240 æ
+		
+		male_names = {
+			Albrikt_Albert Alf_Alf Algot Anders_Andrew Anund_Anund Arnbjorn Arne Arnfast Asbjorn Astrad Azur Bagge Balder_Balder Bengt_Benedict Bertil_Berthold Birger Bjorn Bo Borkvard Botulf_Botulf Brage_Brage Bror 
+			Brynjolf Dag Dan Dyre Egil_Egil Einar_Einar Emund Erik_Erik Eskild Faste Fredrik_Frederick Filip_Philip Folke_Folke Frej_Frej Georg_George Greger_Gregory Grim_Grim Gudrod Gunnar_Gunnar Gustav Halsten Hans_Hans Harald_Harold
+			Helgi_Helge Henrik_Henry Hjalmar_Hjalmar Holmger HAkan_Hakon Inge_Ingolf Ingemar Ingvar_Ingvar Jedvard_Edward Johan_John Karl_Charles Kettil Kettilmund Klas_Nicholas Knut_Knut Kol Kolbjorn Lars_Laurence Magnus_Magnus Markus_Marcus 
+			Mats_Matthew Nils_Nicholas Niklas_Nicholas Odd_Odd Olaf_Olaf Orvar_Orvar Peder_Peter Ragnar_Rainer Rolf_Rolf Rurik Ragnvald_Ragnvald Sämund_Sämund Sorkver Sigbjorn Sigtrygg Sigurd_Sigurd Starkad_Starkad Sten_Sten Styrbjorn Sune_Sune Sven_Sven
+			Sverker Solve Thomas_Thomas Tjudmund_Tjudmund Toke_Toke Tolir Torbjorn_Torbjorn Tord_Tord Torbrand_Torbrand Torfinn_Torfinn Torkel_Torkel Torolf_Thorolf Torsten_Torsten Toste Totil Tyke Ulf_Ulf Valdemar_Vladimir Ake osten_Eysteinn 
+		}
+		female_names = {
+			Aleta Alfhildr_Alfhild Alfrith_Alfridh Alvor Anna_Anna Asa_Asa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid Bjorg Bodil Bothildr_Bothild Cecilia_Cecilia
+			Edla Elin Elisabet_Elizabeth Freyja_Freja Gerthr Gloth Grima Gunnhildr_Gunhild Gurli Guthrun_Gudrun Gyla Gyrith Gytha_Gytha Hafrid Halla Helena_Helen Holmfrid
+			Iliana Inga_Inge Ingfrid Ingibjorg_Ingeborg Ingjerthr_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
+			Malmfrith_Malmfrid Margareta_Margaret Maria_Maria Rikissa Rognfrith_Ragnfrid Rognhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
+			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa_Ursula Thora_Thora Thordis_Thordis Thyra_Thyra
+		}
+		
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+		
+		from_dynasty_prefix = "af "
+		founder_named_dynasties = yes
+		
+		male_patronym = "sson"
+		female_patronym = "sdottir"
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+
+greenskin = {
+	graphical_cultures = { orcgfx frankishgfx westerngfx }
+	
+	orc = {
+		graphical_cultures = { orcgfx frankishgfx westerngfx }
+		
+		color = { 0.0 0.8 0.0 }
+		male_names = {
+			Arag Adorg Arak Arbad Arbang Arbla Arbog Arbrag Arbus Arbuttz Arga Argash Arged Argok Argor Argorak Argrek Argruk Argut Arhag Arhak Arko Arla Arlok Arlud Arnar Arrak Arrat Arrgard Arruk Arum Azag Azaramag Azbad Azbang Azbla Azbog Azbus Azgash Azged Azgok Azgorak Azgruk Azgut Azhag Azhak Azla Azlok Aznar Azock Azrak Azruk Azum Badbag Badbang Badbla Badgut Badhag Badruk Baldagran Balst Banak Bang Basha Bashag Bashak Bashbang Bashbla Bashbrag Bashga Bashgor Bashgrek Bashgut Bashko Bashlud Bashrat Bazag Bazak Bazbad Bazbang Bazbla Bazbog Bazbrag Bazbus Bazga Bazgash Bazged Bazgok Bazgor Bazgorak Bazgrek Bazgruk Bazgut Bazhag Bazhak Bazko Bazla Bazlok Bazlud Baznar Bazrak Bazrat Bazruk Bazum Beast Bedish Begga Belig Berag Bigag Bigbad Bigbang Bigbla Bigbog Bigbrain Bigbus Bigg Bigga Biggash Bigged Biggok Biggorak Biggruk Biggut Bighag Bighak Bighead Bigla Biglok Biglug Bignar Bigrak Bigruk Bigtoof Bigum Bilik Blakka Blaktoof Blanek Blarg Blazes Blitz Blorg Blud Bludcrumpa Bludd Bluddy Bludgor Bogg Bogga Bogga-Bogga Boirag Bolck Bone Borbang Borbla Borg Borgut Borhag Borkak Borkbang Borkbla Borkbrag Borkga Borkgor Borkgrek Borkgut Borkhag Borkko Borklud Borkrat Brabad Brabang Brabla Brabog Brabrag Brabus Brag Braga Bragash Braged Bragok Bragor Bragorak Bragrek Bragruk Bragut Brahag Brahak Brak Brako Brala Bralok Bralud Branar Brarak Brarat Braruk Braum Bresh Brotgar Bruck Brug Buchak Bug Bugblat Bugwort Buzag Buzbad Buzbang Buzbla Buzbog Buzbus Buzgash Buzged Buzgok Buzgorak Buzgruk Buzgut Buzhag Buzhak Buzla Buzlok Buznar Buzrak Buzruk Buzum Chatak Chewa Choppa Coruck Crackbang Crackbla Crackgut Crackhag Craggy Crakker Cro Crom Crum Crumpa Crusha Crusher Curz Curznack Dagor Daruk Daxtor Deada Deady Del Dirzs Ditak Ditbang Ditbla Ditbrag Ditga Ditgor Ditgrek Ditgut Dithag Ditko Ditlud Ditrat Ditz Doing Dorag Dorak Dorbad Dorbang Dorbla Dorbog Dorbrag Dorbus Dorg Dorga Dorgash Dorged Dorgok Dorgor Dorgorak Dorgrek Dorgruk Dorgut Dorhag Dorhak Dork Dorkag Dorkbad Dorkbang Dorkbla Dorkbog Dorkbus Dorkgash Dorkged Dorkgok Dorkgorak Dorkgrut Dorkgut Dorkhag Dorkhak Dorkla Dorklok Dorknar Dorko Dorkrak Dorkruk Dorkum Dorla Dorlok Dorlud Dornar Dorrak Dorrat Dorruk Dorum Dozz Dragga Dragnatz Drakk Drogbang Drogbla Droggut Droghag Headcrumpa Earbite Egg Erg Firan Fishnag Foihai Foisin Forg Fugrat Fumak Fumbang Fumbla Fumbrag Fumga Fumgor Fumgrek Fumgut Fumhag Fumko Fumlud Fumprat Gabag Gabak Gabbad Gabbang Gabbla Gabbog Gabbrag Gabbus Gabga Gabgash Gabged Gabgok Gabgor Gabgorak Gabgrek Gabgruk Gabgut Gabhag Gabhak Gabko Gabla Gablok Gablud Gabnar Gabrak Gabrat Gabruk Gabum Garagnak Garbad Gargash Garshul Garskrak Garuk Garzulk Gatag Gatbad Gatbang Gatbla Gatbog Gatbus Gatgash Gatged Gatgok Gatgorak Gatgruk Gatgut Gathag Gathak Gatla Gatlok Gatnar Gatrak Gatruk Gatum Gawbang Gawbla Gawgut Gawhag Gaz Gazbag Gazgrim Gazz Gefur Gharag Gharkul Ghenghiz Ghorag Ghorak Ghorbad Ghorbang Ghorbla Ghorbog Ghorbrag Ghorbus Ghorga Ghorgash Ghorged Ghorgok Ghorgor Ghorgorak Ghorgrek Ghorgruk Ghorgut Ghorhag Ghorhak Ghorko Ghorla Ghorlok Ghorlud Ghornar Ghorrak Ghorrat Ghorruk Ghorum Girch Git Gitboy Gitgit Gitzmott Glarek Glersh Glum Gnashag Gnashak Gnashbang Gnashbla Gnashbrag Gnashga Gnashgor Gnashgrek Gnashgut Gnashko Gnashlud Gnashrak Gnashrat Godstompa Godush Gogard Goigdish Gong Gor Gorag Gorbad Gorbang Gorbla Gorbog Gorbuck Gorbus Gorfang Gorgash Gorged Gorgok Gorgorak Gorgruk Gorgut Gorgutz Gorhag Gorhak Gorla Gorlok Gornar Gorrak Gorruk Gortork Gorum Gorzun Grabang Grabla Gragnatz Gragut Grahag Grax Grimak Grimbang Grimbla Grimbrag Grimfang Grimga Grimgor Grimgrek Grimgut Grimhag Grimko Grimlud Grimrat Grimshank Grimskull Grimtoof Grimtusk Grishnag Grishnak Gristle Grizgutz Groblonik Grodush Grog Groidish Groifur Groik Grolg Grom Groshpit Grotag Grotak Grotbad Grotbang Grotbla Grotbog Grotbrag Grotbus Grotga Grotgash Grotged Grotgok Grotgorak Grotgot Grotgrek Grotgruk Grotgut Grothag Grothak Grotko Grotla Grotlok Grotlud Grotnar Grotrak Grotrat Grotruk Grotum Grughakh Guffag Guffbad Guffbang Guffbla Guffbog Guffbus Guffgash Guffged Guffgok Guffgorak Guffgruk Guffgut Guffhag Guffhak Guffla Gufflok Guffnar Guffrak Guffruk Guffum Gulgrog Gurk Guts Gutshredda Gutstompa Guzzbang Guzzbla Guzzgut Guzzhag Haalesh Hackak Hackbang Hackbla Hackbrag Hackga Hackgor Hackgrek Hackgut Hackhag Hacklud Hacko Hackrat Hafur Hali Halok Hassz Hirt Hisz Hoigor Hoiran Holg Horat Hruk Hugruck Humiehacka Iggrik Igror Imag Imak Imbad Imbang Imbla Imbog Imbrag Imbus Imga Imgash Imged Imgok Imgor Imgorak Imgrek Imgruk Imhag Imhak Imko Imla Imlok Imlud Imnar Imrak Imrat Imruk Imum Irksiz Irongol Ironskull Irontoof Irsz Izbest Izbigga Izboss Iztuff Jugga Jugrog Kalbaz Kalok Kanak Keng Khorga Kil Killa Killbot Killdagga Killdoza Killzkar Kirat Klag Klawjaw Kleebad Kleebang Kleebla Kleebog Kleebus Kleegash Kleeged Kleegok Kleegorak Kleegruk Kleegut Kleehag Kleehak Kleela Kleelok Kleenar Kleerak Kleeruk Klum Kog Kogdish Kogtoof Koink Koirag Kokar Kolok Komak Korbul Korin Kourk Kraka Krumbang Krumbla Krumgut Krumhag Krump Kull Kurak Kurbang Kurbla Kurbrag Kurga Kurgor Kurgrek Kurgut Kurhag Kurko Kurlud Kurrat Kutx Labbal Labur Lemak Lirk Lizkaz Loigdish Lonai Lorg Ludbag Lurz Maboi Madbraka Mag Magash Maggra Marag Marak Marbad Marbang Marbla Marbog Marbrag Marbus Marga Margash Marged Margok Margor Margorak Margrek Margruk Margut Marhag Marhak Marko Marla Marlok Marlud Marnar Marrak Marrat Marruk Marum Mash Merag Mitz Mizulz Mogat Mogdush Moggra Moibur Molal Morag Morbaag Morbad Morbang Morbla Morbog Morbus Morgash Morged Morglum Morgok Morgorak Morgruk Morgut Morhag Morhak Morish Morla Morlok Mornar Morrak Morruk Morum Mroal Mroxk Murz Nagbang Nagbla Naggut Naghag Nalden Nashrak Naszuss Nathak Naz Nazak Nazbang Nazbla Nazbrag Nazdreg Nazga Nazgor Nazgrek Nazgut Nazhag Nazko Nazlud Nazrat Nerzul Nhabad Nhabang Nhabla Nhabog Nhabrag Nhabus Nhag Nhaga Nhagash Nhaged Nhagok Nhagor Nhagorak Nhagrek Nhagruk Nhagut Nhahag Nhahak Nhak Nhako Nhala Nhalok Nhalud Nhanar Nharak Nharat Nharuk Nhum Nibag Nibbad Nibbang Nibbla Nibbog Nibbus Nibgash Nibged Nibgok Nibgorak Nibgruk Nibgut Nibhag Nibhak Nibla Niblok Nibnar Nibrak Nibruk Nibum Nidush Nirk Nirkz Niruk Niz Noggbang Noggbla Nogger Nogghag Noggut Nokar Nool Nurk Nurkak Nurkbang Nurkbla Nurkbrag Nurkga Nurkgor Nurkgrek Nurkgut Nurkhag Nurklud Nurko Nurkrat Ogag Ogak Ogbad Ogbang Ogbla Ogbog Ogbrag Ogbus Ogga Oggash Ogged Oggok Oggor Oggorak Oggrek Oggruk Oggut Oghag Oghak Ogko Ogla Oglok Oglud Ognar Ograk Ograt Ogruk Ogum Olg Orcamungus Orcker Orcrates Ork Orky Orz Owag Owbad Owbang Owbla Owbog Owbus Owgash Owged Owgok Owgorak Owgruk Owgut Owhag Owhak Owla Owlok Ownar Owrak Owruk Owum Pang Pash Patches Patchy Paunch Podish Poirag Polir Ponk Porbang Porbla Porgut Porhag Pralok Pramak Prart Progg Prognar Prorag Pruk Pulo Puzz Qarsh Rabur Ragak Ragbang Ragbla Ragbrag Ragga Raggor Raggrek Raggut Raghag Ragko Raglud Ragrat Rakk Rarguts Reezulz Regdish Rekkfist Rik Ripper Rirag Rirkz Risil Ritz Romli Ronak Rong Roruk Rotgrub Rugag Rugak Rugbad Rugbang Rugbla Rugbog Rugbrag Rugbus Rugga Ruggash Rugged Ruggok Ruggor Ruggorak Ruggrek Ruggruk Ruggut Rughag Rughak Rugko Rugla Ruglok Ruglud Rugnar Rugrak Rugrat Rugruk Rugum Rukkrippa Ruknor Rurduk Rust Sedish Serbag Shabad Shabang Shabla Shabog Shabus Shagag Shagash Shaged Shagok Shagorak Shagrax Shagruk Shagut Shahag Shahak Shala Shalok Shanar Sharak Sharuk Shazbot Shum Shurz Sizzbang Sizzbla Sizzgut Sizzhag Skabrag Skarak Skarbang Skarbla Skarfang Skarga Skargor Skargrek Skargrim Skargut Skarhag Skarko Skarlud Skarrat Skorcha Skreezulz Skroll Skullkrak Skullkrumpa Slagag Slagak Slagbad Slagbang Slagbla Slagbog Slagbrag Slagbus Slagga Slaggash Slagged Slaggok Slaggor Slaggorak Slaggrek Slaggruk Slaggut Slaghag Slaghak Slagko Slagla Slaglok Slaglud Slagnar Slagrak Slagrat Slagruk Slagum Smashface Snaggra Snagratoof Snagrod Snappa Snatz Snutz Soihai Squigger Tagor Takesh Taubad Taubang Taubla Taubog Taubus Taug Taugash Tauged Taugok Taugorak Taugruk Taugut Tauhag Tauhak Taula Taulok Taunar Taurak Tauruk Tazuk Togor Toignar Tokash Tolak Trakk Trogg Tum Tuska Tusker Ug Ugbang Ugbla Ugblitz Ugg Uggut Ughag Uglug Ugskraga Ugwort Ulak Ulbang Ulbla Ulbrag Ulga Ulgor Ulgrek Ulko Ullud Ulrat Ummag Ummak Ummbad Ummbang Ummbla Ummbog Ummbrag Ummbus Ummga Ummgash Ummged Ummgok Ummgor Ummgorak Ummgrek Ummgruk Ummhak Ummko Ummla Ummlok Ummlud Ummnar Ummrak Ummrat Ummruk Ummum Ungskar Urag Urbad Urbang Urbla Urbog Urbus Urdgrub Urdish Urduz Urgash Urged Urgloc Urgnurk Urgok Urgorak Urgot Urgruk Urhak Urk Urkbang Urkbla Urkk Urla Urlok Urnar Urrak Urrlak Urruk Uruk Urum Urzog Vadash Vagak Vagan Vagdush Varag Vargall Vedex Vinak Voinak Vomak Voran Vorgnot Vork Vrilg Vrolg Vurk Warzog Wirg Wizzak Wizzbang Wizzbla Wizzbrag Wizzga Wizzgor Wizzgrek Wizzko Wizzlud Wizzrat Wooshag Wooshak Wooshbad Wooshbang Wooshbla Wooshbog Wooshbrag Wooshbus Wooshga Wooshgash Wooshged Wooshgok Wooshgor Wooshgorak Wooshgrek Wooshgruk Wooshko Wooshla Wooshlok Wooshlud Wooshnar Wooshrak Wooshrat Wooshruk Wooshum Worg Wot Wugzark Wurag Wurg Wurrag Wurrak Wurrbad Wurrbang Wurrbla Wurrbog Wurrbus Wurrgash Wurrged Wurrgok Wurrgorak Wurrgruk Wurrhak Wurrla Wurrlok Wurrnar Wurruk Wurrum Wurz Wurzag Yagg Yarrik Yogg Yorrik Yurt Yurz Zagog Zakk Zanzag Zaort Zap Zarg Zast Zedax Zhadsnark Zog Zogbang Zogbla Zogg Zogger Zoggit Zogwart Zorak Zorbang Zorbla Zorbrag Zorg Zorga Zorgor Zorgrek Zorko Zorlud Zorrat Zort Zug Zugg Zulbag Zulbash Zulrat 
+		}
+		female_names = {
+			Bdaset Bite Bizzle Blib Blotty Bogoexr Bred Btesg Doz Ekalim Faq Ferenghi Gkobat Grot Grott Grotty Kzed Lotty Mab Mazy Meal Moretar Mtan Munch Nilbog Nmatub Nozudg Origol Puff Rikkitikki Rundo Sber Serugz Shakog Shisho Splib Splog Sprog Squeebles Squik Squog Teeny Temn Ten Tiny Toerag Toss Tosukg Turbogz Winky Xob Zogubd 
+		}
+		from_dynasty_prefix = "orc"
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+	horsc = {
+		graphical_cultures = { orcgfx frankishgfx westerngfx }
+		
+		color = { 0.3 0.8 0.0 }
+		male_names = {
+			Arag Adorg Arak Arbad Arbang Arbla Arbog Arbrag Arbus Arbuttz Arga Argash Arged Argok Argor Argorak Argrek Argruk Argut Arhag Arhak Arko Arla Arlok Arlud Arnar Arrak Arrat Arrgard Arruk Arum Azag Azaramag Azbad Azbang Azbla Azbog Azbus Azgash Azged Azgok Azgorak Azgruk Azgut Azhag Azhak Azla Azlok Aznar Azock Azrak Azruk Azum Badbag Badbang Badbla Badgut Badhag Badruk Baldagran Balst Banak Bang Basha Bashag Bashak Bashbang Bashbla Bashbrag Bashga Bashgor Bashgrek Bashgut Bashko Bashlud Bashrat Bazag Bazak Bazbad Bazbang Bazbla Bazbog Bazbrag Bazbus Bazga Bazgash Bazged Bazgok Bazgor Bazgorak Bazgrek Bazgruk Bazgut Bazhag Bazhak Bazko Bazla Bazlok Bazlud Baznar Bazrak Bazrat Bazruk Bazum Beast Bedish Begga Belig Berag Bigag Bigbad Bigbang Bigbla Bigbog Bigbrain Bigbus Bigg Bigga Biggash Bigged Biggok Biggorak Biggruk Biggut Bighag Bighak Bighead Bigla Biglok Biglug Bignar Bigrak Bigruk Bigtoof Bigum Bilik Blakka Blaktoof Blanek Blarg Blazes Blitz Blorg Blud Bludcrumpa Bludd Bluddy Bludgor Bogg Bogga Bogga-Bogga Boirag Bolck Bone Borbang Borbla Borg Borgut Borhag Borkak Borkbang Borkbla Borkbrag Borkga Borkgor Borkgrek Borkgut Borkhag Borkko Borklud Borkrat Brabad Brabang Brabla Brabog Brabrag Brabus Brag Braga Bragash Braged Bragok Bragor Bragorak Bragrek Bragruk Bragut Brahag Brahak Brak Brako Brala Bralok Bralud Branar Brarak Brarat Braruk Braum Bresh Brotgar Bruck Brug Buchak Bug Bugblat Bugwort Buzag Buzbad Buzbang Buzbla Buzbog Buzbus Buzgash Buzged Buzgok Buzgorak Buzgruk Buzgut Buzhag Buzhak Buzla Buzlok Buznar Buzrak Buzruk Buzum Chatak Chewa Choppa Coruck Crackbang Crackbla Crackgut Crackhag Craggy Crakker Cro Crom Crum Crumpa Crusha Crusher Curz Curznack Dagor Daruk Daxtor Deada Deady Del Dirzs Ditak Ditbang Ditbla Ditbrag Ditga Ditgor Ditgrek Ditgut Dithag Ditko Ditlud Ditrat Ditz Doing Dorag Dorak Dorbad Dorbang Dorbla Dorbog Dorbrag Dorbus Dorg Dorga Dorgash Dorged Dorgok Dorgor Dorgorak Dorgrek Dorgruk Dorgut Dorhag Dorhak Dork Dorkag Dorkbad Dorkbang Dorkbla Dorkbog Dorkbus Dorkgash Dorkged Dorkgok Dorkgorak Dorkgrut Dorkgut Dorkhag Dorkhak Dorkla Dorklok Dorknar Dorko Dorkrak Dorkruk Dorkum Dorla Dorlok Dorlud Dornar Dorrak Dorrat Dorruk Dorum Dozz Dragga Dragnatz Drakk Drogbang Drogbla Droggut Droghag Headcrumpa Earbite Egg Erg Firan Fishnag Foihai Foisin Forg Fugrat Fumak Fumbang Fumbla Fumbrag Fumga Fumgor Fumgrek Fumgut Fumhag Fumko Fumlud Fumprat Gabag Gabak Gabbad Gabbang Gabbla Gabbog Gabbrag Gabbus Gabga Gabgash Gabged Gabgok Gabgor Gabgorak Gabgrek Gabgruk Gabgut Gabhag Gabhak Gabko Gabla Gablok Gablud Gabnar Gabrak Gabrat Gabruk Gabum Garagnak Garbad Gargash Garshul Garskrak Garuk Garzulk Gatag Gatbad Gatbang Gatbla Gatbog Gatbus Gatgash Gatged Gatgok Gatgorak Gatgruk Gatgut Gathag Gathak Gatla Gatlok Gatnar Gatrak Gatruk Gatum Gawbang Gawbla Gawgut Gawhag Gaz Gazbag Gazgrim Gazz Gefur Gharag Gharkul Ghenghiz Ghorag Ghorak Ghorbad Ghorbang Ghorbla Ghorbog Ghorbrag Ghorbus Ghorga Ghorgash Ghorged Ghorgok Ghorgor Ghorgorak Ghorgrek Ghorgruk Ghorgut Ghorhag Ghorhak Ghorko Ghorla Ghorlok Ghorlud Ghornar Ghorrak Ghorrat Ghorruk Ghorum Girch Git Gitboy Gitgit Gitzmott Glarek Glersh Glum Gnashag Gnashak Gnashbang Gnashbla Gnashbrag Gnashga Gnashgor Gnashgrek Gnashgut Gnashko Gnashlud Gnashrak Gnashrat Godstompa Godush Gogard Goigdish Gong Gor Gorag Gorbad Gorbang Gorbla Gorbog Gorbuck Gorbus Gorfang Gorgash Gorged Gorgok Gorgorak Gorgruk Gorgut Gorgutz Gorhag Gorhak Gorla Gorlok Gornar Gorrak Gorruk Gortork Gorum Gorzun Grabang Grabla Gragnatz Gragut Grahag Grax Grimak Grimbang Grimbla Grimbrag Grimfang Grimga Grimgor Grimgrek Grimgut Grimhag Grimko Grimlud Grimrat Grimshank Grimskull Grimtoof Grimtusk Grishnag Grishnak Gristle Grizgutz Groblonik Grodush Grog Groidish Groifur Groik Grolg Grom Groshpit Grotag Grotak Grotbad Grotbang Grotbla Grotbog Grotbrag Grotbus Grotga Grotgash Grotged Grotgok Grotgorak Grotgot Grotgrek Grotgruk Grotgut Grothag Grothak Grotko Grotla Grotlok Grotlud Grotnar Grotrak Grotrat Grotruk Grotum Grughakh Guffag Guffbad Guffbang Guffbla Guffbog Guffbus Guffgash Guffged Guffgok Guffgorak Guffgruk Guffgut Guffhag Guffhak Guffla Gufflok Guffnar Guffrak Guffruk Guffum Gulgrog Gurk Guts Gutshredda Gutstompa Guzzbang Guzzbla Guzzgut Guzzhag Haalesh Hackak Hackbang Hackbla Hackbrag Hackga Hackgor Hackgrek Hackgut Hackhag Hacklud Hacko Hackrat Hafur Hali Halok Hassz Hirt Hisz Hoigor Hoiran Holg Horat Hruk Hugruck Humiehacka Iggrik Igror Imag Imak Imbad Imbang Imbla Imbog Imbrag Imbus Imga Imgash Imged Imgok Imgor Imgorak Imgrek Imgruk Imhag Imhak Imko Imla Imlok Imlud Imnar Imrak Imrat Imruk Imum Irksiz Irongol Ironskull Irontoof Irsz Izbest Izbigga Izboss Iztuff Jugga Jugrog Kalbaz Kalok Kanak Keng Khorga Kil Killa Killbot Killdagga Killdoza Killzkar Kirat Klag Klawjaw Kleebad Kleebang Kleebla Kleebog Kleebus Kleegash Kleeged Kleegok Kleegorak Kleegruk Kleegut Kleehag Kleehak Kleela Kleelok Kleenar Kleerak Kleeruk Klum Kog Kogdish Kogtoof Koink Koirag Kokar Kolok Komak Korbul Korin Kourk Kraka Krumbang Krumbla Krumgut Krumhag Krump Kull Kurak Kurbang Kurbla Kurbrag Kurga Kurgor Kurgrek Kurgut Kurhag Kurko Kurlud Kurrat Kutx Labbal Labur Lemak Lirk Lizkaz Loigdish Lonai Lorg Ludbag Lurz Maboi Madbraka Mag Magash Maggra Marag Marak Marbad Marbang Marbla Marbog Marbrag Marbus Marga Margash Marged Margok Margor Margorak Margrek Margruk Margut Marhag Marhak Marko Marla Marlok Marlud Marnar Marrak Marrat Marruk Marum Mash Merag Mitz Mizulz Mogat Mogdush Moggra Moibur Molal Morag Morbaag Morbad Morbang Morbla Morbog Morbus Morgash Morged Morglum Morgok Morgorak Morgruk Morgut Morhag Morhak Morish Morla Morlok Mornar Morrak Morruk Morum Mroal Mroxk Murz Nagbang Nagbla Naggut Naghag Nalden Nashrak Naszuss Nathak Naz Nazak Nazbang Nazbla Nazbrag Nazdreg Nazga Nazgor Nazgrek Nazgut Nazhag Nazko Nazlud Nazrat Nerzul Nhabad Nhabang Nhabla Nhabog Nhabrag Nhabus Nhag Nhaga Nhagash Nhaged Nhagok Nhagor Nhagorak Nhagrek Nhagruk Nhagut Nhahag Nhahak Nhak Nhako Nhala Nhalok Nhalud Nhanar Nharak Nharat Nharuk Nhum Nibag Nibbad Nibbang Nibbla Nibbog Nibbus Nibgash Nibged Nibgok Nibgorak Nibgruk Nibgut Nibhag Nibhak Nibla Niblok Nibnar Nibrak Nibruk Nibum Nidush Nirk Nirkz Niruk Niz Noggbang Noggbla Nogger Nogghag Noggut Nokar Nool Nurk Nurkak Nurkbang Nurkbla Nurkbrag Nurkga Nurkgor Nurkgrek Nurkgut Nurkhag Nurklud Nurko Nurkrat Ogag Ogak Ogbad Ogbang Ogbla Ogbog Ogbrag Ogbus Ogga Oggash Ogged Oggok Oggor Oggorak Oggrek Oggruk Oggut Oghag Oghak Ogko Ogla Oglok Oglud Ognar Ograk Ograt Ogruk Ogum Olg Orcamungus Orcker Orcrates Ork Orky Orz Owag Owbad Owbang Owbla Owbog Owbus Owgash Owged Owgok Owgorak Owgruk Owgut Owhag Owhak Owla Owlok Ownar Owrak Owruk Owum Pang Pash Patches Patchy Paunch Podish Poirag Polir Ponk Porbang Porbla Porgut Porhag Pralok Pramak Prart Progg Prognar Prorag Pruk Pulo Puzz Qarsh Rabur Ragak Ragbang Ragbla Ragbrag Ragga Raggor Raggrek Raggut Raghag Ragko Raglud Ragrat Rakk Rarguts Reezulz Regdish Rekkfist Rik Ripper Rirag Rirkz Risil Ritz Romli Ronak Rong Roruk Rotgrub Rugag Rugak Rugbad Rugbang Rugbla Rugbog Rugbrag Rugbus Rugga Ruggash Rugged Ruggok Ruggor Ruggorak Ruggrek Ruggruk Ruggut Rughag Rughak Rugko Rugla Ruglok Ruglud Rugnar Rugrak Rugrat Rugruk Rugum Rukkrippa Ruknor Rurduk Rust Sedish Serbag Shabad Shabang Shabla Shabog Shabus Shagag Shagash Shaged Shagok Shagorak Shagrax Shagruk Shagut Shahag Shahak Shala Shalok Shanar Sharak Sharuk Shazbot Shum Shurz Sizzbang Sizzbla Sizzgut Sizzhag Skabrag Skarak Skarbang Skarbla Skarfang Skarga Skargor Skargrek Skargrim Skargut Skarhag Skarko Skarlud Skarrat Skorcha Skreezulz Skroll Skullkrak Skullkrumpa Slagag Slagak Slagbad Slagbang Slagbla Slagbog Slagbrag Slagbus Slagga Slaggash Slagged Slaggok Slaggor Slaggorak Slaggrek Slaggruk Slaggut Slaghag Slaghak Slagko Slagla Slaglok Slaglud Slagnar Slagrak Slagrat Slagruk Slagum Smashface Snaggra Snagratoof Snagrod Snappa Snatz Snutz Soihai Squigger Tagor Takesh Taubad Taubang Taubla Taubog Taubus Taug Taugash Tauged Taugok Taugorak Taugruk Taugut Tauhag Tauhak Taula Taulok Taunar Taurak Tauruk Tazuk Togor Toignar Tokash Tolak Trakk Trogg Tum Tuska Tusker Ug Ugbang Ugbla Ugblitz Ugg Uggut Ughag Uglug Ugskraga Ugwort Ulak Ulbang Ulbla Ulbrag Ulga Ulgor Ulgrek Ulko Ullud Ulrat Ummag Ummak Ummbad Ummbang Ummbla Ummbog Ummbrag Ummbus Ummga Ummgash Ummged Ummgok Ummgor Ummgorak Ummgrek Ummgruk Ummhak Ummko Ummla Ummlok Ummlud Ummnar Ummrak Ummrat Ummruk Ummum Ungskar Urag Urbad Urbang Urbla Urbog Urbus Urdgrub Urdish Urduz Urgash Urged Urgloc Urgnurk Urgok Urgorak Urgot Urgruk Urhak Urk Urkbang Urkbla Urkk Urla Urlok Urnar Urrak Urrlak Urruk Uruk Urum Urzog Vadash Vagak Vagan Vagdush Varag Vargall Vedex Vinak Voinak Vomak Voran Vorgnot Vork Vrilg Vrolg Vurk Warzog Wirg Wizzak Wizzbang Wizzbla Wizzbrag Wizzga Wizzgor Wizzgrek Wizzko Wizzlud Wizzrat Wooshag Wooshak Wooshbad Wooshbang Wooshbla Wooshbog Wooshbrag Wooshbus Wooshga Wooshgash Wooshged Wooshgok Wooshgor Wooshgorak Wooshgrek Wooshgruk Wooshko Wooshla Wooshlok Wooshlud Wooshnar Wooshrak Wooshrat Wooshruk Wooshum Worg Wot Wugzark Wurag Wurg Wurrag Wurrak Wurrbad Wurrbang Wurrbla Wurrbog Wurrbus Wurrgash Wurrged Wurrgok Wurrgorak Wurrgruk Wurrhak Wurrla Wurrlok Wurrnar Wurruk Wurrum Wurz Wurzag Yagg Yarrik Yogg Yorrik Yurt Yurz Zagog Zakk Zanzag Zaort Zap Zarg Zast Zedax Zhadsnark Zog Zogbang Zogbla Zogg Zogger Zoggit Zogwart Zorak Zorbang Zorbla Zorbrag Zorg Zorga Zorgor Zorgrek Zorko Zorlud Zorrat Zort Zug Zugg Zulbag Zulbash Zulrat 
+		}
+		female_names = {
+			Bdaset Bite Bizzle Blib Blotty Bogoexr Bred Btesg Doz Ekalim Faq Ferenghi Gkobat Grot Grott Grotty Kzed Lotty Mab Mazy Meal Moretar Mtan Munch Nilbog Nmatub Nozudg Origol Puff Rikkitikki Rundo Sber Serugz Shakog Shisho Splib Splog Sprog Squeebles Squik Squog Teeny Temn Ten Tiny Toerag Toss Tosukg Turbogz Winky Xob Zogubd 
+		}
+		from_dynasty_prefix = "orc"
+		founder_named_dynasties = yes
+		
+		nomadic_in_alt_start = yes
+
+		modifier = default_culture_modifier
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+}
+
+immortal = {
+	celestial = {
+		graphical_cultures = { caledoriangfx southerngfx westerngfx }
+		
+		color = { 0.95 0.95 0.75 }
+
+		male_names = {
+			Abbondanzio Abbondio Abelardo_Abelard Abelino Achille Adalberto_Albert Adelfo Adelmio_Adelmo Adelmo_Adelmo Adone Adriano_Adrian Agapito Agostino_Augustine Aimone Alamanno Alarico_Alaric
+			Albano Alberico Alberto_Albert Albino Alboino_Alwin Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio_Alexis Alighiero Alvise Ambrogio_Ambrosius Amedeo Anastasio_Anastasius Andrea_Andrew Angelo_Angel Annibale Anselmo_Anselm Antonino_Antoninus Antonio_Antonius Antoniotto Arcibaldo_Archibald Arderico Armando_Armand Arnolfo_Arnulf Arrigo Arsenio Artemio Ascanio Astorre
+			Atenolfo_Atenulf Attilio Augusto_August Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino_Baldwin Barnaba_Barnabas Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso
+			Battista Beltrano_Bertrand Benedetto_Benedict Benvenuto Berardo Bernabò_Barnabas Bernardo_Bernard Berto Bertoldo_Berthold Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno_Bruno Bruto Buonconte
+			Buoso Callisto_Callistus Camillo_Camillus Candido Cangrande Carlo_Charles Cassio Castore Cataldo Catone Cecco Cesare_Caesar Chiaffredo Chiano Ciro Ciuccio Claudio_Claudius Clemente_Clement
+			Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma_Cosmas Costante_Constans Costantino_Constantine Costanzo_Constantius Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Domenico_Dominic
+			Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo Ercole_Heracles Eriprando Ermenegildo Ettore_Hector Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto_Faustus Federigo_Frederick
+			Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele_Gabriel Gabrino Gaetano Galasso Galeazzo
+			Galeotto Gaspare_Caspar Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo Gherardo_Gerard Giacinto_Hyacinth Giacomo_Jacob Gian_John Gianfranco Gianleone Giano_John
+			Giberto Gilberto_Gilbert Giolio_Julius Giordano_Jordan Giorgio_George Giovanni_John Giulio_Julius Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito Guerrino Guglielmo_William Guido_Guy Guidone_Guy
+			Guigliadore Iacopo_Jacob Igino Innocenzo_Innocent Ippolito_Hippolytus Isnardo Jacopo_Jacob Lamberto_Lambert Landolfo_Landolf Landone Lanfranco Lattanzio Lazzarino Lazzaro_Lazarus
+			Lealdo Leonardo_Leonard Leone_Leo Leonello_Lionel Leopoldo_Leopold Libero Lionello_Lionel Livio Lodovico_Louis Lorenzo_Laurence Luca_Luke Luchino Lucio_Lucius Luigi_Louis Malacresta Manfredo Manuele_Manuel
+			Marco_Marcus Mariano_Marius Marino_Marinus Mario_Marius Marsiglio Martino_Martin Massimo_Maximus Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore Niccolò_Nicholas Nicola_Nicholas
+			Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio_Octavius Ottobono Ottone_Otto Pagano_Pagan Pancrazio_Pancras Pandolfo_Randolph Paolo_Paul Pasquale_Pascal
+			Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello_Raphael Radul Raimondo_Raymond Rainero_Rainer Raineri_Rainer Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo_Ralph Rolando_Roland
+			Rosso Ruggiero Salinguerra Salvatore_Salvador Salvestro_Silvester Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino_Seraphin Sergio_Sergius Sesto_Sextus Settimio_Septimus Severino_Severin Severo_Severus
+			Silvano Silvestro_Silvester Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro_Theodore Tibaldo_Theobald Tiziano Tommaso_Thomas
+			Torgodorio Torquato Ubaldo Uberto_Hubert Ugo_Hugh Ugoccione Ugolino Umberto_Humbert Urbano_Urban Valentino_Valentin Valerio_Valerius Vincentello Vincenzo_Vincent Virginio Vitale Vittore_Victor Vittorio_Victor Zaccaria_Zachary
+		}
+		female_names = {
+			Abelina Adalberta Adalgisa Adelaida_Adelaide Adelasia Adelia_Adela Adriana_Adriana Agalina Agnese_Agnes Agostina Albina Alda Alessandra Alfonsina Alisia_Alice Aloisia
+			Amalia_Amelia Ambrosia Anastasia_Anastasia Anna_Anna Antonella Antonia_Antonia Argentina Augusta Aurelia_Aurelia Ausilia Ausonia Beatrice_Beatrice Benedetta_Benedicta Benilde Berenice
+			Berta_Bertha Bianca_Blanche Bona_Bonne Brunilde_Brunhilda Camilla_Camilla Candida Caracosa Carla Carola Caterina_Catherine Cecilia_Cecilia Clara_Clara Claudia Clorinda 
+			Clotilde_Clotilde Constanza_Constance Cornelia_Cornelia Delinda Dora Edda Elena_Helen Eleonora_Eleanor Elisa_Elizabeth Elisabetta_Elizabeth Ermenegilda_Ermengilda Eudossia Eugenia
+			Fausta Felicia_Felicia Felicita Filippa_Philippa Filomena Flavia Flora_Flora Fortunata Fosca Francesca_Francesca Froizza Giacinta_Hyacintha Ginevra_Guinevere Giovanna_Joan Giuditta Giulia_Julia
+			Giuseppa_Josepha Ippolita Isabella_Elizabeth Joscella Laura_Laura Lavinia Leonide Letizia Lidia Livia Lodovica Lucia_Lucia Lucinetta Lucrezia Maddalena_Magdalena Marcella_Marcella 
+			Margherita_Margaret Maria_Maria Mariana_Mariana Marietta Martina Matilda_Matilda Micaela Nunzia Paola_Paula Patrizia_Patricia Renata Ricciarda_Ricarda Silvana
+			Sofia_Sophia Stefania_Stephania Tiziana Tomasina Valentina Violante_Yolanda Virginia
+		}
+		from_dynasty_prefix = "di "
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	demon = {
+		graphical_cultures = { khorneprincegfx mongolgfx indiangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		dynasty_name_first = yes
+		
+		color = { 211 44 44 }
+
+		male_names = {
+			Blarsh Nersh Kre Dask Fno Ulmp
+		}
+		female_names = {
+			Blarsh Nersh Kre Dask Fno Ulmp
+		}
+		
+		dynasty_title_names = no
+		
+		from_dynasty_prefix = ""
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+	}
+}
+
+great_beast = {
+	graphical_cultures = { dragongfx }
+	dragon = {
+		graphical_cultures = { dragongfx }
+		
+		color = { 211 44 44 }
+
+		male_names = {
+			Alduin Boziikkodstrun Dukaanfinsot Durnehviir Krahjotdaan Krosulhah Kruziikrel Mirmulnir Nahagliiv Odahviing Paarthurnax Relonikiv Sahloknir Sahrotaar Thurvokun Viinturuth Vuljotnaak Vulthuryol Debudjen Naaslaarum Nahfahlaar Numinex Skakmat Voslaarum 
+		}
+		female_names = {
+			Alduin Boziikkodstrun Dukaanfinsot Durnehviir Krahjotdaan Krosulhah Kruziikrel Mirmulnir Nahagliiv Odahviing Paarthurnax Relonikiv Sahloknir Sahrotaar Thurvokun Viinturuth Vuljotnaak Vulthuryol Debudjen Naaslaarum Nahfahlaar Numinex Skakmat Voslaarum 
+		}
+		
+		from_dynasty_prefix = "Doom"
+		
+		modifier = default_culture_modifier
+	}
+}

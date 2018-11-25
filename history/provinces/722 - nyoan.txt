@@ -1,0 +1,6 @@
+title = c_nyoan
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_elith = castle

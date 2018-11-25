@@ -1,0 +1,6 @@
+title = c_donanka
+max_settlements = 3
+culture = lightfoot
+religion = halfling_pagan
+terrain = hills
+b_roti = castle

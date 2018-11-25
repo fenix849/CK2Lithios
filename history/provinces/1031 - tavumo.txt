@@ -1,0 +1,6 @@
+title = c_tavumo
+max_settlements = 4
+culture = sidhe
+religion = tree
+terrain = forest
+b_qamyen = castle

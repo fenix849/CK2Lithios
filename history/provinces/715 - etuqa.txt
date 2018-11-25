@@ -1,0 +1,7 @@
+title = c_etuqa
+max_settlements = 4
+culture = sidhe
+religion = tree
+terrain = forest
+b_tatupta = castle
+b_batuqa = city

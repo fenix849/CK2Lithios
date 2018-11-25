@@ -1,0 +1,6 @@
+title = c_dinaide
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_tarabu = castle

@@ -1,0 +1,6 @@
+title = c_ruhashe
+max_settlements = 3
+culture = southporter
+religion = seven
+terrain = farmlands
+b_kaud = castle

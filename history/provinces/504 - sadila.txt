@@ -1,0 +1,6 @@
+title = c_sadila
+max_settlements = 3
+culture = horsc
+religion = orc_pagan
+terrain = steppe
+b_nalili = tribal

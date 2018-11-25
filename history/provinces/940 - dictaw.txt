@@ -1,0 +1,6 @@
+title = c_dictaw
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_bicupta = castle

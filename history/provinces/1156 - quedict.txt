@@ -1,0 +1,6 @@
+title = c_quedict
+max_settlements = 3
+culture = orc
+religion = orc_pagan
+terrain = hills
+b_nodasi = tribal

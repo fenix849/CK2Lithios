@@ -1,0 +1,6 @@
+title = c_tutuma
+max_settlements = 3
+culture = korvallan
+religion = seven
+terrain = farmlands
+b_rahayor = castle

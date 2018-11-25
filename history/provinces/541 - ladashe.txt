@@ -1,0 +1,6 @@
+title = c_ladashe
+max_settlements = 3
+culture = southporter
+religion = seven
+terrain = farmlands
+b_bidore = castle

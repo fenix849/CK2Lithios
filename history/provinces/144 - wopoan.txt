@@ -1,0 +1,7 @@
+title = c_wopoan
+max_settlements = 4
+culture = sidhe
+religion = tree
+terrain = forest
+b_qacusan = castle
+b_taulada = city

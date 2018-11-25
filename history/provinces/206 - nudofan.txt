@@ -1,0 +1,6 @@
+title = c_nudofan
+max_settlements = 3
+culture = imperial
+religion = seven
+terrain = farmlands
+b_ledijah = castle

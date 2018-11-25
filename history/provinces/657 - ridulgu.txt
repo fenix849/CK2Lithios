@@ -1,0 +1,6 @@
+title = c_ridulgu
+max_settlements = 3
+culture = imperial
+religion = seven
+terrain = farmlands
+b_qulgu = castle

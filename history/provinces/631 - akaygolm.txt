@@ -1,0 +1,6 @@
+title = c_akaygolm
+max_settlements = 3
+culture = dvort
+religion = stone
+terrain = hills
+b_duudin = city

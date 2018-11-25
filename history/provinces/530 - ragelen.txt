@@ -1,0 +1,6 @@
+title = c_ragelen
+max_settlements = 3
+culture = sedinan
+religion = seven
+terrain = farmlands
+b_dacimia = castle

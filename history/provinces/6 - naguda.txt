@@ -1,0 +1,6 @@
+title = c_naguda
+max_settlements = 3
+culture = sedinan
+religion = seven
+terrain = farmlands
+b_rerijah = castle

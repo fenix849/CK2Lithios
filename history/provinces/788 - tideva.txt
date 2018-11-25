@@ -1,0 +1,6 @@
+title = c_tideva
+max_settlements = 3
+culture = clearlakian
+religion = seven
+terrain = farmlands
+b_atina = castle

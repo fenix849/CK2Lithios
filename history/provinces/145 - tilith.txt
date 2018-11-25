@@ -1,0 +1,7 @@
+title = c_tilith
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = woods
+b_wolavka = castle
+b_raulada = city

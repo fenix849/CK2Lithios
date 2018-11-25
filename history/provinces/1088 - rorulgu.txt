@@ -1,0 +1,6 @@
+title = c_rorulgu
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_samaaq = castle

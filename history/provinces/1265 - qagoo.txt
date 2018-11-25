@@ -1,0 +1,6 @@
+title = c_qagoo
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_dalinga = castle

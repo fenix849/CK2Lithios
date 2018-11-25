@@ -1,0 +1,6 @@
+title = c_tedirca
+max_settlements = 3
+culture = imperial
+religion = seven
+terrain = farmlands
+b_tinatko = castle

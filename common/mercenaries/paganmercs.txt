@@ -1,0 +1,50 @@
+catfolk1_composition = {
+    levy_size = 1
+    light_infantry = 300
+    pikemen = 200
+    archers = 400
+}
+
+catfolk2_composition = {
+    levy_size = 2
+    light_infantry = 300
+    pikemen = 200
+    archers = 400
+}
+
+catfolk3_composition = {
+    levy_size = 3
+    light_infantry = 300
+    pikemen = 200
+    archers = 400
+}
+
+halfling_swords1_composition = {
+    levy_size = 1
+    light_infantry = 300
+    heavy_infantry = 300
+    pikemen = 150
+    archers = 150
+}
+
+halfling_swords2_composition = {
+    levy_size = 2
+    light_infantry = 300
+    heavy_infantry = 300
+    pikemen = 150
+    archers = 150
+}
+
+halfling_def_composition = {
+    levy_size = 2
+    light_infantry = 150
+    pikemen = 600
+    archers = 150
+}
+
+halfling_cav_composition = {
+    levy_size = 1
+    light_cavalry = 300
+    knights = 500
+    pikemen = 100
+}

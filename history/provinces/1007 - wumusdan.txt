@@ -1,0 +1,7 @@
+title = c_wumusdan
+max_settlements = 4
+culture = sidhe
+religion = tree
+terrain = forest
+b_netarvin = castle
+b_kewan = city

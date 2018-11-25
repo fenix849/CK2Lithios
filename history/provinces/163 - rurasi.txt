@@ -1,0 +1,6 @@
+title = c_rurasi
+max_settlements = 3
+culture = dvort
+religion = stone
+terrain = hills
+b_kanolm = city

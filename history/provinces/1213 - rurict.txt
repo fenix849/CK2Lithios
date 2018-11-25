@@ -1,0 +1,6 @@
+title = c_rurict
+max_settlements = 3
+culture = orc
+religion = orc_pagan
+terrain = hills
+b_akinory = tribal

@@ -1,0 +1,6 @@
+title = c_qida
+max_settlements = 3
+culture = orc
+religion = orc_pagan
+terrain = hills
+b_laye = tribal

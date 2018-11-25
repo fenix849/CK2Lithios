@@ -1,0 +1,6 @@
+title = c_linga
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_tolada = castle

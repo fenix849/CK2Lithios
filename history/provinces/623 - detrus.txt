@@ -1,0 +1,6 @@
+title = c_detrus
+max_settlements = 3
+culture = clearlakian
+religion = seven
+terrain = farmlands
+b_ramabib = castle

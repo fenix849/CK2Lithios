@@ -1,0 +1,6 @@
+title = c_tapaaq
+max_settlements = 3
+culture = imperial
+religion = seven
+terrain = farmlands
+b_tamutt = castle

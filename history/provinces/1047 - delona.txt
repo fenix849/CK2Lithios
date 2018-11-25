@@ -1,0 +1,6 @@
+title = c_delona
+max_settlements = 3
+culture = sedinan
+religion = seven
+terrain = farmlands
+b_nabilen = castle

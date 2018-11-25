@@ -1,0 +1,6 @@
+title = c_qari
+max_settlements = 3
+culture = catfolk
+religion = cat_pagan
+terrain = forest
+b_tamarak = tribal

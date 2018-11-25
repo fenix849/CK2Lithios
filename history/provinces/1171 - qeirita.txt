@@ -1,0 +1,6 @@
+title = c_qeirita
+max_settlements = 4
+culture = lightfoot
+religion = halfling_pagan
+terrain = hills
+b_konalli = castle

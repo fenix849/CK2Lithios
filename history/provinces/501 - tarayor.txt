@@ -1,0 +1,6 @@
+title = c_tarayor
+max_settlements = 3
+culture = korvallan
+religion = seven
+terrain = farmlands
+b_emahayor = castle

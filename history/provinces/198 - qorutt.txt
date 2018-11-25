@@ -1,0 +1,6 @@
+title = c_qorutt
+max_settlements = 3
+culture = sedinan
+religion = seven
+terrain = farmlands
+b_ratzak = castle

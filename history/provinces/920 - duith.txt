@@ -1,0 +1,6 @@
+title = c_duith
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = woods 
+b_rumonse = castle

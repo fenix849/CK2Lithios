@@ -1,0 +1,7 @@
+title = c_rinana
+max_settlements = 4
+culture = celestial
+religion = celestial_pagan
+terrain = jungle
+b_seorca = castle
+b_tolisna = city

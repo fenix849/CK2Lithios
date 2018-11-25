@@ -1,0 +1,6 @@
+title = c_busahil
+max_settlements = 3
+culture = dvort
+religion = stone
+terrain = hills
+b_agivate = city

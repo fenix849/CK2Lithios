@@ -1,0 +1,6 @@
+title = c_ladudah
+max_settlements = 3
+culture = southporter
+religion = seven
+terrain = farmlands
+b_lodai = castle

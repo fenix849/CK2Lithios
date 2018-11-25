@@ -1,0 +1,6 @@
+title = c_aturient
+max_settlements = 4
+culture = dvort
+religion = stone
+terrain = hills
+b_saviu = city

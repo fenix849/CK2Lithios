@@ -1,0 +1,7 @@
+title = c_wilavka
+max_settlements = 4
+culture = sidhe
+religion = tree
+terrain = woods
+b_weiloo = castle
+b_bolavka = city

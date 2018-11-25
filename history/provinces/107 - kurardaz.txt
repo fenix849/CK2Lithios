@@ -1,0 +1,6 @@
+title = c_kurardaz
+max_settlements = 3
+culture = psatese
+religion = seven
+terrain = farmlands
+b_raratta = castle

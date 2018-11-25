@@ -1,0 +1,6 @@
+title = c_kucemar
+max_settlements = 3
+culture = lightfoot
+religion = halfling_pagan
+terrain = hills
+b_lanen = castle

@@ -1,0 +1,596 @@
+d_lightfeet = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 669
+
+    # Hire Trigger
+    allow = {
+		culture = catfolk
+    }
+
+    # Parent Religion 
+    religion = catfolk_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = catfolk1_composition
+}
+
+d_redclaws = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 669
+
+    # Hire Trigger
+    allow = {
+		culture = catfolk
+    }
+
+    # Parent Religion 
+    religion = catfolk_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = catfolk1_composition
+}
+
+d_manytooths = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 669
+
+    # Hire Trigger
+    allow = {
+		culture = catfolk
+    }
+
+    # Parent Religion 
+    religion = catfolk_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = catfolk3_composition
+}
+
+d_brightmanes = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 669
+
+    # Hire Trigger
+    allow = {
+		culture = catfolk
+    }
+
+    # Parent Religion 
+    religion = catfolk_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = catfolk1_composition
+}
+
+d_elfhunters = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 669
+
+    # Hire Trigger
+    allow = {
+		culture = catfolk
+    }
+
+    # Parent Religion 
+    religion = catfolk_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = catfolk2_composition
+}
+
+d_swiftfeet = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 669
+
+    # Hire Trigger
+    allow = {
+		culture = catfolk
+    }
+
+    # Parent Religion 
+    religion = catfolk_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = catfolk1_composition
+}
+
+d_elfeaters = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 669
+
+    # Hire Trigger
+    allow = {
+		culture = catfolk
+    }
+
+    # Parent Religion 
+    religion = catfolk_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = catfolk2_composition
+}
+
+d_darkmanes = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 669
+
+    # Hire Trigger
+    allow = {
+		culture = catfolk
+    }
+
+    # Parent Religion 
+    religion = catfolk_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = catfolk2_composition
+}
+
+d_fuckelves = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 669
+
+    # Hire Trigger
+    allow = {
+		culture = catfolk
+    }
+
+    # Parent Religion 
+    religion = catfolk_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = catfolk3_composition
+}
+
+d_halfblades = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 333
+
+    # Hire Trigger
+    allow = {
+		culture_group = halfling
+    }
+
+    # Parent Religion 
+    religion = halfling_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = halfling_swords1_composition
+}
+
+d_tuskbreakers = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 333
+
+    # Hire Trigger
+    allow = {
+		culture_group = halfling
+    }
+
+    # Parent Religion 
+    religion = halfling_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = halfling_swords1_composition
+}
+
+d_line = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 333
+
+    # Hire Trigger
+    allow = {
+		culture_group = halfling
+    }
+
+    # Parent Religion 
+    religion = halfling_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = halfling_def_composition
+}
+
+d_steel_dreamers = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 333
+
+    # Hire Trigger
+    allow = {
+		culture_group = halfling
+    }
+
+    # Parent Religion 
+    religion = halfling_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = halfling_swords2_composition
+}
+
+d_fulllings = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 333
+
+    # Hire Trigger
+    allow = {
+		culture_group = halfling
+    }
+
+    # Parent Religion 
+    religion = halfling_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = halfling_def_composition
+}
+
+d_bastard_swords = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 333
+
+    # Hire Trigger
+    allow = {
+		culture_group = halfling
+    }
+
+    # Parent Religion 
+    religion = halfling_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = halfling_swords2_composition
+}
+
+d_red_riders = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 333
+
+    # Hire Trigger
+    allow = {
+		culture_group = halfling
+    }
+
+    # Parent Religion 
+    religion = halfling_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = halfling_cav_composition
+}
+
+d_starset_company = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 333
+
+    # Hire Trigger
+    allow = {
+		culture_group = halfling
+    }
+
+    # Parent Religion 
+    religion = halfling_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = halfling_cav_composition
+}
+
+d_great_gray = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 333
+
+    # Hire Trigger
+    allow = {
+		culture_group = halfling
+    }
+
+    # Parent Religion 
+    religion = halfling_pagan
+
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = halfling_swords2_composition
+}
+
+
+

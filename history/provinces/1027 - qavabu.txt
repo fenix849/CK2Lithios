@@ -1,0 +1,6 @@
+title = c_qavabu
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_binalli = castle

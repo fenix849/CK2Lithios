@@ -1,0 +1,6 @@
+title = c_tyareke
+max_settlements = 3
+culture = psatese
+religion = seven
+terrain = farmlands
+b_enatan = castle

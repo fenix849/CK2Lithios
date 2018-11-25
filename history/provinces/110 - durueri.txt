@@ -1,0 +1,6 @@
+title = c_durueri
+max_settlements = 3
+culture = imperial
+religion = seven
+terrain = farmlands
+b_sikne = castle

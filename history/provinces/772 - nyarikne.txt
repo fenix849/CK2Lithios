@@ -1,0 +1,6 @@
+title = c_nyarikne
+max_settlements = 3
+culture = psatese
+religion = seven
+terrain = farmlands
+b_tareke = castle

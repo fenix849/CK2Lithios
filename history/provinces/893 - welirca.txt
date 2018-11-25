@@ -1,0 +1,6 @@
+title = c_welirca
+max_settlements = 4
+culture = imperial
+religion = seven
+terrain = farmlands
+b_wabaut = castle

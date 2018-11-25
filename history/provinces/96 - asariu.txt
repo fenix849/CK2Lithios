@@ -1,0 +1,6 @@
+title = c_asariu
+max_settlements = 4
+culture = dvort
+religion = stone
+terrain = hills
+b_luitan = city

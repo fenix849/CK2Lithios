@@ -1,0 +1,6 @@
+title = c_rapise
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_dakavid = castle

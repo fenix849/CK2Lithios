@@ -1,0 +1,6 @@
+title = c_tanunes
+max_settlements = 3
+culture = psatese
+religion = seven
+terrain = farmlands
+b_barand = castle

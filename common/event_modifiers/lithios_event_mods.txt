@@ -1,0 +1,5 @@
+clearlake_op = {
+	icon = 18
+	levy_size = 1.5
+	local_tax_modifier = 1.5
+}

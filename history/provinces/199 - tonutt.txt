@@ -1,0 +1,6 @@
+title = c_tonutt
+max_settlements = 4
+culture = sedinan
+religion = seven
+terrain = farmlands
+b_wekulev = castle

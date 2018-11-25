@@ -1,0 +1,6 @@
+title = c_dakavya
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_sakepa = castle

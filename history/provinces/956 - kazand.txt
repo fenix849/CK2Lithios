@@ -1,0 +1,6 @@
+title = c_kazand
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = hills 
+b_reoo = castle

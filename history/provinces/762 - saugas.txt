@@ -1,0 +1,6 @@
+title = c_saugas
+max_settlements = 3
+culture = lightfoot
+religion = halfling_pagan
+terrain = hills
+b_tateodo = castle

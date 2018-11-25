@@ -1,0 +1,6 @@
+title = c_atenaye
+max_settlements = 4
+culture = orc
+religion = orc_pagan
+terrain = hills
+b_taxeszek = tribal

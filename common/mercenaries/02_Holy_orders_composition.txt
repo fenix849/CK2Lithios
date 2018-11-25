@@ -1,0 +1,73 @@
+paladins_gekagi_composition = {
+	levy_size = 5
+	heavy_infantry = 200
+	knights = 100
+	archers = 200
+}
+
+paladins_wakfu_composition = {
+	levy_size = 5
+	heavy_infantry = 200
+	knights = 100
+	archers = 200
+}
+
+paladins_anjos_composition = {
+	levy_size = 5
+	heavy_infantry = 200
+	knights = 100
+	archers = 200
+}
+
+guardians_tree_composition = {
+	levy_size = 5
+	heavy_infantry = 200
+	knights = 100
+	archers = 200
+}
+
+guardians_stone_composition = {
+	levy_size = 5
+	heavy_infantry = 200
+	knights = 100
+	archers = 200
+}
+
+hidden_fangs_composition = {
+	levy_size = 5
+	light_infantry = 300
+	pikemen = 200
+	archers = 400
+}
+
+seekers_composition = {
+	levy_size = 5
+	heavy_infantry = 400
+	knights = 200
+	pikemen = 200
+	archers = 200
+}
+
+green_group_composition = {
+	levy_size = 5
+	light_infantry = 300
+	heavy_infantry = 200
+	light_cavalry = 400
+	knights = 100
+	archers = 200
+}
+
+protectors_perfection_composition = {
+	levy_size = 5
+	heavy_infantry = 200
+	knights = 100
+	archers = 200
+}
+
+order_disorder_composition = {
+	levy_size = 5
+	heavy_infantry = 200
+	knights = 100
+	archers = 200
+	pikemen = 200
+}

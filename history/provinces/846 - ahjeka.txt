@@ -1,0 +1,9 @@
+title = c_ahjeka
+max_settlements = 6
+culture = sidhe
+religion = tree
+terrain = woods 
+b_letoyotl = castle
+b_anusdan = castle
+b_daloo = city
+b_reard = temple

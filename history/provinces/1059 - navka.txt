@@ -1,0 +1,6 @@
+title = c_navka
+max_settlements = 4
+culture = sidhe
+religion = tree
+terrain = forest
+b_raconse = castle

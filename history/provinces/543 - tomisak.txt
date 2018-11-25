@@ -1,0 +1,6 @@
+title = c_tomisak
+max_settlements = 3
+culture = sedinan
+religion = seven
+terrain = farmlands
+b_kagaway = castle

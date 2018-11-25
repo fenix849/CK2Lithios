@@ -1,0 +1,6 @@
+title = c_sagari
+max_settlements = 3
+culture = orc
+religion = orc_pagan
+terrain = hills
+b_rinid = tribal

@@ -1,0 +1,12 @@
+title = c_clearlake
+max_settlements = 7
+culture = clearlakian
+religion = seven
+terrain = forest
+b_castle_of_the_crystal_waters = castle
+b_temple_of_the_seven = temple
+b_library_of_clearlake = temple
+b_north_district = city
+b_west_district = city
+b_east_district = city
+b_south_district = city

@@ -1,0 +1,6 @@
+title = c_nudimia
+max_settlements = 3
+culture = imperial
+religion = seven
+terrain = farmlands
+b_beicana = castle

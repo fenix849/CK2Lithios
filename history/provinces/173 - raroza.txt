@@ -1,0 +1,6 @@
+title = c_raroza
+max_settlements = 4
+culture = korvallan
+religion = seven
+terrain = farmlands
+b_echate = castle

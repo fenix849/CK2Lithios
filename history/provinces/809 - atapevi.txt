@@ -1,0 +1,6 @@
+title = c_atapevi
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_bezauq = castle

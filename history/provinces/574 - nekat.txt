@@ -1,0 +1,6 @@
+title = c_nekat
+max_settlements = 3
+culture = southporter
+religion = seven
+terrain = farmlands
+b_qadore = castle

@@ -1,0 +1,6 @@
+title = c_tagawar
+max_settlements = 3
+culture = lightfoot
+religion = halfling_pagan
+terrain = hills
+b_kine = castle

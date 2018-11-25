@@ -1,0 +1,6 @@
+title = c_noraaq
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_tyahulgu = castle

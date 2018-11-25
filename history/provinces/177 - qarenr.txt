@@ -1,0 +1,6 @@
+title = c_qarenr
+max_settlements = 3
+culture = korvallan
+religion = seven
+terrain = farmlands
+b_tarahor = castle

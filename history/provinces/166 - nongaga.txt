@@ -1,0 +1,6 @@
+title = c_nongaga
+max_settlements = 3
+culture = dvort
+religion = stone
+terrain = hills
+b_lyeilzi = city

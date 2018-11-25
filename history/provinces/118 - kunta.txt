@@ -1,0 +1,6 @@
+title = c_kunta
+max_settlements = 4
+culture = clearlakian
+religion = seven
+terrain = farmlands
+b_tuhard = castle

@@ -1,0 +1,9 @@
+title = c_qeuduqa
+max_settlements = 6
+culture = sidhe
+religion = tree
+terrain = forest
+b_sutataw = castle
+b_biyauq = castle
+b_nikanu = city
+b_ekicuqa = temple

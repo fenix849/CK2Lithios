@@ -1,0 +1,6 @@
+title = c_naballi
+max_settlements = 3
+culture = lightfoot
+religion = halfling_pagan
+terrain = hills
+b_alocia = castle

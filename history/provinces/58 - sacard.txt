@@ -1,0 +1,6 @@
+title = c_sacard
+max_settlements = 3
+culture = sedinan
+religion = seven
+terrain = farmlands
+b_kanohn = castle

@@ -1,0 +1,3771 @@
+e_nonka = { #Halflings
+	color = { 178 86 69 }
+	color2 = { 178 86 69 }
+	capital = 333
+	k_kanigh = {
+		color = { 208 90 72 }
+		color2 = { 208 90 72 }
+		capital = 383
+		d_rotosi = {
+			color = { 224 29 159 }
+			color2 = { 224 29 159 }
+			capital = 381
+			c_tolosi = {
+				b_wageodo = {
+					title = baron
+					title_female = baron
+				}
+				b_rolosi = {
+					title = baron
+					title_female = baron
+				}
+				b_kasdas = {
+					title = baron
+					title_female = baron
+				}
+				b_dagaud = {
+					title = baron
+					title_female = baron
+				}
+				b_sotona = {
+					title = baron
+					title_female = baron
+				}
+				b_enaugas = {
+					title = baron
+					title_female = baron
+				}
+				b_agicius = {
+					title = baron
+					title_female = baron
+				}
+				b_dorare = {
+					title = baron
+					title_female = baron
+				}
+				color = { 248 220 188 }
+				color2 = { 82 122 197 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			c_botosi = {
+				b_radofia = {
+					title = baron
+					title_female = baron
+				}
+				b_radare = {
+					title = baron
+					title_female = baron
+				}
+				b_nofia = {
+					title = baron
+					title_female = baron
+				}
+				b_sotare = {
+					title = baron
+					title_female = baron
+				}
+				b_nageodo = {
+					title = baron
+					title_female = baron
+				}
+				b_rutund = {
+					title = baron
+					title_female = baron
+				}
+				b_nadare = {
+					title = baron
+					title_female = baron
+				}
+				b_kutoald = {
+					title = baron
+					title_female = baron
+				}
+				color = { 115 21 166 }
+				color2 = { 82 122 197 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			c_kanord = {
+				b_kirord = {
+					title = baron
+					title_female = baron
+				}
+				b_edhaniu = {
+					title = baron
+					title_female = baron
+				}
+				b_bali = {
+					title = baron
+					title_female = baron
+				}
+				b_watah = {
+					title = baron
+					title_female = baron
+				}
+				b_ruid = {
+					title = baron
+					title_female = baron
+				}
+				b_abiriu = {
+					title = baron
+					title_female = baron
+				}
+				b_rierdel = {
+					title = baron
+					title_female = baron
+				}
+				b_rieriu = {
+					title = baron
+					title_female = baron
+				}
+				color = { 151 38 225 }
+				color2 = { 82 122 197 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			c_kanicius = {
+				b_rasdas = {
+					title = baron
+					title_female = baron
+				}
+				b_baposi = {
+					title = baron
+					title_female = baron
+				}
+				b_rototho = {
+					title = baron
+					title_female = baron
+				}
+				b_bapona = {
+					title = baron
+					title_female = baron
+				}
+				b_dapund = {
+					title = baron
+					title_female = baron
+				}
+				b_sotosi = {
+					title = baron
+					title_female = baron
+				}
+				b_rorofia = {
+					title = baron
+					title_female = baron
+				}
+				b_loald = {
+					title = baron
+					title_female = baron
+				}
+				color = { 21 207 109 }
+				color2 = { 82 122 197 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			c_dataud = {
+				b_wotaud = {
+					title = baron
+					title_female = baron
+				}
+				b_wotosi = {
+					title = baron
+					title_female = baron
+				}
+				b_dotare = {
+					title = baron
+					title_female = baron
+				}
+				b_qoroald = {
+					title = baron
+					title_female = baron
+				}
+				b_dapofia = {
+					title = baron
+					title_female = baron
+				}
+				b_egicius = {
+					title = baron
+					title_female = baron
+				}
+				b_wadeodo = {
+					title = baron
+					title_female = baron
+				}
+				b_qaugas = {
+					title = baron
+					title_female = baron
+				}
+				color = { 238 251 191 }
+				color2 = { 82 122 197 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			#culture = karen
+			title = duke
+			title_female = duke
+		}
+		d_lagofia = {
+			color = { 5 206 147 }
+			color2 = { 5 206 147 }
+			capital = 488
+			c_souree = {
+				b_qagaud = {
+					title = baron
+					title_female = baron
+				}
+				b_rataud = {
+					title = baron
+					title_female = baron
+				}
+				b_lorotho = {
+					title = baron
+					title_female = baron
+				}
+				b_koteodo = {
+					title = baron
+					title_female = baron
+				}
+				b_katotho = {
+					title = baron
+					title_female = baron
+				}
+				b_lotosi = {
+					title = baron
+					title_female = baron
+				}
+				b_totosi = {
+					title = baron
+					title_female = baron
+				}
+				b_sanotho = {
+					title = baron
+					title_female = baron
+				}
+				color = { 102 50 41 }
+				color2 = { 82 122 197 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			c_deslav = {
+				b_borona = {
+					title = baron
+					title_female = baron
+				}
+				b_akapeodo = {
+					title = baron
+					title_female = baron
+				}
+				b_totaud = {
+					title = baron
+					title_female = baron
+				}
+				b_weslav = {
+					title = baron
+					title_female = baron
+				}
+				b_lotaud = {
+					title = baron
+					title_female = baron
+				}
+				b_nadouree = {
+					title = baron
+					title_female = baron
+				}
+				b_akapona = {
+					title = baron
+					title_female = baron
+				}
+				b_enorund = {
+					title = baron
+					title_female = baron
+				}
+				color = { 64 0 184 }
+				color2 = { 82 122 197 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			c_koteodo = {
+				b_qolaud = {
+					title = baron
+					title_female = baron
+				}
+				b_totund = {
+					title = baron
+					title_female = baron
+				}
+				b_bapofia = {
+					title = baron
+					title_female = baron
+				}
+				b_nadund = {
+					title = baron
+					title_female = baron
+				}
+				b_kolaud = {
+					title = baron
+					title_female = baron
+				}
+				b_roraud = {
+					title = baron
+					title_female = baron
+				}
+				b_tadofia = {
+					title = baron
+					title_female = baron
+				}
+				b_tolaud = {
+					title = baron
+					title_female = baron
+				}
+				color = { 53 193 131 }
+				color2 = { 82 122 197 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			title = duke
+			title_female = duke
+		}
+		d_tolona = {
+			color = { 10 241 144 }
+			color2 = { 10 241 144 }
+			capital = 168
+			c_lura = {
+				b_naudosi = {
+					title = baron
+					title_female = baron
+				}
+				b_tudyotte = {
+					title = baron
+					title_female = baron
+				}
+				b_tabah = {
+					title = baron
+					title_female = baron
+				}
+				b_ratree = {
+					title = baron
+					title_female = baron
+				}
+				b_larah = {
+					title = baron
+					title_female = baron
+				}
+				b_azdona = {
+					title = baron
+					title_female = baron
+				}
+				b_raudare = {
+					title = baron
+					title_female = baron
+				}
+				b_agaudree = {
+					title = baron
+					title_female = baron
+				}
+				color = { 64 42 177 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			c_saugas = {
+				b_tateodo = {
+					title = baron
+					title_female = baron
+				}
+				b_kaposi = {
+					title = baron
+					title_female = baron
+				}
+				b_rotoald = {
+					title = baron
+					title_female = baron
+				}
+				b_acotona = {
+					title = baron
+					title_female = baron
+				}
+				b_nayitho = {
+					title = baron
+					title_female = baron
+				}
+				b_tutaud = {
+					title = baron
+					title_female = baron
+				}
+				b_rotaud = {
+					title = baron
+					title_female = baron
+				}
+				b_rolaud = {
+					title = baron
+					title_female = baron
+				}
+				color = { 167 212 216 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			#culture = birah
+			title = duke
+			title_female = duke
+		}
+		title = king
+		title_female = king
+	}
+	k_wierord = {
+		color = { 54 125 91 }
+		color2 = { 54 125 91 }
+		capital = 1000
+		d_qeslav = {
+			color = { 140 114 46 }
+			color2 = { 140 114 46 }
+			capital = 85
+			c_seirocia = {
+				b_winita = {
+					title = baron
+					title_female = baron
+				}
+				b_noimir = {
+					title = baron
+					title_female = baron
+				}
+				b_aloimir = {
+					title = baron
+					title_female = baron
+				}
+				b_donesa = {
+					title = baron
+					title_female = baron
+				}
+				b_qonalli = {
+					title = baron
+					title_female = baron
+				}
+				b_selesa = {
+					title = baron
+					title_female = baron
+				}
+				b_saditya = {
+					title = baron
+					title_female = baron
+				}
+				b_ehadada = {
+					title = baron
+					title_female = baron
+				}
+				color = { 135 234 15 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			c_lotho = {
+				b_tutona = {
+					title = baron
+					title_female = baron
+				}
+				b_tototho = {
+					title = baron
+					title_female = baron
+				}
+				b_raugas = {
+					title = baron
+					title_female = baron
+				}
+				b_kotosi = {
+					title = baron
+					title_female = baron
+				}
+				b_dutaud = {
+					title = baron
+					title_female = baron
+				}
+				b_enorare = {
+					title = baron
+					title_female = baron
+				}
+				b_ecototho = {
+					title = baron
+					title_female = baron
+				}
+				b_enoreodo = {
+					title = baron
+					title_female = baron
+				}
+				color = { 252 104 186 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			c_qorosi = {
+				b_kotofia = {
+					title = baron
+					title_female = baron
+				}
+				b_akapoald = {
+					title = baron
+					title_female = baron
+				}
+				b_daposi = {
+					title = baron
+					title_female = baron
+				}
+				b_aborotho = {
+					title = baron
+					title_female = baron
+				}
+				b_tutotho = {
+					title = baron
+					title_female = baron
+				}
+				b_napona = {
+					title = baron
+					title_female = baron
+				}
+				b_naneodo = {
+					title = baron
+					title_female = baron
+				}
+				b_noroald = {
+					title = baron
+					title_female = baron
+				}
+				color = { 207 245 119 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			#culture = birah
+			title = duke
+			title_female = duke
+		}
+		d_katund = {
+			color = { 79 53 249 }
+			color2 = { 79 53 249 }
+			capital = 379
+			c_rotare = {
+				b_lutofia = {
+					title = baron
+					title_female = baron
+				}
+				b_rotosi = {
+					title = baron
+					title_female = baron
+				}
+				b_rolund = {
+					title = baron
+					title_female = baron
+				}
+				b_boreodo = {
+					title = baron
+					title_female = baron
+				}
+				b_radaugas = {
+					title = baron
+					title_female = baron
+				}
+				b_qutotho = {
+					title = baron
+					title_female = baron
+				}
+				b_rateodo = {
+					title = baron
+					title_female = baron
+				}
+				b_radeodo = {
+					title = baron
+					title_female = baron
+				}
+				color = { 195 0 17 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			c_rouree = {
+				b_nayild = {
+					title = baron
+					title_female = baron
+				}
+				b_solare = {
+					title = baron
+					title_female = baron
+				}
+				b_ajutosi = {
+					title = baron
+					title_female = baron
+				}
+				b_arataud = {
+					title = baron
+					title_female = baron
+				}
+				b_acoteodo = {
+					title = baron
+					title_female = baron
+				}
+				b_lutund = {
+					title = baron
+					title_female = baron
+				}
+				b_wotofia = {
+					title = baron
+					title_female = baron
+				}
+				b_wotho = {
+					title = baron
+					title_female = baron
+				}
+				color = { 30 143 181 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			c_kofia = {
+				b_bund = {
+					title = baron
+					title_female = baron
+				}
+				b_wagotho = {
+					title = baron
+					title_female = baron
+				}
+				b_notaud = {
+					title = baron
+					title_female = baron
+				}
+				b_latosi = {
+					title = baron
+					title_female = baron
+				}
+				b_ejuteodo = {
+					title = baron
+					title_female = baron
+				}
+				b_touree = {
+					title = baron
+					title_female = baron
+				}
+				b_tutund = {
+					title = baron
+					title_female = baron
+				}
+				b_totoald = {
+					title = baron
+					title_female = baron
+				}
+				color = { 31 28 108 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			#culture = birah
+			title = duke
+			title_female = duke
+		}
+		d_tacazi = {
+			color = { 200 192 197 }
+			color2 = { 200 192 197 }
+			capital = 797
+			c_rucekpa = {
+				b_dilemar = {
+					title = baron
+					title_female = baron
+				}
+				b_raremar = {
+					title = baron
+					title_female = baron
+				}
+				b_katili = {
+					title = baron
+					title_female = baron
+				}
+				b_tihitus = {
+					title = baron
+					title_female = baron
+				}
+				b_ajelen = {
+					title = baron
+					title_female = baron
+				}
+				b_ajacitus = {
+					title = baron
+					title_female = baron
+				}
+				b_dilalpo = {
+					title = baron
+					title_female = baron
+				}
+				b_taralan = {
+					title = baron
+					title_female = baron
+				}
+				color = { 133 82 195 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			c_sabada = {
+				b_qeironka = {
+					title = baron
+					title_female = baron
+				}
+				b_babojan = {
+					title = baron
+					title_female = baron
+				}
+				b_agabonda = {
+					title = baron
+					title_female = baron
+				}
+				b_egavalan = {
+					title = baron
+					title_female = baron
+				}
+				b_beirocia = {
+					title = baron
+					title_female = baron
+				}
+				b_babada = {
+					title = baron
+					title_female = baron
+				}
+				b_tyesesa = {
+					title = baron
+					title_female = baron
+				}
+				b_lelonka = {
+					title = baron
+					title_female = baron
+				}
+				color = { 6 171 92 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			c_kaballi = {
+				b_bemanka = {
+					title = baron
+					title_female = baron
+				}
+				b_simada = {
+					title = baron
+					title_female = baron
+				}
+				b_wonesa = {
+					title = baron
+					title_female = baron
+				}
+				b_ahelalli = {
+					title = baron
+					title_female = baron
+				}
+				b_deirojan = {
+					title = baron
+					title_female = baron
+				}
+				b_qonada = {
+					title = baron
+					title_female = baron
+				}
+				b_qeiritya = {
+					title = baron
+					title_female = baron
+				}
+				b_etemalan = {
+					title = baron
+					title_female = baron
+				}
+				color = { 101 118 161 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			#culture = birah
+			title = duke
+			title_female = duke
+		}
+		d_kotona = {
+			color = { 16 228 209 }
+			color2 = { 16 228 209 }
+			capital = 88
+			c_kucemar = {
+				b_lanen = {
+					title = baron
+					title_female = baron
+				}
+				b_tilotus = {
+					title = baron
+					title_female = baron
+				}
+				b_narili = {
+					title = baron
+					title_female = baron
+				}
+				b_enatagpa = {
+					title = baron
+					title_female = baron
+				}
+				b_qabekpa = {
+					title = baron
+					title_female = baron
+				}
+				b_batekpa = {
+					title = baron
+					title_female = baron
+				}
+				b_batotus = {
+					title = baron
+					title_female = baron
+				}
+				b_tatozan = {
+					title = baron
+					title_female = baron
+				}
+				holy_site = tirigh
+				holy_site = kyabolm
+				holy_site = dimolm
+				holy_site = watais
+				color = { 122 146 101 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			c_risten = {
+				b_qonigh = {
+					title = baron
+					title_female = baron
+				}
+				b_tiradir = {
+					title = baron
+					title_female = baron
+				}
+				b_akanah = {
+					title = baron
+					title_female = baron
+				}
+				b_banord = {
+					title = baron
+					title_female = baron
+				}
+				b_suydel = {
+					title = baron
+					title_female = baron
+				}
+				b_toniu = {
+					title = baron
+					title_female = baron
+				}
+				b_lanah = {
+					title = baron
+					title_female = baron
+				}
+				b_edrali = {
+					title = baron
+					title_female = baron
+				}
+				color = { 154 109 106 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			c_lorund = {
+				b_kadund = {
+					title = baron
+					title_female = baron
+				}
+				b_wanosi = {
+					title = baron
+					title_female = baron
+				}
+				b_sageodo = {
+					title = baron
+					title_female = baron
+				}
+				b_wanund = {
+					title = baron
+					title_female = baron
+				}
+				b_qare = {
+					title = baron
+					title_female = baron
+				}
+				b_bototho = {
+					title = baron
+					title_female = baron
+				}
+				b_nolosi = {
+					title = baron
+					title_female = baron
+				}
+				b_qageodo = {
+					title = baron
+					title_female = baron
+				}
+				color = { 62 189 112 }
+				color2 = { 246 64 192 }
+				#culture = birah
+				title = count
+				title_female = count
+			}
+			#culture = birah
+			title = duke
+			title_female = duke
+		}
+		#culture = birah
+		title = king
+		title_female = king
+	}
+	k_bigh = {
+		color = { 74 72 58 }
+		color2 = { 74 72 58 }
+		capital = 333
+		d_davita = {
+			color = { 212 73 96 }
+			color2 = { 212 73 96 }
+			capital = 333
+			c_babanka = {
+				b_walan = {
+					title = baron
+					title_female = baron
+				}
+				b_wabita = {
+					title = baron
+					title_female = baron
+				}
+				b_telocia = {
+					title = baron
+					title_female = baron
+				}
+				b_tabocia = {
+					title = baron
+					title_female = baron
+				}
+				b_agrita = {
+					title = baron
+					title_female = baron
+				}
+				b_qalli = {
+					title = baron
+					title_female = baron
+				}
+				b_welojan = {
+					title = baron
+					title_female = baron
+				}
+				b_nuedita = {
+					title = baron
+					title_female = baron
+				}
+				color = { 171 117 53 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_ravoti = {
+				b_belocia = {
+					title = baron
+					title_female = baron
+				}
+				b_rinada = {
+					title = baron
+					title_female = baron
+				}
+				b_linalan = {
+					title = baron
+					title_female = baron
+				}
+				b_akinesa = {
+					title = baron
+					title_female = baron
+				}
+				b_rinita = {
+					title = baron
+					title_female = baron
+				}
+				b_kinojan = {
+					title = baron
+					title_female = baron
+				}
+				b_egritya = {
+					title = baron
+					title_female = baron
+				}
+				b_bocia = {
+					title = baron
+					title_female = baron
+				}
+				color = { 9 115 119 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			#culture = kigh
+			title = duke
+			title_female = duke
+		}
+		d_lonada = {
+			color = { 90 63 174 }
+			color2 = { 90 63 174 }
+			capital = 448
+			c_raballi = {
+				b_egaboti = {
+					title = baron
+					title_female = baron
+				}
+				b_sabojan = {
+					title = baron
+					title_female = baron
+				}
+				b_savonda = {
+					title = baron
+					title_female = baron
+				}
+				b_kimojan = {
+					title = baron
+					title_female = baron
+				}
+				b_qita = {
+					title = baron
+					title_female = baron
+				}
+				b_ronita = {
+					title = baron
+					title_female = baron
+				}
+				b_kemada = {
+					title = baron
+					title_female = baron
+				}
+				b_ladalan = {
+					title = baron
+					title_female = baron
+				}
+				color = { 225 137 68 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_tavonda = {
+				b_raboti = {
+					title = baron
+					title_female = baron
+				}
+				b_teiralan = {
+					title = baron
+					title_female = baron
+				}
+				b_dalan = {
+					title = baron
+					title_female = baron
+				}
+				b_belanka = {
+					title = baron
+					title_female = baron
+				}
+				b_byesita = {
+					title = baron
+					title_female = baron
+				}
+				b_ehadojan = {
+					title = baron
+					title_female = baron
+				}
+				b_ladada = {
+					title = baron
+					title_female = baron
+				}
+				b_qonesa = {
+					title = baron
+					title_female = baron
+				}
+				color = { 171 201 230 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			#culture = kigh
+			title = duke
+			title_female = duke
+		}
+		d_kesa = {
+			color = { 73 107 2 }
+			color2 = { 73 107 2 }
+			capital = 278
+			c_kinesa = {
+				b_atemojan = {
+					title = baron
+					title_female = baron
+				}
+				b_tononda = {
+					title = baron
+					title_female = baron
+				}
+				b_aralli = {
+					title = baron
+					title_female = baron
+				}
+				b_bojan = {
+					title = baron
+					title_female = baron
+				}
+				b_davoti = {
+					title = baron
+					title_female = baron
+				}
+				b_kelocia = {
+					title = baron
+					title_female = baron
+				}
+				b_tabitya = {
+					title = baron
+					title_female = baron
+				}
+				b_ekinonka = {
+					title = baron
+					title_female = baron
+				}
+				color = { 45 144 112 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_nelocia = {
+				b_ralan = {
+					title = baron
+					title_female = baron
+				}
+				b_etemesa = {
+					title = baron
+					title_female = baron
+				}
+				b_dyesesa = {
+					title = baron
+					title_female = baron
+				}
+				b_qabonda = {
+					title = baron
+					title_female = baron
+				}
+				b_bimalan = {
+					title = baron
+					title_female = baron
+				}
+				b_nalli = {
+					title = baron
+					title_female = baron
+				}
+				b_syesitya = {
+					title = baron
+					title_female = baron
+				}
+				b_tyesitya = {
+					title = baron
+					title_female = baron
+				}
+				color = { 115 40 92 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_lesa = {
+				b_dinojan = {
+					title = baron
+					title_female = baron
+				}
+				b_nelocia = {
+					title = baron
+					title_female = baron
+				}
+				b_ravocia = {
+					title = baron
+					title_female = baron
+				}
+				b_telita = {
+					title = baron
+					title_female = baron
+				}
+				b_kesa = {
+					title = baron
+					title_female = baron
+				}
+				b_kavalli = {
+					title = baron
+					title_female = baron
+				}
+				b_tojan = {
+					title = baron
+					title_female = baron
+				}
+				b_tita = {
+					title = baron
+					title_female = baron
+				}
+				color = { 107 165 232 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_temalan = {
+				b_qyesesa = {
+					title = baron
+					title_female = baron
+				}
+				b_bemojan = {
+					title = baron
+					title_female = baron
+				}
+				b_esimada = {
+					title = baron
+					title_female = baron
+				}
+				b_winesa = {
+					title = baron
+					title_female = baron
+				}
+				b_sadalli = {
+					title = baron
+					title_female = baron
+				}
+				b_simojan = {
+					title = baron
+					title_female = baron
+				}
+				b_reiritya = {
+					title = baron
+					title_female = baron
+				}
+				b_neironka = {
+					title = baron
+					title_female = baron
+				}
+				color = { 147 57 38 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			#culture = kigh
+			title = duke
+			title_female = duke
+		}
+		d_katekpa = {
+			color = { 66 155 240 }
+			color2 = { 66 155 240 }
+			capital = 450
+			c_babojan = {
+				b_nabanka = {
+					title = baron
+					title_female = baron
+				}
+				b_qelanka = {
+					title = baron
+					title_female = baron
+				}
+				b_wabocia = {
+					title = baron
+					title_female = baron
+				}
+				b_savada = {
+					title = baron
+					title_female = baron
+				}
+				b_nabitya = {
+					title = baron
+					title_female = baron
+				}
+				b_elesa = {
+					title = baron
+					title_female = baron
+				}
+				b_weiresa = {
+					title = baron
+					title_female = baron
+				}
+				b_kelitya = {
+					title = baron
+					title_female = baron
+				}
+				color = { 60 137 37 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_kavojan = {
+				b_asita = {
+					title = baron
+					title_female = baron
+				}
+				b_lemalli = {
+					title = baron
+					title_female = baron
+				}
+				b_tesa = {
+					title = baron
+					title_female = baron
+				}
+				b_bideva = {
+					title = baron
+					title_female = baron
+				}
+				b_remalli = {
+					title = baron
+					title_female = baron
+				}
+				b_dabada = {
+					title = baron
+					title_female = baron
+				}
+				b_seirada = {
+					title = baron
+					title_female = baron
+				}
+				b_arada = {
+					title = baron
+					title_female = baron
+				}
+				color = { 47 193 138 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			#culture = kigh
+			title = duke
+			title_female = duke
+		}
+		d_qeiritya = {
+			color = { 183 15 58 }
+			color2 = { 183 15 58 }
+			capital = 279
+			c_wabonda = {
+				b_esimocia = {
+					title = baron
+					title_female = baron
+				}
+				b_kyesojan = {
+					title = baron
+					title_female = baron
+				}
+				b_dadesa = {
+					title = baron
+					title_female = baron
+				}
+				b_wavocia = {
+					title = baron
+					title_female = baron
+				}
+				b_eralan = {
+					title = baron
+					title_female = baron
+				}
+				b_qavada = {
+					title = baron
+					title_female = baron
+				}
+				b_babitya = {
+					title = baron
+					title_female = baron
+				}
+				b_belojan = {
+					title = baron
+					title_female = baron
+				}
+				color = { 242 69 211 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_reiralan = {
+				b_savitya = {
+					title = baron
+					title_female = baron
+				}
+				b_ahelojan = {
+					title = baron
+					title_female = baron
+				}
+				b_waboti = {
+					title = baron
+					title_female = baron
+				}
+				b_doti = {
+					title = baron
+					title_female = baron
+				}
+				b_byesanka = {
+					title = baron
+					title_female = baron
+				}
+				b_rabanka = {
+					title = baron
+					title_female = baron
+				}
+				b_wonalli = {
+					title = baron
+					title_female = baron
+				}
+				b_keirada = {
+					title = baron
+					title_female = baron
+				}
+				color = { 112 107 246 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_linesa = {
+				b_tyesanka = {
+					title = baron
+					title_female = baron
+				}
+				b_qavesa = {
+					title = baron
+					title_female = baron
+				}
+				b_kelanka = {
+					title = baron
+					title_female = baron
+				}
+				b_kinada = {
+					title = baron
+					title_female = baron
+				}
+				b_qinojan = {
+					title = baron
+					title_female = baron
+				}
+				b_atemada = {
+					title = baron
+					title_female = baron
+				}
+				b_demada = {
+					title = baron
+					title_female = baron
+				}
+				b_kimonka = {
+					title = baron
+					title_female = baron
+				}
+				color = { 17 200 222 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_waballi = {
+				holy_site = halfling_pagan_reformed
+				holy_site = halfling_pagan
+				b_lojan = {
+					title = baron
+					title_female = baron
+				}
+				b_kavonka = {
+					title = baron
+					title_female = baron
+				}
+				b_qesa = {
+					title = baron
+					title_female = baron
+				}
+				b_donojan = {
+					title = baron
+					title_female = baron
+				}
+				b_kabalan = {
+					title = baron
+					title_female = baron
+				}
+				b_wadalli = {
+					title = baron
+					title_female = baron
+				}
+				b_atemanka = {
+					title = baron
+					title_female = baron
+				}
+				b_wabitya = {
+					title = baron
+					title_female = baron
+				}
+				color = { 70 93 95 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_wideva = {
+				b_ninalan = {
+					title = baron
+					title_female = baron
+				}
+				b_sinalan = {
+					title = baron
+					title_female = baron
+				}
+				b_neloti = {
+					title = baron
+					title_female = baron
+				}
+				b_linada = {
+					title = baron
+					title_female = baron
+				}
+				b_semesa = {
+					title = baron
+					title_female = baron
+				}
+				b_sononka = {
+					title = baron
+					title_female = baron
+				}
+				b_duedoti = {
+					title = baron
+					title_female = baron
+				}
+				b_qaballi = {
+					title = baron
+					title_female = baron
+				}
+				color = { 85 102 31 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_agralli = {
+				b_ninoti = {
+					title = baron
+					title_female = baron
+				}
+				b_tinanka = {
+					title = baron
+					title_female = baron
+				}
+				b_egabalan = {
+					title = baron
+					title_female = baron
+				}
+				b_bemita = {
+					title = baron
+					title_female = baron
+				}
+				b_leloti = {
+					title = baron
+					title_female = baron
+				}
+				b_saboti = {
+					title = baron
+					title_female = baron
+				}
+				b_winada = {
+					title = baron
+					title_female = baron
+				}
+				b_esocia = {
+					title = baron
+					title_female = baron
+				}
+				holy_site = tirigh
+				color = { 34 68 215 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			#culture = rariu
+			title = duke
+			title_female = duke
+		}
+		d_agrada = {
+			color = { 199 91 57 }
+			color2 = { 199 91 57 }
+			capital = 904
+			c_wonanka = {
+				b_teirojan = {
+					title = baron
+					title_female = baron
+				}
+				b_wimonda = {
+					title = baron
+					title_female = baron
+				}
+				b_ninocia = {
+					title = baron
+					title_female = baron
+				}
+				b_raditya = {
+					title = baron
+					title_female = baron
+				}
+				b_esimonka = {
+					title = baron
+					title_female = baron
+				}
+				b_sinonka = {
+					title = baron
+					title_female = baron
+				}
+				b_wanka = {
+					title = baron
+					title_female = baron
+				}
+				b_bavada = {
+					title = baron
+					title_female = baron
+				}
+				color = { 183 170 32 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_nonka = {
+				b_buedada = {
+					title = baron
+					title_female = baron
+				}
+				b_qabalan = {
+					title = baron
+					title_female = baron
+				}
+				b_remonka = {
+					title = baron
+					title_female = baron
+				}
+				b_konesa = {
+					title = baron
+					title_female = baron
+				}
+				b_kabesa = {
+					title = baron
+					title_female = baron
+				}
+				b_babocia = {
+					title = baron
+					title_female = baron
+				}
+				b_nuedoti = {
+					title = baron
+					title_female = baron
+				}
+				b_kyesada = {
+					title = baron
+					title_female = baron
+				}
+				color = { 6 78 52 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_naballi = {
+				b_alocia = {
+					title = baron
+					title_female = baron
+				}
+				b_kabada = {
+					title = baron
+					title_female = baron
+				}
+				b_weironka = {
+					title = baron
+					title_female = baron
+				}
+				b_raballi = {
+					title = baron
+					title_female = baron
+				}
+				b_nyesanka = {
+					title = baron
+					title_female = baron
+				}
+				b_temocia = {
+					title = baron
+					title_female = baron
+				}
+				b_naballi = {
+					title = baron
+					title_female = baron
+				}
+				b_saballi = {
+					title = baron
+					title_female = baron
+				}
+				color = { 30 0 65 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			#culture = rariu
+			title = duke
+			title_female = duke
+		}
+		#culture = kigh
+		title = king
+		title_female = king
+	}
+	k_qigh = {
+		color = { 15 243 222 }
+		color2 = { 15 243 222 }
+		capital = 756
+		d_dimada = {
+			color = { 178 58 235 }
+			color2 = { 178 58 235 }
+			capital = 756
+			c_rimada = {
+				b_navocia = {
+					title = baron
+					title_female = baron
+				}
+				b_dimonda = {
+					title = baron
+					title_female = baron
+				}
+				b_rinonda = {
+					title = baron
+					title_female = baron
+				}
+				b_savanka = {
+					title = baron
+					title_female = baron
+				}
+				b_wojan = {
+					title = baron
+					title_female = baron
+				}
+				b_sita = {
+					title = baron
+					title_female = baron
+				}
+				b_dojan = {
+					title = baron
+					title_female = baron
+				}
+				b_tabesa = {
+					title = baron
+					title_female = baron
+				}
+				color = { 134 82 42 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_wadesa = {
+				b_relalli = {
+					title = baron
+					title_female = baron
+				}
+				b_kabitya = {
+					title = baron
+					title_female = baron
+				}
+				b_tadalan = {
+					title = baron
+					title_female = baron
+				}
+				b_apavojan = {
+					title = baron
+					title_female = baron
+				}
+				b_labada = {
+					title = baron
+					title_female = baron
+				}
+				b_byesojan = {
+					title = baron
+					title_female = baron
+				}
+				b_sabitya = {
+					title = baron
+					title_female = baron
+				}
+				b_wabesa = {
+					title = baron
+					title_female = baron
+				}
+				color = { 144 140 173 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_dinonda = {
+				b_beironka = {
+					title = baron
+					title_female = baron
+				}
+				b_agabita = {
+					title = baron
+					title_female = baron
+				}
+				b_esimonda = {
+					title = baron
+					title_female = baron
+				}
+				b_lavanka = {
+					title = baron
+					title_female = baron
+				}
+				b_remojan = {
+					title = baron
+					title_female = baron
+				}
+				b_temalan = {
+					title = baron
+					title_female = baron
+				}
+				b_asoti = {
+					title = baron
+					title_female = baron
+				}
+				b_tabanka = {
+					title = baron
+					title_female = baron
+				}
+				color = { 197 2 119 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			#culture = kigh
+			title = duke
+			title_female = duke
+		}
+		d_ejacyid = {
+			color = { 243 229 172 }
+			color2 = { 243 229 172 }
+			capital = 766
+			c_ryesitya = {
+				b_wemada = {
+					title = baron
+					title_female = baron
+				}
+				b_asimoti = {
+					title = baron
+					title_female = baron
+				}
+				b_wemoti = {
+					title = baron
+					title_female = baron
+				}
+				b_rabonda = {
+					title = baron
+					title_female = baron
+				}
+				b_syesalan = {
+					title = baron
+					title_female = baron
+				}
+				b_lesa = {
+					title = baron
+					title_female = baron
+				}
+				b_taboti = {
+					title = baron
+					title_female = baron
+				}
+				b_babita = {
+					title = baron
+					title_female = baron
+				}
+				color = { 83 139 175 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_wonalan = {
+				b_remocia = {
+					title = baron
+					title_female = baron
+				}
+				b_aralan = {
+					title = baron
+					title_female = baron
+				}
+				b_rabalan = {
+					title = baron
+					title_female = baron
+				}
+				b_qadojan = {
+					title = baron
+					title_female = baron
+				}
+				b_kada = {
+					title = baron
+					title_female = baron
+				}
+				b_dinada = {
+					title = baron
+					title_female = baron
+				}
+				b_agabojan = {
+					title = baron
+					title_female = baron
+				}
+				b_econojan = {
+					title = baron
+					title_female = baron
+				}
+				color = { 42 229 80 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_donanka = {
+				b_roti = {
+					title = baron
+					title_female = baron
+				}
+				b_kinitya = {
+					title = baron
+					title_female = baron
+				}
+				b_rabocia = {
+					title = baron
+					title_female = baron
+				}
+				b_rimojan = {
+					title = baron
+					title_female = baron
+				}
+				b_demalan = {
+					title = baron
+					title_female = baron
+				}
+				b_rimesa = {
+					title = baron
+					title_female = baron
+				}
+				b_telojan = {
+					title = baron
+					title_female = baron
+				}
+				b_kyesonda = {
+					title = baron
+					title_female = baron
+				}
+				color = { 99 164 236 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			#culture = kigh
+			title = duke
+			title_female = duke
+		}
+		d_telekpa = {
+			color = { 125 178 55 }
+			color2 = { 125 178 55 }
+			capital = 337
+			c_kavanka = {
+				b_tavita = {
+					title = baron
+					title_female = baron
+				}
+				b_lavojan = {
+					title = baron
+					title_female = baron
+				}
+				b_apavocia = {
+					title = baron
+					title_female = baron
+				}
+				b_bavocia = {
+					title = baron
+					title_female = baron
+				}
+				b_rinojan = {
+					title = baron
+					title_female = baron
+				}
+				b_navonka = {
+					title = baron
+					title_female = baron
+				}
+				b_etemojan = {
+					title = baron
+					title_female = baron
+				}
+				b_nabocia = {
+					title = baron
+					title_female = baron
+				}
+				color = { 214 253 148 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_reiranka = {
+				b_bonka = {
+					title = baron
+					title_female = baron
+				}
+				b_akinalan = {
+					title = baron
+					title_female = baron
+				}
+				b_rabita = {
+					title = baron
+					title_female = baron
+				}
+				b_wonitya = {
+					title = baron
+					title_female = baron
+				}
+				b_radonda = {
+					title = baron
+					title_female = baron
+				}
+				b_tinojan = {
+					title = baron
+					title_female = baron
+				}
+				b_atemalan = {
+					title = baron
+					title_female = baron
+				}
+				b_lelada = {
+					title = baron
+					title_female = baron
+				}
+				color = { 18 97 119 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			#culture = kigh
+			title = duke
+			title_female = duke
+		}
+		d_kanalan = {
+			color = { 212 67 161 }
+			color2 = { 212 67 161 }
+			capital = 338
+			c_teironda = {
+				b_tabonda = {
+					title = baron
+					title_female = baron
+				}
+				b_dabojan = {
+					title = baron
+					title_female = baron
+				}
+				b_alitya = {
+					title = baron
+					title_female = baron
+				}
+				b_tabalan = {
+					title = baron
+					title_female = baron
+				}
+				b_wabojan = {
+					title = baron
+					title_female = baron
+				}
+				b_ranka = {
+					title = baron
+					title_female = baron
+				}
+				b_lemada = {
+					title = baron
+					title_female = baron
+				}
+				b_dabita = {
+					title = baron
+					title_female = baron
+				}
+				color = { 153 197 183 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_agaballi = {
+				b_egavonka = {
+					title = baron
+					title_female = baron
+				}
+				b_tyesonda = {
+					title = baron
+					title_female = baron
+				}
+				b_sonojan = {
+					title = baron
+					title_female = baron
+				}
+				b_temitya = {
+					title = baron
+					title_female = baron
+				}
+				b_qonda = {
+					title = baron
+					title_female = baron
+				}
+				b_lonada = {
+					title = baron
+					title_female = baron
+				}
+				b_lyesocia = {
+					title = baron
+					title_female = baron
+				}
+				b_qaboti = {
+					title = baron
+					title_female = baron
+				}
+				color = { 115 244 134 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_asimojan = {
+				b_tavada = {
+					title = baron
+					title_female = baron
+				}
+				b_qimonka = {
+					title = baron
+					title_female = baron
+				}
+				b_badalan = {
+					title = baron
+					title_female = baron
+				}
+				b_ahelalan = {
+					title = baron
+					title_female = baron
+				}
+				b_lonesa = {
+					title = baron
+					title_female = baron
+				}
+				b_qadonka = {
+					title = baron
+					title_female = baron
+				}
+				b_agavada = {
+					title = baron
+					title_female = baron
+				}
+				b_konoti = {
+					title = baron
+					title_female = baron
+				}
+				color = { 30 104 237 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			#culture = kigh
+			title = duke
+			title_female = duke
+		}
+		d_wahagpa = {
+			color = { 226 140 55 }
+			color2 = { 226 140 55 }
+			capital = 1010
+			c_rinojan = {
+				b_wyesanka = {
+					title = baron
+					title_female = baron
+				}
+				b_asimanka = {
+					title = baron
+					title_female = baron
+				}
+				b_egaballi = {
+					title = baron
+					title_female = baron
+				}
+				b_nonitya = {
+					title = baron
+					title_female = baron
+				}
+				b_tonanka = {
+					title = baron
+					title_female = baron
+				}
+				b_relonda = {
+					title = baron
+					title_female = baron
+				}
+				b_alalli = {
+					title = baron
+					title_female = baron
+				}
+				b_tadonda = {
+					title = baron
+					title_female = baron
+				}
+				color = { 215 74 17 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_nelojan = {
+				b_radada = {
+					title = baron
+					title_female = baron
+				}
+				b_kadocia = {
+					title = baron
+					title_female = baron
+				}
+				b_kavitya = {
+					title = baron
+					title_female = baron
+				}
+				b_qeirada = {
+					title = baron
+					title_female = baron
+				}
+				b_rabitya = {
+					title = baron
+					title_female = baron
+				}
+				b_egabonka = {
+					title = baron
+					title_female = baron
+				}
+				b_tinada = {
+					title = baron
+					title_female = baron
+				}
+				b_qyesita = {
+					title = baron
+					title_female = baron
+				}
+				color = { 52 221 114 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_ladada = {
+				b_kemoti = {
+					title = baron
+					title_female = baron
+				}
+				b_alesa = {
+					title = baron
+					title_female = baron
+				}
+				b_koti = {
+					title = baron
+					title_female = baron
+				}
+				b_tyesada = {
+					title = baron
+					title_female = baron
+				}
+				b_labita = {
+					title = baron
+					title_female = baron
+				}
+				b_qimalan = {
+					title = baron
+					title_female = baron
+				}
+				b_apavita = {
+					title = baron
+					title_female = baron
+				}
+				b_wocia = {
+					title = baron
+					title_female = baron
+				}
+				holy_site = kyabolm
+				color = { 9 79 205 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			#culture = kigh
+			title = duke
+			title_female = duke
+		}
+		d_batagpa = {
+			color = { 68 103 189 }
+			color2 = { 68 103 189 }
+			capital = 1024
+			c_dabojan = {
+				b_nemojan = {
+					title = baron
+					title_female = baron
+				}
+				b_savita = {
+					title = baron
+					title_female = baron
+				}
+				b_wemalli = {
+					title = baron
+					title_female = baron
+				}
+				b_welesa = {
+					title = baron
+					title_female = baron
+				}
+				b_wabonda = {
+					title = baron
+					title_female = baron
+				}
+				b_navojan = {
+					title = baron
+					title_female = baron
+				}
+				b_timonda = {
+					title = baron
+					title_female = baron
+				}
+				b_ahadalli = {
+					title = baron
+					title_female = baron
+				}
+				holy_site = kyabolm
+				color = { 137 221 133 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_rideva = {
+				b_kavalan = {
+					title = baron
+					title_female = baron
+				}
+				b_relojan = {
+					title = baron
+					title_female = baron
+				}
+				b_asimesa = {
+					title = baron
+					title_female = baron
+				}
+				b_wabanka = {
+					title = baron
+					title_female = baron
+				}
+				b_beiralan = {
+					title = baron
+					title_female = baron
+				}
+				b_noti = {
+					title = baron
+					title_female = baron
+				}
+				b_qeiranka = {
+					title = baron
+					title_female = baron
+				}
+				b_qinonka = {
+					title = baron
+					title_female = baron
+				}
+				color = { 163 119 143 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_binitya = {
+				b_deirita = {
+					title = baron
+					title_female = baron
+				}
+				b_ehadesa = {
+					title = baron
+					title_female = baron
+				}
+				b_tavanka = {
+					title = baron
+					title_female = baron
+				}
+				b_rabesa = {
+					title = baron
+					title_female = baron
+				}
+				b_rimalli = {
+					title = baron
+					title_female = baron
+				}
+				b_timada = {
+					title = baron
+					title_female = baron
+				}
+				b_seironka = {
+					title = baron
+					title_female = baron
+				}
+				b_ronojan = {
+					title = baron
+					title_female = baron
+				}
+				color = { 52 214 112 }
+				color2 = { 185 89 132 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			#culture = kigh
+			title = duke
+			title_female = duke
+		}
+		#culture = kigh
+		title = king
+		title_female = king
+	}
+	k_qotali = {
+		color = { 210 35 105 }
+		color2 = { 210 35 105 }
+		capital = 571
+		d_saxuda = {
+			color = { 12 4 17 }
+			color2 = { 12 4 17 }
+			capital = 571
+			c_kaxodar = {
+				holy_site = orc_pagan_reformed
+				holy_site = orc_pagan
+				holy_site = catholic
+				holy_site = orthodox
+				holy_site = miaphysite
+				holy_site = nestorian
+				holy_site = cathar
+				holy_site = fraticelli
+				holy_site = waldensian
+				holy_site = lollard
+				holy_site = monophysite
+				holy_site = bogomilist
+				holy_site = monothelite
+				holy_site = iconoclast
+				holy_site = paulician
+				holy_site = messalian
+				holy_site = sunni
+				holy_site = zikri
+				holy_site = yazidi
+				holy_site = ibadi
+				holy_site = kharijite
+				holy_site = shiite
+				holy_site = druze
+				holy_site = hurufi
+				holy_site = pagan
+				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
+				holy_site = tengri_pagan_reformed
+				holy_site = tengri_pagan
+				holy_site = baltic_pagan_reformed
+				holy_site = baltic_pagan
+				holy_site = finnish_pagan_reformed
+				holy_site = finnish_pagan
+				holy_site = aztec_reformed
+				holy_site = aztec
+				holy_site = slavic_pagan_reformed
+				holy_site = slavic_pagan
+				holy_site = west_african_pagan_reformed
+				holy_site = west_african_pagan
+				holy_site = zun_pagan_reformed
+				holy_site = zun_pagan
+				holy_site = hellenic_pagan_reformed
+				holy_site = hellenic_pagan
+				holy_site = bon_reformed
+				holy_site = bon
+				holy_site = zoroastrian
+				holy_site = mazdaki
+				holy_site = manichean
+				holy_site = khurmazta
+				holy_site = jewish
+				holy_site = samaritan
+				holy_site = karaite
+				holy_site = hindu
+				holy_site = buddhist
+				holy_site = jain
+				holy_site = taoist
+				b_ladeslav = {
+					title = baron
+					title_female = baron
+				}
+				b_baxilvia = {
+					title = baron
+					title_female = baron
+				}
+				b_qicisey = {
+					title = baron
+					title_female = baron
+				}
+				b_nocapa = {
+					title = baron
+					title_female = baron
+				}
+				b_serupta = {
+					title = baron
+					title_female = baron
+				}
+				b_emerupta = {
+					title = baron
+					title_female = baron
+				}
+				b_agyee = {
+					title = baron
+					title_female = baron
+				}
+				b_tadonia = {
+					title = baron
+					title_female = baron
+				}
+				color = { 39 156 127 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_tigida = {
+				holy_site = catholic
+				holy_site = orthodox
+				holy_site = miaphysite
+				holy_site = nestorian
+				holy_site = cathar
+				holy_site = fraticelli
+				holy_site = waldensian
+				holy_site = lollard
+				holy_site = monophysite
+				holy_site = bogomilist
+				holy_site = monothelite
+				holy_site = iconoclast
+				holy_site = paulician
+				holy_site = messalian
+				holy_site = sunni
+				holy_site = zikri
+				holy_site = yazidi
+				holy_site = ibadi
+				holy_site = kharijite
+				holy_site = shiite
+				holy_site = druze
+				holy_site = hurufi
+				holy_site = pagan
+				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
+				holy_site = tengri_pagan_reformed
+				holy_site = tengri_pagan
+				holy_site = baltic_pagan_reformed
+				holy_site = baltic_pagan
+				holy_site = finnish_pagan_reformed
+				holy_site = finnish_pagan
+				holy_site = aztec_reformed
+				holy_site = aztec
+				holy_site = slavic_pagan_reformed
+				holy_site = slavic_pagan
+				holy_site = west_african_pagan_reformed
+				holy_site = west_african_pagan
+				holy_site = zun_pagan_reformed
+				holy_site = zun_pagan
+				holy_site = hellenic_pagan_reformed
+				holy_site = hellenic_pagan
+				holy_site = bon_reformed
+				holy_site = bon
+				holy_site = zoroastrian
+				holy_site = mazdaki
+				holy_site = manichean
+				holy_site = khurmazta
+				holy_site = jewish
+				holy_site = samaritan
+				holy_site = karaite
+				holy_site = hindu
+				holy_site = buddhist
+				holy_site = jain
+				holy_site = taoist
+				b_quslan = {
+					title = baron
+					title_female = baron
+				}
+				b_wyee = {
+					title = baron
+					title_female = baron
+				}
+				b_terupta = {
+					title = baron
+					title_female = baron
+				}
+				b_badada = {
+					title = baron
+					title_female = baron
+				}
+				b_baxida = {
+					title = baron
+					title_female = baron
+				}
+				b_kaxeszek = {
+					title = baron
+					title_female = baron
+				}
+				b_ebuslan = {
+					title = baron
+					title_female = baron
+				}
+				b_qaxilvia = {
+					title = baron
+					title_female = baron
+				}
+				color = { 42 100 87 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_docuda = {
+				holy_site = catholic
+				holy_site = orthodox
+				holy_site = miaphysite
+				holy_site = nestorian
+				holy_site = cathar
+				holy_site = fraticelli
+				holy_site = waldensian
+				holy_site = lollard
+				holy_site = monophysite
+				holy_site = bogomilist
+				holy_site = monothelite
+				holy_site = iconoclast
+				holy_site = paulician
+				holy_site = messalian
+				holy_site = sunni
+				holy_site = zikri
+				holy_site = yazidi
+				holy_site = ibadi
+				holy_site = kharijite
+				holy_site = shiite
+				holy_site = druze
+				holy_site = hurufi
+				holy_site = pagan
+				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
+				holy_site = tengri_pagan_reformed
+				holy_site = tengri_pagan
+				holy_site = baltic_pagan_reformed
+				holy_site = baltic_pagan
+				holy_site = finnish_pagan_reformed
+				holy_site = finnish_pagan
+				holy_site = aztec_reformed
+				holy_site = aztec
+				holy_site = slavic_pagan_reformed
+				holy_site = slavic_pagan
+				holy_site = west_african_pagan_reformed
+				holy_site = west_african_pagan
+				holy_site = zun_pagan_reformed
+				holy_site = zun_pagan
+				holy_site = hellenic_pagan_reformed
+				holy_site = hellenic_pagan
+				holy_site = bon_reformed
+				holy_site = bon
+				holy_site = zoroastrian
+				holy_site = mazdaki
+				holy_site = manichean
+				holy_site = khurmazta
+				holy_site = jewish
+				holy_site = samaritan
+				holy_site = karaite
+				holy_site = hindu
+				holy_site = buddhist
+				holy_site = jain
+				holy_site = taoist
+				b_echupta = {
+					title = baron
+					title_female = baron
+				}
+				b_raxuslan = {
+					title = baron
+					title_female = baron
+				}
+				b_sonia = {
+					title = baron
+					title_female = baron
+				}
+				b_retida = {
+					title = baron
+					title_female = baron
+				}
+				b_derupta = {
+					title = baron
+					title_female = baron
+				}
+				b_abeszek = {
+					title = baron
+					title_female = baron
+				}
+				b_dyuta = {
+					title = baron
+					title_female = baron
+				}
+				b_derida = {
+					title = baron
+					title_female = baron
+				}
+				color = { 40 84 86 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_rebisey = {
+				holy_site = catholic
+				holy_site = orthodox
+				holy_site = miaphysite
+				holy_site = nestorian
+				holy_site = cathar
+				holy_site = fraticelli
+				holy_site = waldensian
+				holy_site = lollard
+				holy_site = monophysite
+				holy_site = bogomilist
+				holy_site = monothelite
+				holy_site = iconoclast
+				holy_site = paulician
+				holy_site = messalian
+				holy_site = sunni
+				holy_site = zikri
+				holy_site = yazidi
+				holy_site = ibadi
+				holy_site = kharijite
+				holy_site = shiite
+				holy_site = druze
+				holy_site = hurufi
+				holy_site = pagan
+				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
+				holy_site = tengri_pagan_reformed
+				holy_site = tengri_pagan
+				holy_site = baltic_pagan_reformed
+				holy_site = baltic_pagan
+				holy_site = finnish_pagan_reformed
+				holy_site = finnish_pagan
+				holy_site = aztec_reformed
+				holy_site = aztec
+				holy_site = slavic_pagan_reformed
+				holy_site = slavic_pagan
+				holy_site = west_african_pagan_reformed
+				holy_site = west_african_pagan
+				holy_site = zun_pagan_reformed
+				holy_site = zun_pagan
+				holy_site = hellenic_pagan_reformed
+				holy_site = hellenic_pagan
+				holy_site = bon_reformed
+				holy_site = bon
+				holy_site = zoroastrian
+				holy_site = mazdaki
+				holy_site = manichean
+				holy_site = khurmazta
+				holy_site = jewish
+				holy_site = samaritan
+				holy_site = karaite
+				holy_site = hindu
+				holy_site = buddhist
+				holy_site = jain
+				holy_site = taoist
+				b_lorofan = {
+					title = baron
+					title_female = baron
+				}
+				b_laxonia = {
+					title = baron
+					title_female = baron
+				}
+				b_debapa = {
+					title = baron
+					title_female = baron
+				}
+				b_riebada = {
+					title = baron
+					title_female = baron
+				}
+				b_noceslav = {
+					title = baron
+					title_female = baron
+				}
+				b_achisey = {
+					title = baron
+					title_female = baron
+				}
+				b_anorapa = {
+					title = baron
+					title_female = baron
+				}
+				b_koceslav = {
+					title = baron
+					title_female = baron
+				}
+				color = { 0 225 178 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			#culture = rariu
+			title = duke
+			title_female = duke
+		}
+		d_konka = {
+			color = { 174 206 112 }
+			color2 = { 174 206 112 }
+			capital = 274
+			c_rabojan = {
+				b_tavonka = {
+					title = baron
+					title_female = baron
+				}
+				b_nonita = {
+					title = baron
+					title_female = baron
+				}
+				b_kaboti = {
+					title = baron
+					title_female = baron
+				}
+				b_woti = {
+					title = baron
+					title_female = baron
+				}
+				b_qelitya = {
+					title = baron
+					title_female = baron
+				}
+				b_keirita = {
+					title = baron
+					title_female = baron
+				}
+				b_atemocia = {
+					title = baron
+					title_female = baron
+				}
+				b_ravalli = {
+					title = baron
+					title_female = baron
+				}
+				color = { 212 164 0 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_tavitya = {
+				b_ravonka = {
+					title = baron
+					title_female = baron
+				}
+				b_kimitya = {
+					title = baron
+					title_female = baron
+				}
+				b_kinonda = {
+					title = baron
+					title_female = baron
+				}
+				b_wyesonda = {
+					title = baron
+					title_female = baron
+				}
+				b_ehelocia = {
+					title = baron
+					title_female = baron
+				}
+				b_tuedada = {
+					title = baron
+					title_female = baron
+				}
+				b_timoti = {
+					title = baron
+					title_female = baron
+				}
+				b_konojan = {
+					title = baron
+					title_female = baron
+				}
+				color = { 82 191 183 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_tinada = {
+				b_qimesa = {
+					title = baron
+					title_female = baron
+				}
+				b_qemalan = {
+					title = baron
+					title_female = baron
+				}
+				b_agralli = {
+					title = baron
+					title_female = baron
+				}
+				b_ruedada = {
+					title = baron
+					title_female = baron
+				}
+				b_bavanka = {
+					title = baron
+					title_female = baron
+				}
+				b_tavocia = {
+					title = baron
+					title_female = baron
+				}
+				b_ryesojan = {
+					title = baron
+					title_female = baron
+				}
+				b_relita = {
+					title = baron
+					title_female = baron
+				}
+				color = { 2 222 159 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_qeiralli = {
+				b_egabada = {
+					title = baron
+					title_female = baron
+				}
+				b_bimada = {
+					title = baron
+					title_female = baron
+				}
+				b_qavita = {
+					title = baron
+					title_female = baron
+				}
+				b_kuedada = {
+					title = baron
+					title_female = baron
+				}
+				b_reiresa = {
+					title = baron
+					title_female = baron
+				}
+				b_ekinoti = {
+					title = baron
+					title_female = baron
+				}
+				b_egrada = {
+					title = baron
+					title_female = baron
+				}
+				b_econesa = {
+					title = baron
+					title_female = baron
+				}
+				color = { 67 183 112 }
+				color2 = { 237 211 162 }
+				#culture = atemalli
+				title = count
+				title_female = count
+			}
+			title = duke
+			title_female = duke
+		}
+		d_davonka = {
+			color = { 76 132 185 }
+			color2 = { 76 132 185 }
+			capital = 273
+			c_kerodar = {
+				b_bicodar = {
+					title = baron
+					title_female = baron
+				}
+				b_beikada = {
+					title = baron
+					title_female = baron
+				}
+				b_torofan = {
+					title = baron
+					title_female = baron
+				}
+				b_wiguda = {
+					title = baron
+					title_female = baron
+				}
+				b_raxada = {
+					title = baron
+					title_female = baron
+				}
+				b_docopluk = {
+					title = baron
+					title_female = baron
+				}
+				b_riconia = {
+					title = baron
+					title_female = baron
+				}
+				b_epetelen = {
+					title = baron
+					title_female = baron
+				}
+				color = { 192 168 135 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			c_netuda = {
+				b_nocelen = {
+					title = baron
+					title_female = baron
+				}
+				b_leruda = {
+					title = baron
+					title_female = baron
+				}
+				b_ladosye = {
+					title = baron
+					title_female = baron
+				}
+				b_setupta = {
+					title = baron
+					title_female = baron
+				}
+				b_loronia = {
+					title = baron
+					title_female = baron
+				}
+				b_rorida = {
+					title = baron
+					title_female = baron
+				}
+				b_emeronia = {
+					title = baron
+					title_female = baron
+				}
+				b_debada = {
+					title = baron
+					title_female = baron
+				}
+				color = { 83 65 83 }
+				color2 = { 237 211 162 }
+				#culture = atemalli
+				title = count
+				title_female = count
+			}
+			c_qigapa = {
+				b_korupta = {
+					title = baron
+					title_female = baron
+				}
+				b_qerida = {
+					title = baron
+					title_female = baron
+				}
+				b_qetelen = {
+					title = baron
+					title_female = baron
+				}
+				b_qaduda = {
+					title = baron
+					title_female = baron
+				}
+				b_nigonia = {
+					title = baron
+					title_female = baron
+				}
+				b_emicupta = {
+					title = baron
+					title_female = baron
+				}
+				b_ticapa = {
+					title = baron
+					title_female = baron
+				}
+				b_qigapa = {
+					title = baron
+					title_female = baron
+				}
+				color = { 67 11 61 }
+				color2 = { 97 111 131 }
+				#culture = rariu
+				title = count
+				title_female = count
+			}
+			title = duke
+			title_female = duke
+		}
+		d_rabah = {
+			color = { 224 212 193 }
+			color2 = { 224 212 193 }
+			capital = 217
+			c_berapa = {
+				b_qeszek = {
+					title = baron
+					title_female = baron
+				}
+				b_raxofan = {
+					title = baron
+					title_female = baron
+				}
+				b_taduda = {
+					title = baron
+					title_female = baron
+				}
+				b_qebodar = {
+					title = baron
+					title_female = baron
+				}
+				b_deruda = {
+					title = baron
+					title_female = baron
+				}
+				b_saxelen = {
+					title = baron
+					title_female = baron
+				}
+				b_kerisey = {
+					title = baron
+					title_female = baron
+				}
+				b_nuslan = {
+					title = baron
+					title_female = baron
+				}
+				color = { 108 77 25 }
+				color2 = { 254 204 215 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			c_bicida = {
+				b_wocodar = {
+					title = baron
+					title_female = baron
+				}
+				b_qicodar = {
+					title = baron
+					title_female = baron
+				}
+				b_wadonia = {
+					title = baron
+					title_female = baron
+				}
+				b_terisey = {
+					title = baron
+					title_female = baron
+				}
+				b_tigelen = {
+					title = baron
+					title_female = baron
+				}
+				b_ebeslav = {
+					title = baron
+					title_female = baron
+				}
+				b_ryoa = {
+					title = baron
+					title_female = baron
+				}
+				b_enoruda = {
+					title = baron
+					title_female = baron
+				}
+				color = { 203 8 152 }
+				color2 = { 254 204 215 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			c_topluk = {
+				b_echopluk = {
+					title = baron
+					title_female = baron
+				}
+				b_selen = {
+					title = baron
+					title_female = baron
+				}
+				b_qyua = {
+					title = baron
+					title_female = baron
+				}
+				b_amerofan = {
+					title = baron
+					title_female = baron
+				}
+				b_kigupta = {
+					title = baron
+					title_female = baron
+				}
+				b_rebofan = {
+					title = baron
+					title_female = baron
+				}
+				b_taxelen = {
+					title = baron
+					title_female = baron
+				}
+				b_qocopluk = {
+					title = baron
+					title_female = baron
+				}
+				color = { 198 58 226 }
+				color2 = { 254 204 215 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			title = duke
+			title_female = duke
+		}
+		d_keatte = {
+			color = { 114 218 159 }
+			color2 = { 114 218 159 }
+			capital = 219
+			c_kocida = {
+				b_tocuslan = {
+					title = baron
+					title_female = baron
+				}
+				b_riebapa = {
+					title = baron
+					title_female = baron
+				}
+				b_socada = {
+					title = baron
+					title_female = baron
+				}
+				b_adopluk = {
+					title = baron
+					title_female = baron
+				}
+				b_teslav = {
+					title = baron
+					title_female = baron
+				}
+				b_qaxada = {
+					title = baron
+					title_female = baron
+				}
+				b_reikuda = {
+					title = baron
+					title_female = baron
+				}
+				b_dorupta = {
+					title = baron
+					title_female = baron
+				}
+				color = { 207 216 146 }
+				color2 = { 254 204 215 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			c_saudosi = {
+				holy_site = halfling_pagan_reformed
+				holy_site = halfling_pagan
+				b_tatura = {
+					title = baron
+					title_female = baron
+				}
+				b_waudte = {
+					title = baron
+					title_female = baron
+				}
+				b_qatree = {
+					title = baron
+					title_female = baron
+				}
+				b_waugas = {
+					title = baron
+					title_female = baron
+				}
+				b_luunona = {
+					title = baron
+					title_female = baron
+				}
+				b_saudosi = {
+					title = baron
+					title_female = baron
+				}
+				b_kurare = {
+					title = baron
+					title_female = baron
+				}
+				b_dictor = {
+					title = baron
+					title_female = baron
+				}
+				color = { 16 157 120 }
+				color2 = { 254 204 215 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			c_sabofia = {
+				b_qurare = {
+					title = baron
+					title_female = baron
+				}
+				b_teatree = {
+					title = baron
+					title_female = baron
+				}
+				b_naudura = {
+					title = baron
+					title_female = baron
+				}
+				b_taudura = {
+					title = baron
+					title_female = baron
+				}
+				b_teocawwa = {
+					title = baron
+					title_female = baron
+				}
+				b_nabosi = {
+					title = baron
+					title_female = baron
+				}
+				b_neatah = {
+					title = baron
+					title_female = baron
+				}
+				b_keatare = {
+					title = baron
+					title_female = baron
+				}
+				color = { 58 87 200 }
+				color2 = { 254 204 215 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			#culture = karen
+			title = duke
+			title_female = duke
+		}
+		title = king
+		title_female = king
+	}
+	k_temoti = {
+		color = { 227 145 52 }
+		color2 = { 227 145 52 }
+		capital = 328
+		d_tanka = {
+			color = { 164 97 115 }
+			color2 = { 164 97 115 }
+			capital = 330
+			c_qemocia = {
+				b_weirojan = {
+					title = baron
+					title_female = baron
+				}
+				b_qavonda = {
+					title = baron
+					title_female = baron
+				}
+				b_ravita = {
+					title = baron
+					title_female = baron
+				}
+				b_akinalli = {
+					title = baron
+					title_female = baron
+				}
+				b_konanka = {
+					title = baron
+					title_female = baron
+				}
+				b_tadanka = {
+					title = baron
+					title_female = baron
+				}
+				b_sojan = {
+					title = baron
+					title_female = baron
+				}
+				b_bavojan = {
+					title = baron
+					title_female = baron
+				}
+				color = { 57 51 254 }
+				color2 = { 196 60 92 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			c_econesa = {
+				holy_site = halfling_pagan_reformed
+				holy_site = halfling_pagan
+				b_kabonda = {
+					title = baron
+					title_female = baron
+				}
+				b_balli = {
+					title = baron
+					title_female = baron
+				}
+				b_qemitya = {
+					title = baron
+					title_female = baron
+				}
+				b_agabada = {
+					title = baron
+					title_female = baron
+				}
+				b_qyesojan = {
+					title = baron
+					title_female = baron
+				}
+				b_tinonda = {
+					title = baron
+					title_female = baron
+				}
+				b_eralli = {
+					title = baron
+					title_female = baron
+				}
+				b_nesa = {
+					title = baron
+					title_female = baron
+				}
+				color = { 79 88 57 }
+				color2 = { 196 60 92 }
+				#culture = karen
+				title = count
+				title_female = count
+			}
+			c_dadesa = {
+				b_davitya = {
+					title = baron
+					title_female = baron
+				}
+				b_ravesa = {
+					title = baron
+					title_female = baron
+				}
+				b_temalli = {
+					title = baron
+					title_female = baron
+				}
+				b_nadanka = {
+					title = baron
+					title_female = baron
+				}
+				b_etemoti = {
+					title = baron
+					title_female = baron
+				}
+				b_qyesitya = {
+					title = baron
+					title_female = baron
+				}
+				b_esimalli = {
+					title = baron
+					title_female = baron
+				}
+				b_qojan = {
+					title = baron
+					title_female = baron
+				}
+				color = { 34 127 50 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			title = duke
+			title_female = duke
+		}
+		d_relesa = {
+			color = { 11 83 13 }
+			color2 = { 11 83 13 }
+			capital = 278
+			c_tonda = {
+				b_agaballi = {
+					title = baron
+					title_female = baron
+				}
+				b_qavalan = {
+					title = baron
+					title_female = baron
+				}
+				b_konita = {
+					title = baron
+					title_female = baron
+				}
+				b_teironda = {
+					title = baron
+					title_female = baron
+				}
+				b_qemocia = {
+					title = baron
+					title_female = baron
+				}
+				b_tyesonka = {
+					title = baron
+					title_female = baron
+				}
+				b_kalan = {
+					title = baron
+					title_female = baron
+				}
+				b_radojan = {
+					title = baron
+					title_female = baron
+				}
+				color = { 90 84 104 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_tagawar = {
+				b_kine = {
+					title = baron
+					title_female = baron
+				}
+				b_esobict = {
+					title = baron
+					title_female = baron
+				}
+				b_kemasi = {
+					title = baron
+					title_female = baron
+				}
+				b_apurari = {
+					title = baron
+					title_female = baron
+				}
+				b_timalir = {
+					title = baron
+					title_female = baron
+				}
+				b_qurid = {
+					title = baron
+					title_female = baron
+				}
+				b_wemari = {
+					title = baron
+					title_female = baron
+				}
+				b_qimalid = {
+					title = baron
+					title_female = baron
+				}
+				color = { 140 109 146 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			c_luedada = {
+				b_danka = {
+					title = baron
+					title_female = baron
+				}
+				b_labojan = {
+					title = baron
+					title_female = baron
+				}
+				b_kimada = {
+					title = baron
+					title_female = baron
+				}
+				b_sabada = {
+					title = baron
+					title_female = baron
+				}
+				b_tonada = {
+					title = baron
+					title_female = baron
+				}
+				b_kadoti = {
+					title = baron
+					title_female = baron
+				}
+				b_sonita = {
+					title = baron
+					title_female = baron
+				}
+				b_tabojan = {
+					title = baron
+					title_female = baron
+				}
+				color = { 147 83 154 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			#culture = kigh
+			title = duke
+			title_female = duke
+		}
+		d_aconada = {
+			color = { 131 98 84 }
+			color2 = { 131 98 84 }
+			capital = 1226
+			c_qeirita = {
+				b_konalli = {
+					title = baron
+					title_female = baron
+				}
+				b_lyesoti = {
+					title = baron
+					title_female = baron
+				}
+				b_deironda = {
+					title = baron
+					title_female = baron
+				}
+				b_ehelita = {
+					title = baron
+					title_female = baron
+				}
+				b_bimesa = {
+					title = baron
+					title_female = baron
+				}
+				b_bitya = {
+					title = baron
+					title_female = baron
+				}
+				b_semita = {
+					title = baron
+					title_female = baron
+				}
+				b_byesitya = {
+					title = baron
+					title_female = baron
+				}
+				holy_site = tirigh
+				color = { 235 18 66 }
+				color2 = { 127 187 206 }
+				#culture = dojan
+				title = count
+				title_female = count
+			}
+			c_ladonda = {
+				b_tabada = {
+					title = baron
+					title_female = baron
+				}
+				b_kabita = {
+					title = baron
+					title_female = baron
+				}
+				b_donka = {
+					title = baron
+					title_female = baron
+				}
+				b_demonda = {
+					title = baron
+					title_female = baron
+				}
+				b_ditya = {
+					title = baron
+					title_female = baron
+				}
+				b_rabojan = {
+					title = baron
+					title_female = baron
+				}
+				b_talan = {
+					title = baron
+					title_female = baron
+				}
+				b_kemita = {
+					title = baron
+					title_female = baron
+				}
+				color = { 63 177 157 }
+				color2 = { 127 187 206 }
+				#culture = dojan
+				title = count
+				title_female = count
+			}
+			c_sita = {
+				b_kemonka = {
+					title = baron
+					title_female = baron
+				}
+				b_dyesocia = {
+					title = baron
+					title_female = baron
+				}
+				b_ravitya = {
+					title = baron
+					title_female = baron
+				}
+				b_ravojan = {
+					title = baron
+					title_female = baron
+				}
+				b_kemalli = {
+					title = baron
+					title_female = baron
+				}
+				b_wavonda = {
+					title = baron
+					title_female = baron
+				}
+				b_wabada = {
+					title = baron
+					title_female = baron
+				}
+				b_demita = {
+					title = baron
+					title_female = baron
+				}
+				color = { 42 227 251 }
+				color2 = { 74 109 57 }
+				#culture = kigh
+				title = count
+				title_female = count
+			}
+			title = duke
+			title_female = duke
+		}
+		title = king
+		title_female = king
+	}
+	title = emperor
+	title_female = emperor
+}
+

@@ -1,0 +1,9 @@
+title = c_edemiik
+max_settlements = 6
+culture = sidhe
+religion = tree
+terrain = forest
+b_retand = castle
+b_waleka = castle
+b_lalith = city
+b_duoo = temple

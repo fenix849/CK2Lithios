@@ -1,0 +1,6 @@
+title = c_dimasi
+max_settlements = 3
+culture = orc
+religion = orc_pagan
+terrain = hills
+b_bunid = tribal

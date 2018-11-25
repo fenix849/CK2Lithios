@@ -1,0 +1,6 @@
+title = c_witibai
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_nyevadur = castle

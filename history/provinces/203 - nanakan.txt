@@ -1,0 +1,6 @@
+title = c_nanakan
+max_settlements = 3
+culture = sedinan
+religion = seven
+terrain = farmlands
+b_ragaway = castle

@@ -1,0 +1,6 @@
+title = c_dadukp
+max_settlements = 3
+culture = sidhe
+religion = tree
+terrain = forest
+b_qanefan = castle

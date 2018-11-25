@@ -1,0 +1,7 @@
+title = c_dutoka
+max_settlements = 6
+culture = celestial
+religion = celestial_pagan
+terrain = jungle
+b_ruduel = castle
+b_dasoka = city

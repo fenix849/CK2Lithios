@@ -1,0 +1,12 @@
+1000000 = {
+	name = Kanç
+	culture = clearlakian
+	religion = seven
+	dynasty = 1
+	992.1.1 = {
+		birth = yes
+	}
+	2000.3.1 = {
+		death = yes
+	}
+}

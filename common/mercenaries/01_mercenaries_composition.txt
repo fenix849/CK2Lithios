@@ -1,0 +1,184 @@
+reddo_saikuron_composition = {
+	levy_size = 10
+	pikemen = 250
+	heavy_infantry = 250
+}
+
+shimotsuki_composition = {
+	levy_size = 10
+	light_infantry = 400
+	heavy_infantry = 200
+	light_cavalry = 200
+}
+
+hunters_composition = {
+	levy_size = 5
+	light_infantry = 300
+	heavy_infantry = 400
+	light_cavalry = 400
+	archers = 300
+	pikemen = 200
+}
+
+wolf_composition = {
+	levy_size = 4
+	light_infantry = 250
+	heavy_infantry = 150
+	light_cavalry = 200
+	archers = 100
+}
+
+swords_composition = {
+	levy_size = 3
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+book_composition = {
+	levy_size = 2
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+force_composition = {
+	levy_size = 1
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+
+# elf
+
+green_baldes_composition  = {
+	levy_size = 5
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+son_gloryland_composition  = {
+	levy_size = 4
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+true_gloryland_composition  = {
+	levy_size = 3
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+black_knights_composition  = {
+	levy_size = 2
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+moon_dance_composition  = {
+	levy_size = 1
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+#dwarf
+
+gold_pick_composition  = {
+	levy_size = 5
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+rock_hounds_composition  = {
+	levy_size = 4
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+stone_arms_composition  = {
+	levy_size = 3
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+mead_loves_composition  = {
+	levy_size = 2
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+battel_smith_composition  = {
+	levy_size = 1
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+#orc
+
+blood_composition  = {
+	levy_size = 5
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+face_composition  = {
+	levy_size = 4
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+skull_composition  = {
+	levy_size = 3
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+gut_composition  = {
+	levy_size = 2
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+foot_composition  = {
+	levy_size = 1
+	light_infantry = 250
+	heavy_infantry = 350
+	light_cavalry = 200
+	archers = 100
+}
+
+
+
+

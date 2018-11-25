@@ -1,0 +1,6 @@
+title = c_ratepi
+max_settlements = 3
+culture = imperial
+religion = seven
+terrain = farmlands
+b_ebibar = castle

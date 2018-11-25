@@ -1,6 +1,7 @@
 title = c_beumo
-max_settlements = 3
+max_settlements = 4
 culture = sidhe
 religion = tree
 terrain = forest
 b_radyen = castle
+b_lalabu = city

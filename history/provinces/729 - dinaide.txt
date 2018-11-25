@@ -1,6 +1,8 @@
 title = c_dinaide
-max_settlements = 3
+max_settlements = 5
 culture = sidhe
 religion = tree
-terrain = forest
+terrain = woods
 b_tarabu = castle
+b_ranarn = city
+b_kinalli = temple

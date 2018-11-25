@@ -1,4 +1,5 @@
 e_deeproots = { #Elves
+#Reds test here
 	color = { 0 179 30 }
 	color2 = { 255 255 51 }
 	capital = 1102 #NO

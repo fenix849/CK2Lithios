@@ -8,10 +8,12 @@ e_deeproots = { #Elves
 		color2 = { 139 242 151 }
 		capital = 742
 		d_ratonti = {
+		#prov history done ~red
 			color = { 83 59 35 }
 			color2 = { 83 59 35 }
 			capital = 743
 			c_nyayuz = {
+			#743
 				b_dikataw = {
 					title = baron
 					title_female = baron
@@ -51,6 +53,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_licavya = {
+			#943
 				b_luyavya = {
 					title = baron
 					title_female = baron
@@ -90,6 +93,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_deudupta = {
+			#808
 				b_neudataw = {
 					title = baron
 					title_female = baron
@@ -137,6 +141,7 @@ e_deeproots = { #Elves
 			color2 = { 152 27 236 }
 			capital = 809
 			c_wyayuq = {
+			#810
 				b_wahuitaw = {
 					title = baron
 					title_female = baron
@@ -176,6 +181,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_atapevi = {
+			#809
 				b_bezauq = {
 					title = baron
 					title_female = baron
@@ -215,6 +221,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_naaq = {
+			#811
 				b_wadati = {
 					title = baron
 					title_female = baron
@@ -258,6 +265,7 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_nyahulgu = {
+		#prov history done ~red
 			color = { 137 209 150 }
 			color2 = { 137 209 150 }
 			capital = 742
@@ -303,6 +311,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_bicavya = {
+			#991
 				b_wuqa = {
 					title = baron
 					title_female = baron
@@ -342,6 +351,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_nezavati = {
+			#982
 				b_wapanu = {
 					title = baron
 					title_female = baron
@@ -1982,6 +1992,8 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_qavurab = {
+			holy_site = cat_pagan_reformed
+			holy_site = cat_pagan
 				b_laryen = {
 					title = baron
 					title_female = baron
@@ -2395,8 +2407,6 @@ e_deeproots = { #Elves
 			color = { 9 103 72 }
 			color2 = { 9 103 72 }
 			capital = 1077
-			holy_site = cat_pagan_reformed
-			holy_site = cat_pagan
 			c_kalodia = {
 				b_qecodia = {
 					title = baron

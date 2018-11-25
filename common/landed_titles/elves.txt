@@ -1,6 +1,6 @@
 e_deeproots = { #Elves
 	color = { 0 179 30 }
-	color2 = { 255 255 51 }
+	color2 = { 255 255 51 } #Ijtzoi tests here
 	capital = 1102 #NO
 	
 	k_tasoka = {

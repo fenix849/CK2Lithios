@@ -2040,7 +2040,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_qavurab = {
-			#
+			#stuff
 				holy_site = cat_pagan_reformed
 			  	holy_site = cat_pagan
 				b_laryen = {

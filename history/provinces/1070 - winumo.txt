@@ -3,5 +3,5 @@ max_settlements = 4
 culture = sidhe
 religion = elder_forest
 terrain = forest
-b_kena = temple
+b_tarumo = temple
 b_talurab = city

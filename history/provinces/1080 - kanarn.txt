@@ -1,6 +1,9 @@
 title = c_kanarn
-max_settlements = 3
+max_settlements = 7
 culture = sidhe
 religion = tree
-terrain = forest
-b_toyafan = castle
+terrain = woods
+b_toyafan = city
+b_ranumo = castle
+b_lamalli = temple
+b_keabu = city

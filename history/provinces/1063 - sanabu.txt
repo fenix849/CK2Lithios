@@ -1,6 +1,7 @@
 title = c_sanabu
-max_settlements = 3
+max_settlements = 4
 culture = sidhe
 religion = tree
 terrain = forest
-b_sinefan = castle
+b_sinefan = city
+b_lararn = castle

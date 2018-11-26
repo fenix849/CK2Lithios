@@ -2,6 +2,7 @@ e_deeproots = { #Elves
 	color = { 0 179 30 }
 	color2 = { 255 255 51 }
 	capital = 1102 #NO
+	controls_religion = tree
 	
 	k_elderlands = {
 		color = { 240 211 240 }
@@ -1702,6 +1703,7 @@ e_deeproots = { #Elves
 		color = { 3 5 219 }
 		color2 = { 3 5 219 }
 		capital = 1072
+		controls_religion = elder_forest
 		d_ranotei = {
 		#prov history done ~red
 			color = { 28 63 87 }
@@ -5432,6 +5434,8 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_wilavka = {
+				holy_site = tree
+				holy_site = elder_forest
 			#595
 				b_weiloo = {
 					title = baron
@@ -9129,8 +9133,6 @@ e_deeproots = { #Elves
 			}
 			c_tutouz = {
 			#960
-				holy_site = cat_pagan_reformed
-				holy_site = cat_pagan
 				b_lapauq = {
 					title = baron
 					title_female = baron
@@ -9735,6 +9737,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_naaq = {
+				holy_site = tree
 			#811
 				b_wadati = {
 					title = baron
@@ -9786,6 +9789,7 @@ e_deeproots = { #Elves
 			c_tahuila = {
 			#742
 				holy_site = tree
+				holy_site = elder_forest
 				b_niyava = {
 					title = baron
 					title_female = baron
@@ -11795,6 +11799,8 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_tyoan = {
+				holy_site = tree
+				holy_site = elder_forest
 				b_athirna = {
 					title = baron
 					title_female = baron
@@ -14554,6 +14560,8 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_terotei = {
+				holy_site = cat_pagan_reformed
+				holy_site = cat_pagan
 				b_lamarak = {
 					title = baron
 					title_female = baron
@@ -14982,6 +14990,8 @@ e_deeproots = { #Elves
 			color2 = { 91 41 117 }
 			capital = 1272
 			c_tovyuk = {
+				holy_site = celestial_pagan_reformed
+				holy_site = celestial_pagan
 			#1272
 				b_qora = {
 					title = baron
@@ -15022,6 +15032,8 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_rinana = {
+				holy_site = celestial_pagan_reformed
+				holy_site = celestial_pagan
 			#1271
 				b_seorca = {
 					title = baron
@@ -15072,6 +15084,8 @@ e_deeproots = { #Elves
 			#capital = 721 this was default why? ?_? 
 			capital = 1274
 			c_kavonka = {
+				holy_site = celestial_pagan_reformed
+				holy_site = celestial_pagan
 			#1273
 				b_rilalum = {
 					title = baron
@@ -15112,6 +15126,8 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_dutoka = {
+				holy_site = celestial_pagan_reformed
+				holy_site = celestial_pagan
 			#1277
 				b_ruduel = {
 					title = baron
@@ -15152,6 +15168,8 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_wuluel = {
+				holy_site = celestial_pagan_reformed
+				holy_site = celestial_pagan
 			#1274
 				b_nadahu = {
 					title = baron

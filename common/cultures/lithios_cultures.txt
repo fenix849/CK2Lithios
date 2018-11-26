@@ -229,7 +229,7 @@ elvish = {
 	
 	high_elf = {
 		graphical_cultures = { asraigfx mesoamericangfx muslimgfx }
-		color = { 1.0 0.5 0.0 }
+		color = { 0.25 0.4 0.1 }
 		
 		male_names = {
 			Adanhu Aedoth Aelwyn Aeron Aestin Aeth-Talu Aethellion Afeen Afyn Ain Aingar Akoralu Alanter Alioth Allun Alnwaen Amadri Andaras Aneeran Aneirian Anyr Aon Aonic Araflane Araloth Arin Arkhar Arkon Arkos Arlas Arnoth Arthron Arwel Aryon Asfael Ashan Astwin Athanfel Atharian Atherin Athirel Athlon Atolmis Aysten
@@ -297,7 +297,7 @@ elvish = {
 	}
 	wood_elf = {
 		graphical_cultures = { asraigfx mesoamericangfx muslimgfx }
-		color = { 1.0 0.5 0.0 }
+		color = { 0.0 0.5 0.0 }
 		
 		male_names = {
 			Adanhu Aedoth Aelwyn Aeron Aestin Aeth-Talu Aethellion Afeen Afyn Ain Aingar Akoralu Alanter Alioth Allun Alnwaen Amadri Andaras Aneeran Aneirian Anyr Aon Aonic Araflane Araloth Arin Arkhar Arkon Arkos Arlas Arnoth Arthron Arwel Aryon Asfael Ashan Astwin Athanfel Atharian Atherin Athirel Athlon Atolmis Aysten
@@ -365,7 +365,7 @@ elvish = {
 	}
 	shadow_elf = {
 		graphical_cultures = { asraigfx mesoamericangfx muslimgfx }
-		color = { 1.0 0.5 0.0 }
+		color = { 0.1 0.2 0.1 }
 		
 		male_names = {
 			Adanhu Aedoth Aelwyn Aeron Aestin Aeth-Talu Aethellion Afeen Afyn Ain Aingar Akoralu Alanter Alioth Allun Alnwaen Amadri Andaras Aneeran Aneirian Anyr Aon Aonic Araflane Araloth Arin Arkhar Arkon Arkos Arlas Arnoth Arthron Arwel Aryon Asfael Ashan Astwin Athanfel Atharian Atherin Athirel Athlon Atolmis Aysten
@@ -433,7 +433,7 @@ elvish = {
 	}
 	mountain_elf = {
 		graphical_cultures = { asraigfx mesoamericangfx muslimgfx }
-		color = { 1.0 0.5 0.0 }
+		color = { 0.45 0.5 0.42 }
 		
 		male_names = {
 			Adanhu Aedoth Aelwyn Aeron Aestin Aeth-Talu Aethellion Afeen Afyn Ain Aingar Akoralu Alanter Alioth Allun Alnwaen Amadri Andaras Aneeran Aneirian Anyr Aon Aonic Araflane Araloth Arin Arkhar Arkon Arkos Arlas Arnoth Arthron Arwel Aryon Asfael Ashan Astwin Athanfel Atharian Atherin Athirel Athlon Atolmis Aysten

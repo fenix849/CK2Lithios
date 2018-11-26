@@ -112,7 +112,7 @@ d_guardians_tree= {
 
     holy_order = yes
 
-    culture = sidhe
+    culture = high_elf
 
     # Parent Religion 
     religion = tree	

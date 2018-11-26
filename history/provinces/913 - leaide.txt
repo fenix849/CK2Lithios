@@ -1,6 +1,6 @@
 title = c_leaide
 max_settlements = 3
-culture = sidhe
+culture = shadow_elf
 religion = tree
 terrain = forest
 b_rapabu = castle

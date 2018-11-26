@@ -1,6 +1,6 @@
 title = c_rogadur
 max_settlements = 3
-culture = sidhe
+culture = high_elf
 religion = tree
 terrain = forest
 b_evlanta = castle

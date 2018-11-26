@@ -1,6 +1,6 @@
 title = c_etuqa
 max_settlements = 4
-culture = sidhe
+culture = shadow_elf
 religion = tree
 terrain = forest
 b_tatupta = castle

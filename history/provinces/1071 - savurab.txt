@@ -1,6 +1,6 @@
 title = c_savurab
 max_settlements = 3
-culture = sidhe
+culture = high_elf
 religion = tree
 terrain = forest
 b_ralaide = city

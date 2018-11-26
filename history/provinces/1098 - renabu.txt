@@ -1,6 +1,6 @@
 title = c_renabu
 max_settlements = 4
-culture = sidhe
+culture = high_elf
 religion = tree
 terrain = forest
 b_rarumo = city

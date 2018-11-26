@@ -1,6 +1,6 @@
 title = c_tapulgu
 max_settlements = 6
-culture = sidhe
+culture = high_elf
 religion = tree
 terrain = woods
 b_kamulgu = castle

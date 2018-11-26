@@ -1,6 +1,6 @@
 title = c_ticde
 max_settlements = 3
-culture = sidhe
+culture = high_elf
 religion = elder_forest
 terrain = woods
 b_ravurab = temple

@@ -1,6 +1,6 @@
 title = c_tikauq
 max_settlements = 3
-culture = sidhe
+culture = mountain_elf
 religion = tree
 terrain = forest
 b_duyasan = castle

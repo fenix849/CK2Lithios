@@ -1,6 +1,6 @@
 title = c_kith
 max_settlements = 3
-culture = sidhe
+culture = shadow_elf
 religion = tree
 terrain = woods
 b_tainoan = castle

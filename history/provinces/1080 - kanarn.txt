@@ -1,6 +1,6 @@
 title = c_kanarn
 max_settlements = 7
-culture = sidhe
+culture = high_elf
 religion = tree
 terrain = woods
 b_toyafan = city

@@ -1,6 +1,6 @@
 title = c_edemiik
 max_settlements = 6
-culture = sidhe
+culture = shadow_elf
 religion = tree
 terrain = forest
 b_retand = castle

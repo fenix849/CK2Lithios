@@ -1,6 +1,6 @@
 title = c_naaq
 max_settlements = 6
-culture = sidhe
+culture = mountain_elf
 religion = tree
 terrain = forest
 b_wadati = castle

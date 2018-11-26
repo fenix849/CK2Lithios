@@ -1,6 +1,6 @@
 title = c_derotei
 max_settlements = 3
-culture = sidhe
+culture = high_elf
 religion = elder_forest
 terrain = forest
 b_atrefan = temple

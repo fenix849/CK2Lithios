@@ -1,6 +1,6 @@
 title = c_damefan
 max_settlements = 5
-culture = sidhe
+culture = shadow_elf
 religion = tree
 terrain = forest
 b_kinyen = castle

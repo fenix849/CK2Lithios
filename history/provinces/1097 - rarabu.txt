@@ -1,6 +1,6 @@
 title = c_rarabu
 max_settlements = 4
-culture = sidhe
+culture = high_elf
 religion = tree
 terrain = woods
 b_royana = city

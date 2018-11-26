@@ -1,6 +1,6 @@
 title = c_ratupta
 max_settlements = 3
-culture = sidhe
+culture = mountain_elf
 religion = tree
 terrain = mountain 
 b_nutevi = castle

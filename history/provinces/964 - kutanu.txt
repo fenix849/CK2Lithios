@@ -1,6 +1,6 @@
 title = c_kutanu
 max_settlements = 4
-culture = sidhe
+culture = mountain_elf
 religion = tree
 terrain = hills
 b_dahuiuz = castle

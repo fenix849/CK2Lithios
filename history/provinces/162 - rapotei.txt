@@ -1,6 +1,6 @@
 title = c_rapotei
 max_settlements = 3
-culture = sidhe
+culture = high_elf
 religion = elder_forest
 terrain = woods
 b_rapotei = temple

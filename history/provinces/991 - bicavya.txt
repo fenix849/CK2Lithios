@@ -1,6 +1,6 @@
 title = c_bicavya
 max_settlements = 4
-culture = sidhe
+culture = mountain_elf
 religion = tree
 terrain = mountain
 b_wuqa = castle

@@ -1,6 +1,6 @@
 title = c_larari
 max_settlements = 6
-culture = sidhe
+culture = high_elf
 religion = tree
 terrain = woods
 b_qabam = castle

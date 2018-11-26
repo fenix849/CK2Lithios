@@ -1,6 +1,6 @@
 title = c_neudanu
 max_settlements = 7
-culture = sidhe
+culture = mountain_elf
 religion = tree
 terrain = forest
 b_bataw = castle

@@ -1,6 +1,6 @@
 title = c_berarn
 max_settlements = 3
-culture = sidhe
+culture = shadow_elf
 religion = tree
 terrain = forest
 b_ralumo = castle

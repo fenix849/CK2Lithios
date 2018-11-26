@@ -1,6 +1,6 @@
 title = c_renalli
 max_settlements = 5
-culture = sidhe
+culture = high_elf
 religion = tree
 terrain = woods
 b_keryen = city

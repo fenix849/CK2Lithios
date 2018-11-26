@@ -1,6 +1,6 @@
 title = c_rerilo
 max_settlements = 5
-culture = sidhe
+culture = high_elf
 religion = elder_forest
 terrain = woods
 b_ecerilo = temple

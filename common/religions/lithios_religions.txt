@@ -158,7 +158,7 @@ natural = {
 		icon = 3
 		heresy_icon = 4
 		
-		color = { 0 0.6 0 }
+		color = { 0 50.6 0 }
 		
 		crusade_name = JIHAD
 		scripture_name = THE_KORAN

@@ -5,7 +5,7 @@ d_paladins_gekagi= {
 
     graphical_culture = holygfx
 
-    capital = 169 # ClearLake
+    capital = 1569 # ClearLake
 
     title = "GRANDMASTER"
     foa = "GRANDMASTER_FOA"
@@ -46,7 +46,7 @@ d_paladins_wakfu= {
 
     holy_order = yes
 
-    culture = clearlakian
+    culture = watren
 
     # Parent Religion 
     religion = seven	
@@ -77,7 +77,7 @@ d_paladins_anjos= {
 
     holy_order = yes
 
-    culture = clearlakian
+    culture = korvallan
 
     # Parent Religion 
     religion = seven	
@@ -212,7 +212,7 @@ d_seekers= {
 
     holy_order = yes
 
-    culture = clearlakian
+    culture = lightfoot
 
     # Parent Religion 
     religion = halfling_pagan
@@ -276,7 +276,7 @@ d_protectors_perfection= {
 
     holy_order = yes
 
-    culture = clearlakian
+    culture = celestial
 
     # Parent Religion 
     religion =  celestial_pagan
@@ -308,7 +308,7 @@ d_order_disorder= {
 
     holy_order = yes
 
-    culture = clearlakian
+    culture = demon
 
     # Parent Religion 
     religion =  demon_pagan
@@ -321,20 +321,3 @@ d_order_disorder= {
 
     mercenary_type = order_disorder_composition
 }
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-

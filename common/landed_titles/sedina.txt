@@ -1656,7 +1656,7 @@ e_sedina = { #Sedina
 	k_tudelen = {
 		color = { 172 186 253 }
 		color2 = { 172 186 253 }
-		capital = 75
+		capital = 775
 		d_dinirca = {
 			color = { 126 202 72 }
 			color2 = { 126 202 72 }
@@ -3420,7 +3420,7 @@ e_sedina = { #Sedina
 		d_kiwael = {
 			color = { 192 59 239 }
 			color2 = { 192 59 239 }
-			capital = 1132
+			capital = 775
 			c_rauratko = {
 				b_luam = {
 					title = baron
@@ -3500,6 +3500,9 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_wanaslav = {
+			#775
+				holy_site = seven
+				holy_site = hope
 				b_delael = {
 					title = baron
 					title_female = baron

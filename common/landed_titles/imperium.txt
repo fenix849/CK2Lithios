@@ -2654,6 +2654,8 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_watera = {
+				holy_site = seven
+				holy_site = hope
 				b_tosini = {
 					title = baron
 					title_female = baron
@@ -5989,6 +5991,8 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_kaurilen = {
+				holy_site = seven
+				holy_site = hope
 				b_rabecco = {
 					title = baron
 					title_female = baron

@@ -12,6 +12,9 @@ secret_religion_visibility_trigger = {
 # men_can_take_consorts = no # If set, men cannot take consorts any more. Defaults to "yes". Has no effect if max_consorts is 0
 # male_temple_holders = no # If set to no, men cannot hold temples. Defaults to "yes". You might need to update your law scripts for this to fully work (see trigger "religion_allows_male_temple_holders")
 
+#IF ADDING A NEW RELIGION/HERESY
+#Add AI join to secret societies in mnm_misc_events.txt
+
 pantheonic = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx

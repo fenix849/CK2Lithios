@@ -1044,7 +1044,10 @@ the_assassins = {
 				ai = no
 				NOT = { trait = zealous }
 				any_playable_ruler = {
-					religion = cat_pagan
+					OR = {
+						religion = cat_pagan
+						religion = cat_pagan_reformed
+					}
 					NOT = {
 						distance_from_realm = { value = 300 who = ROOT }
 					}
@@ -1117,11 +1120,8 @@ the_assassins = {
 	}
 
 	potential = {
-		OR = {
-			religion = cat_pagan
-			secret_religion = cat_pagan
-			religion = cat_pagan_reformed
-			secret_religion = cat_pagan_reformed
+		NOT = {
+			culture_group = elvish
 		}
 	}
 

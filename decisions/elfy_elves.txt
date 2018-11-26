@@ -1,0 +1,20 @@
+decisions = {
+	become_treekeeper = {
+		only_playable = yes
+		is_high_prio = yes
+		ai_check_interval = 24
+		
+		potential = {
+			#culture_group = elvish
+			e_deeproots = { holder = 0 }
+			religion = tree
+		}
+		
+		allow = {
+			completely_controls = c_wanta
+		}
+		effect = {
+			e_deeproots = { gain_title = FROM }
+		}
+	}
+}

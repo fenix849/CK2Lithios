@@ -1703,7 +1703,6 @@ e_deeproots = { #Elves
 		color = { 3 5 219 }
 		color2 = { 3 5 219 }
 		capital = 1072
-		controls_religion = elder_forest
 		d_ranotei = {
 		#prov history done ~red
 			color = { 28 63 87 }
@@ -2612,6 +2611,7 @@ e_deeproots = { #Elves
 				b_qecodia = {
 					title = baron
 					title_female = baron
+					controls_religion = elder_forest
 				}
 				b_recudor = {
 					title = baron

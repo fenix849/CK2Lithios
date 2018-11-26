@@ -1698,10 +1698,12 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_kanard = {
+		#prov history done ~red
 			color = { 125 195 26 }
 			color2 = { 125 195 26 }
 			capital = 1095
 			c_tararn = {
+			#1095
 				b_tamyen = {
 					title = baron
 					title_female = baron
@@ -1741,6 +1743,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_aeefan = {
+			#150
 				b_nicabu = {
 					title = baron
 					title_female = baron
@@ -1781,6 +1784,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_echicfan = {
+			#160
 				b_qinabu = {
 					title = baron
 					title_female = baron
@@ -1820,6 +1824,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_ticde = {
+			#148
 				b_ravurab = {
 					title = baron
 					title_female = baron
@@ -1863,10 +1868,12 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_sinaaq = {
+		#prov history done ~red
 			color = { 131 65 251 }
 			color2 = { 131 65 251 }
-			capital = 1100
+			capital = 1070
 			c_qyunella = {
+			#1083
 				b_kena = {
 					title = baron
 					title_female = baron
@@ -1906,6 +1913,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_winumo = {
+			#1070
 				b_tarumo = {
 					title = baron
 					title_female = baron
@@ -1945,6 +1953,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_derotei = {
+			#1035
 				b_atrefan = {
 					title = baron
 					title_female = baron
@@ -2031,8 +2040,9 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_qavurab = {
-			holy_site = cat_pagan_reformed
-			holy_site = cat_pagan
+			#
+				holy_site = cat_pagan_reformed
+			  	holy_site = cat_pagan
 				b_laryen = {
 					title = baron
 					title_female = baron

@@ -1,6 +1,6 @@
 title = c_aeefan
 max_settlements = 3
 culture = sidhe
-religion = tree
-terrain = forest
-b_nicabu = castle
+religion = elder_forest
+terrain = jungle
+b_nicabu = temple

@@ -2,5 +2,5 @@ title = c_kivvas
 max_settlements = 3
 culture = sidhe
 religion = tree
-terrain = forest
+terrain = woods
 b_tiat = castle

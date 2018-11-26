@@ -2601,14 +2601,17 @@ e_deeproots = { #Elves
 		title_female = king
 	}
 	k_radeas = {
+	#prov history done ~red
 		color = { 8 108 234 }
 		color2 = { 8 108 234 }
 		capital = 1019
 		d_ett = {
+		#prov history done ~red
 			color = { 41 26 182 }
 			color2 = { 41 26 182 }
 			capital = 129
 			c_beyaaq = {
+			#590
 				b_tuatt = {
 					title = baron
 					title_female = baron
@@ -2648,6 +2651,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_ridutt = {
+			#598
 				b_rakulgu = {
 					title = baron
 					title_female = baron
@@ -2687,6 +2691,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_daipise = {
+			#129
 				b_eq = {
 					title = baron
 					title_female = baron
@@ -2727,6 +2732,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_rorulgu = {
+			#1088
 				b_samaaq = {
 					title = baron
 					title_female = baron
@@ -2766,6 +2772,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_eqiai = {
+			#82
 				b_banaaq = {
 					title = baron
 					title_female = baron
@@ -2809,10 +2816,12 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_wamavid = {
+		#prov history done ~red
 			color = { 95 133 112 }
 			color2 = { 95 133 112 }
 			capital = 1019
 			c_taaq = {
+			#1019
 				b_enanulgu = {
 					title = baron
 					title_female = baron
@@ -2852,6 +2861,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_rapise = {
+			#1038
 				b_dakavid = {
 					title = baron
 					title_female = baron
@@ -2891,6 +2901,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_byahavid = {
+			#1022
 				b_tamaaq = {
 					title = baron
 					title_female = baron
@@ -2930,6 +2941,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_akicaaq = {
+			#975
 				b_ridaaq = {
 					title = baron
 					title_female = baron
@@ -2969,6 +2981,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_socilip = {
+			#998
 				b_tadilip = {
 					title = baron
 					title_female = baron
@@ -3012,10 +3025,12 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_ruatt = {
+		#prov history done ~red
 			color = { 236 212 54 }
 			color2 = { 236 212 54 }
 			capital = 1062
 			c_ticilip = {
+			#1028
 				b_salilip = {
 					title = baron
 					title_female = baron
@@ -3055,6 +3070,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_ramaaq = {
+			#1062
 				b_qakise = {
 					title = baron
 					title_female = baron
@@ -3094,6 +3110,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_winonia = {
+			#1021
 				b_terei = {
 					title = baron
 					title_female = baron
@@ -3137,10 +3154,12 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_radur = {
+		#prov history done ~red
 			color = { 74 152 12 }
 			color2 = { 74 152 12 }
 			capital = 882
 			c_rorutt = {
+			#978
 				b_kamutt = {
 					title = baron
 					title_female = baron
@@ -3180,6 +3199,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_ramavid = {
+			#882
 				b_dorutt = {
 					title = baron
 					title_female = baron
@@ -3219,6 +3239,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_dapulgu = {
+			#1003
 				b_nanulgu = {
 					title = baron
 					title_female = baron
@@ -3262,10 +3283,12 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_navid = {
+		#prov history done ~red
 			color = { 204 211 215 }
 			color2 = { 204 211 215 }
 			capital = 1093
 			c_noraaq = {
+			#1093
 				b_tyahulgu = {
 					title = baron
 					title_female = baron
@@ -3305,6 +3328,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_kamaaq = {
+			#1086
 				b_tiaaq = {
 					title = baron
 					title_female = baron
@@ -3344,6 +3368,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_sanutt = {
+			#1066
 				b_kutt = {
 					title = baron
 					title_female = baron
@@ -3383,6 +3408,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_alakulgu = {
+			#45
 				b_rorise = {
 					title = baron
 					title_female = baron
@@ -3426,10 +3452,12 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_dani = {
+		#prov history done ~red
 			color = { 60 130 131 }
 			color2 = { 60 130 131 }
 			capital = 814
 			c_kivvas = {
+			#980
 				b_tiat = {
 					title = baron
 					title_female = baron
@@ -3469,6 +3497,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_emutt = {
+			#814
 				b_tapulgu = {
 					title = baron
 					title_female = baron
@@ -3508,6 +3537,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_badur = {
+			#815
 				b_avlaznaz = {
 					title = baron
 					title_female = baron
@@ -3547,6 +3577,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_raturaq = {
+			#967
 				b_togibai = {
 					title = baron
 					title_female = baron
@@ -3590,10 +3621,12 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_taurirca = {
+		#prov history done ~red
 			color = { 85 230 146 }
 			color2 = { 85 230 146 }
 			capital = 539
 			c_tapulgu = {
+			#46
 				b_kamulgu = {
 					title = baron
 					title_female = baron
@@ -3633,6 +3666,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_raipaaq = {
+			#540
 				b_sapise = {
 					title = baron
 					title_female = baron
@@ -3672,6 +3706,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_larari = {
+			#539
 				b_qabam = {
 					title = baron
 					title_female = baron

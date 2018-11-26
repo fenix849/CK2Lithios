@@ -2751,7 +2751,10 @@ warrior_lodge_halfling = {
 	    trigger = {
 			ai = yes
 	    	controls_religion = no
-		   	religion_openly_baltic_or_reformed_trigger = yes
+			OR = {
+				religion = halfling_pagan
+				religion = halfling_pagan_reformed
+			}
 			is_adult = yes
 			is_in_society = no
 			OR = {
@@ -3291,7 +3294,10 @@ warrior_lodge_demon = {
 	    trigger = {
 			ai = yes
 	    	controls_religion = no
-		   	religion_openly_slavic_or_reformed_trigger = yes
+			OR = {
+				religion = demon_pagan
+				religion = demon_pagan_reformed
+			}
 			is_adult = yes
 			is_in_society = no
 			OR = {

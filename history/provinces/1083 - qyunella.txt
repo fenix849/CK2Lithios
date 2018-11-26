@@ -1,6 +1,6 @@
 title = c_qyunella
 max_settlements = 3
 culture = sidhe
-religion = elder_forest
+religion = tree
 terrain = forest
-b_kena = temple
+b_kena = castle

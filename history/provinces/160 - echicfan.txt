@@ -1,6 +1,6 @@
 title = c_echicfan
 max_settlements = 3
 culture = sidhe
-religion = elder_forest
-terrain = woods
-b_qinabu = temple
+religion = tree
+terrain = forest
+b_qinabu = castle

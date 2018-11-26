@@ -1,7 +1,6 @@
 title = c_tararn
-max_settlements = 4
+max_settlements = 3
 culture = sidhe
-religion = elder_forest
-terrain = woods
-b_tamyen = temple
-b_echicde = city
+religion = tree
+terrain = forest
+b_tamyen = castle

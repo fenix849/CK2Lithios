@@ -1565,6 +1565,7 @@ e_deeproots = { #Elves
 		title_female = king
 	}
 	k_dyahulgu = {
+	#prov history done ~red
 		color = { 3 5 219 }
 		color2 = { 3 5 219 }
 		capital = 1072
@@ -1997,10 +1998,12 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_ridataw = {
+		#prov history done ~red
 			color = { 25 150 124 }
 			color2 = { 25 150 124 }
-			capital = 1033
+			capital = 995
 			c_tapalli = {
+			#1029
 				b_damefan = {
 					title = baron
 					title_female = baron
@@ -2040,7 +2043,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_qavurab = {
-			#stuff
+			#995
 				holy_site = cat_pagan_reformed
 			  	holy_site = cat_pagan
 				b_laryen = {
@@ -2082,6 +2085,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_rapumo = {
+			#1033
 				b_salabu = {
 					title = baron
 					title_female = baron
@@ -2125,10 +2129,12 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_syori = {
+		#prov history done ~red
 			color = { 157 83 206 }
 			color2 = { 157 83 206 }
-			capital = 162
+			capital = 1100
 			c_linabu = {
+			#161
 				b_wapumo = {
 					title = baron
 					title_female = baron
@@ -2168,6 +2174,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_tyunajan = {
+			#1103
 				b_akrajan = {
 					title = baron
 					title_female = baron
@@ -2207,6 +2214,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_walaula = {
+			#1100
 				b_sinara = {
 					title = baron
 					title_female = baron
@@ -2250,10 +2258,12 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_ase = {
+		#prov history done ~red
 			color = { 10 242 101 }
 			color2 = { 10 242 101 }
 			capital = 537
 			c_rakutt = {
+			#1096
 				b_raputt = {
 					title = baron
 					title_female = baron
@@ -2293,6 +2303,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_rerilo = {
+			#537
 				b_ecerilo = {
 					title = baron
 					title_female = baron
@@ -2332,6 +2343,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_raram = {
+			#1109
 				b_tyaa = {
 					title = baron
 					title_female = baron
@@ -2371,6 +2383,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_leaham = {
+			#538
 				b_berotei = {
 					title = baron
 					title_female = baron
@@ -2410,6 +2423,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_rapotei = {
+			#162
 				b_rapotei = {
 					title = baron
 					title_female = baron

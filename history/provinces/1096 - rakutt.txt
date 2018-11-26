@@ -1,6 +1,6 @@
 title = c_rakutt
 max_settlements = 3
 culture = sidhe
-religion = tree
+religion = elder_forest
 terrain = forest
-b_raputt = castle
+b_raputt = temple

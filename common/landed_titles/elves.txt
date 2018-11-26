@@ -1569,6 +1569,7 @@ e_deeproots = { #Elves
 		color2 = { 3 5 219 }
 		capital = 1072
 		d_ranotei = {
+		#prov history done ~red
 			color = { 28 63 87 }
 			color2 = { 28 63 87 }
 			capital = 1061
@@ -1646,10 +1647,6 @@ e_deeproots = { #Elves
 					title = baron
 					title_female = baron
 				}
-				holy_site = asinaaq
-				holy_site = kadeph
-				holy_site = qyasavi
-				holy_site = tutt
 				color = { 174 206 24 }
 				color2 = { 98 123 77 }
 				#culture = nutt
@@ -1657,6 +1654,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_lerarn = {
+			#1076
 				b_ralefan = {
 					title = baron
 					title_female = baron

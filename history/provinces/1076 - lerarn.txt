@@ -1,6 +1,6 @@
 title = c_lerarn
 max_settlements = 3
 culture = sidhe
-religion = tree
+religion = elder_forest
 terrain = forest
-b_ralefan = castle
+b_ralefan = temple

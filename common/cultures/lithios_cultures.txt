@@ -348,18 +348,14 @@ feline = {
 		
 		color = { 0.8 0.6 0.0 }
 		male_names = {
-			Mittens Fluffy Tom Smudge Shadow Zimm Samm Misstoffelees Deuteronomy Pouncival Quaxo Mungojerrie Mozart Simba Tiger Socrates Salem Toulouse Berlioz Thomas Birk Paws
-			"Basileus Harlocke Spoops" Bazcat Furball Angry Snuggles Lucky Buttons Snowbell Cuddles Crookshanks "Mr. Bigglesworth" Spot Whiskers Lucky Juni Maow Cat Coins Panther
-			Frumpkin Chairman Meow Floof Ninja Orion Felix Tim Rowl Lister Crockett Zebedeus Syd Bear Ripper Maurice Jake Sylvester Big Talking Tom Atlas Serafettin Simon Santa Paws
-			M'aiq Vincent Hades Fëa Tyki Lavi Pan Tjockisen Lotus Morris Shadow Oscar Eskil Shadow Tommiecat Bosse Lasse Basil Zylyn Snooka Maat
-			Lord-Admiral-Edward-Hawke-First-Baron-Hawke-First-Lord-of-the-Admiralty Nimitz Katz
+			Acinonyx Aurata Badia Bengalensis Bieti Canadensis Caracal Catopuma Catus Chaus Colocola Concolor Felis Geoffroyi Guigna Guttulus Herpailurus Jacobitus
+			Javanensis Jubatus Leopardus Leptailurus Lybica Lynx Manul Margarita Marmorata Nigripes Otocolobus Pardalis Pardinus Pardofelis Planiceps Prionailurus
+			Puma Rubiginosus Rufus Sam Serval Silvestris Temminckii Tigrinus Viverrinus Wiedii Yagouaroundi
 		}
 		female_names = {
-			Missy Kitty Mittens Ginger Princess Bella Sigma Mysan Missan Victoria Rumpelteazer Grizabella Demeter Bombalurina Sooty Suzie Syllabub Luna Midnight Nala Tussan Selma Salem
-			Duchess Marie Signe Paws "Basileus Harlocke Spoops" Bazcat Furball Angry Snuggles Lucky Buttons Snowbell Cuddles Crookshanks "Mr. Bigglesworth" Spot Whiskers Lucky Juni Maow Cat
-			Coins Panther Frumpkin Chairman Meow Floof Poppy Yuki Mimmy Stina Witch Caline Doortje Cwtch Tina River Cleo Willow Chloe Bastet Mafdet Aeris Tonks Lisa Myran Lillkissen Daisy
-			Sekhmet Nova Birdie Mynta Molly Tjoppan Nyanners Suki Isis Masika Caliope Sor-Juana-Inés-de-la-Cruz Mitzi Mischief Smilla Aggi
-			Sedna
+			Diardi Leo Megantereon Nebulosa Neofelis Onca Panthera Paramachairodus Pardus Promegantereon Rhizosmilodon Sedna Smilodon Tigris Uncia Tchadailurus
+			Metailurini Metailurus Adelphailurus Stenailurus Dinofelis Yoshi Smilodontini Homotherini Homotherium Lokotunjailurus Nimravides Xenosmilus
+			Amphimachairodus Machairodontini Machairodus Miomachairodus Hemimachairodus
 		}
 		
 		dynasty_title_names = yes

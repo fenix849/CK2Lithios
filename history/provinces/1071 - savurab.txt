@@ -4,3 +4,5 @@ culture = high_elf
 religion = tree
 terrain = forest
 b_ralaide = city
+b_badukp = castle
+b_tapabu = temple

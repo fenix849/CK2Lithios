@@ -7,3 +7,4 @@ b_toyafan = city
 b_ranumo = castle
 b_lamalli = temple
 b_keabu = city
+b_sinabu = castle

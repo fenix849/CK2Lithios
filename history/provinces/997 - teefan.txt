@@ -1,6 +1,8 @@
 title = c_teefan
-max_settlements = 3
+max_settlements = 5
 culture = mountain_elf
 religion = tree
 terrain = forest
 b_lamaide = castle
+b_tavyen = city
+b_eeurab = temple

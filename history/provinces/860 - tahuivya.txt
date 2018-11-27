@@ -4,3 +4,4 @@ culture = mountain_elf
 religion = tree
 terrain = forest
 b_enyayva = castle
+b_lutauq = city

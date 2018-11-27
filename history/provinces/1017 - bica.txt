@@ -4,3 +4,4 @@ culture = mountain_elf
 religion = tree
 terrain = forest
 b_tutauq = castle
+b_qiyauz = city

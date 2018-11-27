@@ -4,3 +4,4 @@ culture = mountain_elf
 religion = tree
 terrain = forest
 b_ticva = castle
+b_bonouz = city

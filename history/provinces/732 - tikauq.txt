@@ -1,6 +1,7 @@
 title = c_tikauq
-max_settlements = 3
+max_settlements = 4
 culture = mountain_elf
 religion = tree
-terrain = forest
+terrain = woods 
 b_duyasan = castle
+b_tezuqa = city

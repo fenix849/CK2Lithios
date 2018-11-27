@@ -1,98 +1,224 @@
+
 # HOLY ORDERS THE SEVEN
-d_paladins_gekagi= {
+e_seven = {
+	k_gekagi = {
+		color={ 255 130 0 }
 
-    color={ 255 130 0 }
+		graphical_culture = holygfx
+		capital = 1569 # ClearLake
+		
+		# Always exists
+		landless = yes
+		
+		culture = clearlakian
+		religion = seven
+		
+		monthly_income = 6 # (Must be an integer between 1 and 512)
 
-    graphical_culture = holygfx
+		d_paladins_gekagi= {
 
-    capital = 1569 # ClearLake
+			color={ 255 130 0 }
 
-    title = "GRANDMASTER"
-    foa = "GRANDMASTER_FOA"
+			graphical_culture = holygfx
 
-    # Always exists
-    landless = yes
+			capital = 1569 # ClearLake
 
-    holy_order = yes
+			title = "GRANDMASTER"
+			foa = "GRANDMASTER_FOA"
 
-    culture = clearlakian
+			# Always exists
+			landless = yes
 
-    # Parent Religion 
-    religion = seven	
+			holy_order = yes
 
-    # Cannot be held as a secondary title
-    primary = yes
+			culture = clearlakian
 
-    # Extra income due to donations, etc
-    monthly_income = 6 # (Must be an integer between 1 and 512)
+			# Parent Religion 
+			religion = seven
 
-    mercenary_type = paladins_gekagi_composition
+			# Cannot be held as a secondary title
+			primary = yes
+
+			# Extra income due to donations, etc
+			monthly_income = 6 # (Must be an integer between 1 and 512)
+
+			mercenary_type = paladins_gekagi_composition
+		}
+	}
+	k_wakfu = {
+		color={ 55 130 0 }
+
+		graphical_culture = holygfx
+		capital = 169 # ClearLake
+		
+		# Always exists
+		landless = yes
+		
+		culture = watren
+		religion = seven
+		
+		monthly_income = 6 # (Must be an integer between 1 and 512)
+		
+		d_paladins_wakfu= {
+
+			color={ 55 130 0 }
+
+			graphical_culture = holygfx
+
+			capital = 169 # ClearLake
+
+			title = "GRANDMASTER"
+			foa = "GRANDMASTER_FOA"
+
+			# Always exists
+			landless = yes
+
+			holy_order = yes
+
+			culture = watren
+
+			# Parent Religion 
+			religion = seven	
+
+			# Cannot be held as a secondary title
+			primary = yes
+
+			# Extra income due to donations, etc
+			monthly_income = 6 # (Must be an integer between 1 and 512)
+
+			mercenary_type = paladins_wakfu_composition
+		}
+	}
+	k_anjos = {
+		color={ 255 30 0 }
+
+		graphical_culture = holygfx
+		capital = 169 # ClearLake
+		
+		# Always exists
+		landless = yes
+		
+		culture = korvallan
+		religion = seven
+		
+		monthly_income = 6 # (Must be an integer between 1 and 512)
+		
+		d_paladins_anjos= {
+
+			color={ 255 30 0 }
+
+			graphical_culture = holygfx
+
+			capital = 169 # ClearLake
+
+			title = "GRANDMASTER"
+			foa = "GRANDMASTER_FOA"
+
+			# Always exists
+			landless = yes
+
+			holy_order = yes
+
+			culture = korvallan
+
+			# Parent Religion 
+			religion = seven	
+
+			# Cannot be held as a secondary title
+			primary = yes
+
+			# Extra income due to donations, etc
+			monthly_income = 6 # (Must be an integer between 1 and 512)
+
+			mercenary_type = paladins_anjos_composition
+		}
+	}
+	k_aurora = {
+		color={ 255 130 0 }
+
+		graphical_culture = holygfx
+		capital = 1569 # ClearLake
+		
+		# Always exists
+		landless = yes
+		
+		culture = southporter
+		religion = seven
+		
+		monthly_income = 6 # (Must be an integer between 1 and 512)
+	}
+	k_xienta = {
+		color={ 255 130 0 }
+
+		graphical_culture = holygfx
+		capital = 1569 # ClearLake
+		
+		# Always exists
+		landless = yes
+		
+		culture = sendan
+		religion = seven
+		
+		monthly_income = 6 # (Must be an integer between 1 and 512)
+	}
+	k_izana = {
+		color={ 255 130 0 }
+
+		graphical_culture = holygfx
+		capital = 1569 # ClearLake
+		
+		# Always exists
+		landless = yes
+		
+		culture = psatese
+		religion = seven
+		
+		monthly_income = 6 # (Must be an integer between 1 and 512)
+	}
+	k_barados = {
+		color={ 255 130 0 }
+
+		graphical_culture = holygfx
+		capital = 1569 # ClearLake
+		
+		# Always exists
+		landless = yes
+		
+		culture = imperial
+		religion = seven
+		
+		monthly_income = 6 # (Must be an integer between 1 and 512)
+	}
+	
+	k_free_forts = {
+		color={ 30 30 30 }
+
+		graphical_culture = holygfx
+
+		capital = 169 # ClearLake
+
+		title = "GRANDMASTER"
+		foa = "GRANDMASTER_FOA"
+
+		# Always exists
+		landless = yes
+
+		holy_order = yes
+
+		culture = clearlakian
+
+		# Parent Religion 
+		religion = seven	
+
+		# Cannot be held as a secondary title
+		primary = yes
+
+		# Extra income due to donations, etc
+		monthly_income = 6 # (Must be an integer between 1 and 512)
+
+		mercenary_type = paladins_wakfu_composition
+	}
 }
-
-
-d_paladins_wakfu= {
-
-    color={ 55 130 0 }
-
-    graphical_culture = holygfx
-
-    capital = 169 # ClearLake
-
-    title = "GRANDMASTER"
-    foa = "GRANDMASTER_FOA"
-
-    # Always exists
-    landless = yes
-
-    holy_order = yes
-
-    culture = watren
-
-    # Parent Religion 
-    religion = seven	
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Extra income due to donations, etc
-    monthly_income = 6 # (Must be an integer between 1 and 512)
-
-    mercenary_type = paladins_wakfu_composition
-}
-
-
-d_paladins_anjos= {
-
-    color={ 255 30 0 }
-
-    graphical_culture = holygfx
-
-    capital = 169 # ClearLake
-
-    title = "GRANDMASTER"
-    foa = "GRANDMASTER_FOA"
-
-    # Always exists
-    landless = yes
-
-    holy_order = yes
-
-    culture = korvallan
-
-    # Parent Religion 
-    religion = seven	
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Extra income due to donations, etc
-    monthly_income = 6 # (Must be an integer between 1 and 512)
-
-    mercenary_type = paladins_anjos_composition
-}
-
-
-
 
 # HOLY ORDERS THE TREE
 
@@ -128,8 +254,6 @@ d_guardians_tree= {
 
 
 # HOLY ORDERS THE STONE	
-	
-	
 d_guardians_stone= {
 
     color={ 255 30 80 }
@@ -162,8 +286,6 @@ d_guardians_stone= {
 
 
 # Cat
-
-
 d_hidden_fangs= {
 
     color={ 255 30 80 }
@@ -195,7 +317,6 @@ d_hidden_fangs= {
 }
 
 #HAFLINGS
-
 d_seekers= {
 
     color={ 255 30 80 }
@@ -227,7 +348,6 @@ d_seekers= {
 }
 
 #ORCS
-
 d_green_group= {
 
     color={ 255 30 80 }
@@ -259,7 +379,6 @@ d_green_group= {
 }
 
 # celestial_pagan
-
 d_protectors_perfection= {
 
     color={ 255 30 80 }
@@ -291,7 +410,6 @@ d_protectors_perfection= {
 }
 
 #demon_pagan
-
 d_order_disorder= {
 
     color={ 255 30 80 }

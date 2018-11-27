@@ -1,6 +1,6 @@
 title = c_linael
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_baurudna = castle
+terrain = desert
+b_baurudna = tribal

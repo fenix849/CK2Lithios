@@ -1,6 +1,9 @@
 title = c_ramaaq
-max_settlements = 3
-culture = sidhe
+max_settlements = 5
+culture = high_elf
 religion = tree
 terrain = forest
 b_qakise = castle
+b_kinaaq = city
+b_tamavid = temple
+b_akhoet = castle

@@ -1,6 +1,8 @@
 title = c_rogadur
-max_settlements = 3
-culture = sidhe
+max_settlements = 4
+culture = high_elf
 religion = tree
 terrain = forest
 b_evlanta = castle
+b_ekujuraq = city
+b_rituraq = temple

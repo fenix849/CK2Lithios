@@ -1,6 +1,6 @@
 title = c_lomonka
 max_settlements = 4
-culture = sidhe
+culture = shadow_elf
 religion = tree
 terrain = woods
 b_qatiena = castle

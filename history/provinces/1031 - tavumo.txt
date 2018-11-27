@@ -1,6 +1,8 @@
 title = c_tavumo
-max_settlements = 4
-culture = sidhe
+max_settlements = 5
+culture = high_elf
 religion = tree
-terrain = forest
-b_qamyen = castle
+terrain = woods
+b_qamyen = city
+b_diyafan = castle
+b_ramumo = temple

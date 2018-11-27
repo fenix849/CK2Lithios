@@ -1,6 +1,7 @@
 title = c_tanurab
-max_settlements = 3
-culture = sidhe
-religion = tree
+max_settlements = 5
+culture = wandering_elf
+religion = elder_forest
 terrain = forest
-b_dinabu = castle
+b_dinabu = tribal
+b_seyen = city

@@ -7915,7 +7915,7 @@ character_event = {
 			AND = {
 				OR = {
 					has_artifact_flag = unholy
-					has_artifact_flag = blanchimont
+					has_artifact_flag = hermetics
 				}
 				has_artifact_flag = book
 			}
@@ -7944,7 +7944,7 @@ character_event = {
 				has_artifact_flag = book
 				OR = {
 					has_artifact_flag = unholy
-					has_artifact_flag = blanchimont
+					has_artifact_flag = hermetics
 				}
 			}
 			set_artifact_flag = selected_book
@@ -8032,7 +8032,7 @@ character_event = {
 				AND = {
 					OR = {
 						has_artifact_flag = unholy
-						has_artifact_flag = blanchimont
+						has_artifact_flag = hermetics
 					}
 					has_artifact_flag = book
 				}
@@ -8059,7 +8059,7 @@ character_event = {
 				count = 2
 				OR = {
 					has_artifact_flag = unholy
-					has_artifact_flag = blanchimont
+					has_artifact_flag = hermetics
 				}
 				has_artifact_flag = book
 			}

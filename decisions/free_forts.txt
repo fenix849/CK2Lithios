@@ -1,0 +1,61 @@
+decisions = {
+	free_fort_fealty = {
+		only_playable = yes
+		is_high_prio = yes
+		ai_check_interval = 24
+		
+		potential = {
+			culture_group = human
+			independent = yes
+			NOT = { higher_tier_than = DUKE }
+			religion_group = pantheonic
+			any_neighbor_independent_ruler = {
+				OR = {
+					religion = demon_pagan
+					religion = demon_pagan_reformed
+					religion = orc_pagan
+					religion = orc_pagan_reformed
+				}
+			}
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_defacto_liege = d_free_forts
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	free_from_forts = {
+		only_playable = yes
+		is_high_prio = yes
+		ai_check_interval = 24
+		
+		potential = {
+			de_facto_liege_title = d_free_forts
+			religion_group = pantheonic
+			NOT = {
+				any_neighbor_independent_ruler = {
+					OR = {
+						religion = demon_pagan
+						religion = demon_pagan_reformed
+						religion = orc_pagan
+						religion = orc_pagan_reformed
+					}
+				}
+			}
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_defacto_liege = THIS
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

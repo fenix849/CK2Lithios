@@ -1,6 +1,8 @@
 title = c_raturaq
 max_settlements = 3
-culture = sidhe
+culture = high_elf
 religion = tree
 terrain = forest
 b_togibai = castle
+b_ryevori = city
+b_nujani = temple

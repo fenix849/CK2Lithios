@@ -1,6 +1,6 @@
 title = c_tyunajan
 max_settlements = 3
-culture = sidhe
-religion = tree
-terrain = forest
-b_akrajan = castle
+culture = wandering_elf
+religion = elder_forest
+terrain = woods
+b_akrajan = tribal

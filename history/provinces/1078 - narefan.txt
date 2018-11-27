@@ -1,6 +1,9 @@
 title = c_narefan
-max_settlements = 3
-culture = sidhe
+max_settlements = 5
+culture = high_elf
 religion = tree
-terrain = forest
-b_soyade = castle
+terrain = woods
+b_soyade = city
+b_adukp = castle
+b_renarn = temple
+b_kiyalli = city

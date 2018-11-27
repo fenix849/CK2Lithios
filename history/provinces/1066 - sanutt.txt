@@ -1,6 +1,8 @@
 title = c_sanutt
 max_settlements = 4
-culture = sidhe
+culture = high_elf
 religion = tree
-terrain = forest
+terrain = woods
 b_kutt = castle
+b_buatt = city
+b_keyautt = temple

@@ -1,6 +1,9 @@
 title = c_datouz
-max_settlements = 3
-culture = sidhe
+max_settlements = 6
+culture = high_elf
 religion = tree
 terrain = forest
 b_tutora = castle
+b_qikupta = city
+b_kicataw = temple
+b_kiyanu = castle

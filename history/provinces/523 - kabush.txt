@@ -1,6 +1,6 @@
 title = c_kabush
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_bedit = castle
+terrain = desert
+b_bedit = tribal

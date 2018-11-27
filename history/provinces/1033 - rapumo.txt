@@ -1,6 +1,6 @@
 title = c_rapumo
 max_settlements = 3
-culture = sidhe
-religion = tree
+culture = wandering_elf
+religion = elder_forest
 terrain = forest
-b_salabu = castle
+b_salabu = tribal

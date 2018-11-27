@@ -1,6 +1,8 @@
 title = c_kinabu
-max_settlements = 3
-culture = sidhe
+max_settlements = 4
+culture = high_elf
 religion = tree
-terrain = forest
-b_kinefan = castle
+terrain = woods
+b_kinefan = city
+b_kealli = castle
+b_kadurab = temple

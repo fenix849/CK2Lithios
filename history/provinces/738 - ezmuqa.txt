@@ -1,6 +1,8 @@
 title = c_ezmuqa
-max_settlements = 3
-culture = sidhe
+max_settlements = 5
+culture = mountain_elf
 religion = tree
 terrain = forest
 b_nicasan = castle
+b_qiyara = city
+b_achicpa = temple

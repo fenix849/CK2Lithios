@@ -1,6 +1,9 @@
 title = c_taaq
-max_settlements = 3
-culture = sidhe
+max_settlements = 6
+culture = high_elf
 religion = tree
 terrain = forest
 b_enanulgu = castle
+b_qiaaq = city
+b_teyautt = temple
+b_lapulgu = castle

@@ -1,6 +1,6 @@
 title = c_dinara
 max_settlements = 3
-culture = sidhe
-religion = tree
+culture = wandering_elf
+religion = elder_forest
 terrain = forest
-b_letard = castle
+b_letard = tribal

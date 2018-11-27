@@ -1,6 +1,6 @@
 title = c_rusori
 max_settlements = 3
-culture = sidhe
+culture = high_elf
 religion = tree
 terrain = forest
 b_avlavya = castle

@@ -2,5 +2,5 @@ title = c_qyaa
 max_settlements = 3
 culture = catfolk
 religion = cat_pagan
-terrain = forest
+terrain = jungle
 b_totei = tribal

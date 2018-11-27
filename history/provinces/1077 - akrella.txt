@@ -1,6 +1,6 @@
 title = c_akrella
 max_settlements = 4
-culture = sidhe
-religion = tree
+culture = wandering_elf
+religion = elder_forest
 terrain = forest
-b_acanotei = castle
+b_acanotei = tribal

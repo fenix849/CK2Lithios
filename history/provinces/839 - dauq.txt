@@ -1,6 +1,8 @@
 title = c_dauq
-max_settlements = 3
-culture = sidhe
+max_settlements = 4
+culture = high_elf
 religion = tree
 terrain = forest
 b_syaysan = castle
+b_qahuira = city
+b_tuyanu = temple

@@ -1,6 +1,7 @@
 title = c_bezataw
-max_settlements = 3
-culture = sidhe
+max_settlements = 4
+culture = mountain_elf
 religion = tree
 terrain = forest
 b_rutasan = castle
+b_tatuqa = city

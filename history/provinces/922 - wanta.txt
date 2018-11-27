@@ -1,6 +1,12 @@
 title = c_wanta
-max_settlements = 3
-culture = sidhe
+max_settlements = 7
+culture = high_elf
 religion = tree
 terrain = forest
-b_watibai = castle
+b_watibai = temple
+b_evladur = castle
+b_susuraq = city
+b_latibai = city
+b_tanta = temple
+b_naruraq = castle
+b_ribai = castle

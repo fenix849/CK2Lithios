@@ -1,6 +1,10 @@
 title = c_rarabu
-max_settlements = 3
-culture = sidhe
+max_settlements = 6
+culture = high_elf
 religion = tree
-terrain = forest
-b_royana = castle
+terrain = woods
+b_royana = city
+b_nicli = temple
+b_teralli = castle
+b_kavaide = castle
+b_denurab = city

@@ -1,6 +1,6 @@
 title = c_qedatzak
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_nimert = castle
+terrain = desert
+b_nimert = tribal

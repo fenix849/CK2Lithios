@@ -1,6 +1,6 @@
 title = c_ladabu
 max_settlements = 3
-culture = sidhe
+culture = mountain_elf
 religion = tree
 terrain = woods
 b_rapalli = castle

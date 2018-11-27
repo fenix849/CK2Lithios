@@ -1,6 +1,6 @@
 title = c_arert
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_wayakub = castle
+terrain = desert
+b_wayakub = tribal

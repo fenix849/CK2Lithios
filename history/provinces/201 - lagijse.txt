@@ -1,6 +1,6 @@
 title = c_lagijse
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_somagh = castle
+terrain = desert
+b_somagh = tribal

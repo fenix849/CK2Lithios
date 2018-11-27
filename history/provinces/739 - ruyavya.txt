@@ -1,6 +1,8 @@
 title = c_ruyavya
-max_settlements = 3
-culture = sidhe
+max_settlements = 5
+culture = mountain_elf
 religion = tree
-terrain = forest
+terrain = mountain 
 b_kikevi = castle
+b_qaluqa = city
+b_wezavya = temple

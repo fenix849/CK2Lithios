@@ -1,6 +1,6 @@
 title = c_kazand
 max_settlements = 3
-culture = sidhe
+culture = shadow_elf
 religion = tree
 terrain = hills 
 b_reoo = castle

@@ -8170,1407 +8170,1407 @@
 
 1635 = {
 	name = Keringa
-	culture = sidhe #bengali
+	culture = high_elf #bengali
 }
 
 1636 = {
 	name = Talonse
-	culture = sidhe #breton
+	culture = high_elf #breton
 }
 
 1637 = {
 	name = Ridise
-	culture = sidhe #norman
+	culture = high_elf #norman
 }
 
 1638 = {
 	name = Werirna
-	culture = sidhe #greek
+	culture = high_elf #greek
 }
 
 1639 = {
 	name = Qauland
-	culture = sidhe #scottish
+	culture = high_elf #scottish
 }
 
 1640 = {
 	name = Kutavya
-	culture = sidhe #han
+	culture = high_elf #han
 }
 
 1641 = {
 	name = Kyahutt
-	culture = sidhe #ilmenian
+	culture = high_elf #ilmenian
 }
 
 1642 = {
 	name = Weyaavid
-	culture = sidhe #hungarian
+	culture = high_elf #hungarian
 }
 
 1643 = {
 	name = Wonusan
-	culture = sidhe #russian
+	culture = high_elf #russian
 }
 
 1644 = {
 	name = Akharcas
-	culture = sidhe #prussian
+	culture = high_elf #prussian
 }
 
 1645 = {
 	name = Lalavya
-	culture = sidhe #visigothic
+	culture = high_elf #visigothic
 }
 
 1646 = {
 	name = Ratataw
-	culture = sidhe #old_frankish
+	culture = high_elf #old_frankish
 }
 
 1647 = {
 	name = Nisirca
-	culture = sidhe #meshchera
+	culture = high_elf #meshchera
 }
 
 1648 = {
 	name = Ruulila
-	culture = sidhe #rajput
+	culture = high_elf #rajput
 }
 
 1649 = {
 	name = Tyasahu
-	culture = sidhe #breton
+	culture = high_elf #breton
 }
 
 1650 = {
 	name = Ruarca
-	culture = sidhe #italian
+	culture = high_elf #italian
 }
 
 1651 = {
 	name = Relaut
-	culture = sidhe #finnish
+	culture = high_elf #finnish
 }
 
 1652 = {
 	name = Siwudna
-	culture = sidhe #turkish
+	culture = high_elf #turkish
 }
 
 1653 = {
 	name = Sanudna
-	culture = sidhe #saka
+	culture = high_elf #saka
 }
 
 1654 = {
 	name = Kudijah
-	culture = sidhe #sindhi
+	culture = high_elf #sindhi
 }
 
 1655 = {
 	name = Avedaide
-	culture = sidhe #serbian
+	culture = high_elf #serbian
 }
 
 1656 = {
 	name = Risona
-	culture = sidhe #kurdish
+	culture = high_elf #kurdish
 }
 
 1657 = {
 	name = Acagirca
-	culture = sidhe #frankish
+	culture = high_elf #frankish
 }
 
 1658 = {
 	name = Debeer
-	culture = sidhe #pommeranian
+	culture = high_elf #pommeranian
 }
 
 1659 = {
 	name = Atana
-	culture = sidhe #bengali
+	culture = high_elf #bengali
 }
 
 1660 = {
 	name = Burijah
-	culture = sidhe #basque
+	culture = high_elf #basque
 }
 
 1661 = {
 	name = Esidana
-	culture = sidhe #songhay
+	culture = high_elf #songhay
 }
 
 1662 = {
 	name = Terera
-	culture = sidhe #kurdish
+	culture = high_elf #kurdish
 }
 
 1663 = {
 	name = Bugesh
-	culture = sidhe #croatian
+	culture = high_elf #croatian
 }
 
 1664 = {
 	name = Tagofan
-	culture = sidhe #castillan
+	culture = high_elf #castillan
 }
 
 1665 = {
 	name = Kagofan
-	culture = sidhe #somali
+	culture = high_elf #somali
 }
 
 1666 = {
 	name = Tanijah
-	culture = sidhe #khitan
+	culture = high_elf #khitan
 }
 
 1667 = {
 	name = Eteicera
-	culture = sidhe #andalusian_arabic
+	culture = high_elf #andalusian_arabic
 }
 
 1668 = {
 	name = Wurana
-	culture = sidhe #nubian
+	culture = high_elf #nubian
 }
 
 1669 = {
 	name = Qurofan
-	culture = sidhe #manden
+	culture = high_elf #manden
 }
 
 1670 = {
 	name = Tanana
-	culture = sidhe #panjabi
+	culture = high_elf #panjabi
 }
 
 1671 = {
 	name = Wuhaud
-	culture = sidhe #outremer
+	culture = high_elf #outremer
 }
 
 1672 = {
 	name = Katlana
-	culture = sidhe #castillan
+	culture = high_elf #castillan
 }
 
 1673 = {
 	name = Asacera
-	culture = sidhe #georgian
+	culture = high_elf #georgian
 }
 
 1674 = {
 	name = Dyose
-	culture = sidhe #telugu
+	culture = high_elf #telugu
 }
 
 1675 = {
 	name = Byasius
-	culture = sidhe #tocharian
+	culture = high_elf #tocharian
 }
 
 1676 = {
 	name = Leiringa
-	culture = sidhe #danish
+	culture = high_elf #danish
 }
 
 1677 = {
 	name = Takoka
-	culture = sidhe #danish
+	culture = high_elf #danish
 }
 
 1678 = {
 	name = Kasiata
-	culture = sidhe #breton
+	culture = high_elf #breton
 }
 
 1679 = {
 	name = Duulahu
-	culture = sidhe #kirghiz
+	culture = high_elf #kirghiz
 }
 
 1680 = {
 	name = Beiroan
-	culture = sidhe #bedouin_arabic
+	culture = high_elf #bedouin_arabic
 }
 
 1681 = {
 	name = Wogemid
-	culture = sidhe #severian
+	culture = high_elf #severian
 }
 
 1682 = {
 	name = Bataclav
-	culture = sidhe #greek
+	culture = high_elf #greek
 }
 
 1683 = {
 	name = Rurekçe
-	culture = sidhe #finnish
+	culture = high_elf #finnish
 }
 
 1684 = {
 	name = Kurera
-	culture = sidhe #arberian
+	culture = high_elf #arberian
 }
 
 1685 = {
 	name = Barila
-	culture = sidhe #khitan
+	culture = high_elf #khitan
 }
 
 1686 = {
 	name = Ridelet
-	culture = sidhe #turkish
+	culture = high_elf #turkish
 }
 
 1687 = {
 	name = Ramenku
-	culture = sidhe #alan
+	culture = high_elf #alan
 }
 
 1688 = {
 	name = Sakelet
-	culture = sidhe #bengali
+	culture = high_elf #bengali
 }
 
 1689 = {
 	name = Exilvia
-	culture = sidhe #kirghiz
+	culture = high_elf #kirghiz
 }
 
 1690 = {
 	name = Kuhang
-	culture = sidhe #komi
+	culture = high_elf #komi
 }
 
 1691 = {
 	name = Bidudah
-	culture = sidhe #english
+	culture = high_elf #english
 }
 
 1692 = {
 	name = Kengar
-	culture = sidhe #german
+	culture = high_elf #german
 }
 
 1693 = {
 	name = Amashe
-	culture = sidhe #greek
+	culture = high_elf #greek
 }
 
 1694 = {
 	name = Qicupta
-	culture = sidhe #khazar
+	culture = high_elf #khazar
 }
 
 1695 = {
 	name = Ninanka
-	culture = sidhe #afghan
+	culture = high_elf #afghan
 }
 
 1696 = {
 	name = Tadonda
-	culture = sidhe #nahuatl
+	culture = high_elf #nahuatl
 }
 
 1697 = {
 	name = Taduslan
-	culture = sidhe #bohemian
+	culture = high_elf #bohemian
 }
 
 1698 = {
 	name = Wiebada
-	culture = sidhe #ilmenian
+	culture = high_elf #ilmenian
 }
 
 1699 = {
 	name = Keirita
-	culture = sidhe #ugricbaltic
+	culture = high_elf #ugricbaltic
 }
 
 1700 = {
 	name = Totigh
-	culture = sidhe #bohemian
+	culture = high_elf #bohemian
 }
 
 1701 = {
 	name = Disey
-	culture = sidhe #norman
+	culture = high_elf #norman
 }
 
 1702 = {
 	name = Eberisey
-	culture = sidhe #sinhala
+	culture = high_elf #sinhala
 }
 
 1703 = {
 	name = Werida
-	culture = sidhe #assamese
+	culture = high_elf #assamese
 }
 
 1704 = {
 	name = Rabada
-	culture = sidhe #levantine_arabic
+	culture = high_elf #levantine_arabic
 }
 
 1705 = {
 	name = Temesa
-	culture = sidhe #maghreb_arabic
+	culture = high_elf #maghreb_arabic
 }
 
 1706 = {
 	name = Lonadir
-	culture = sidhe #tamil
+	culture = high_elf #tamil
 }
 
 1707 = {
 	name = Banigh
-	culture = sidhe #serbian
+	culture = high_elf #serbian
 }
 
 1708 = {
 	name = Tavanka
-	culture = sidhe #panjabi
+	culture = high_elf #panjabi
 }
 
 1709 = {
 	name = Nierdel
-	culture = sidhe #volhynian
+	culture = high_elf #volhynian
 }
 
 1710 = {
 	name = Edrencar
-	culture = sidhe #khazar
+	culture = high_elf #khazar
 }
 
 1711 = {
 	name = Wyeçient
-	culture = sidhe #mongol
+	culture = high_elf #mongol
 }
 
 1712 = {
 	name = Anadir
-	culture = sidhe #ugricbaltic
+	culture = high_elf #ugricbaltic
 }
 
 1713 = {
 	name = Tierigh
-	culture = sidhe #pictish
+	culture = high_elf #pictish
 }
 
 1714 = {
 	name = Lurient
-	culture = sidhe #basque
+	culture = high_elf #basque
 }
 
 1715 = {
 	name = Ezabina
-	culture = sidhe #nepali
+	culture = high_elf #nepali
 }
 
 1716 = {
 	name = Wurasi
-	culture = sidhe #norman
+	culture = high_elf #norman
 }
 
 1717 = {
 	name = Qatigh
-	culture = sidhe #kanuri
+	culture = high_elf #kanuri
 }
 
 1718 = {
 	name = Dibdel
-	culture = sidhe #marathi
+	culture = high_elf #marathi
 }
 
 1719 = {
 	name = Beleran
-	culture = sidhe #armenian
+	culture = high_elf #armenian
 }
 
 1720 = {
 	name = Nocofan
-	culture = sidhe #somali
+	culture = high_elf #somali
 }
 
 1721 = {
 	name = Kabavid
-	culture = sidhe #swedish
+	culture = high_elf #swedish
 }
 
 1722 = {
 	name = Tabach
-	culture = sidhe #oriya
+	culture = high_elf #oriya
 }
 
 1723 = {
 	name = Qulein
-	culture = sidhe #severian
+	culture = high_elf #severian
 }
 
 1724 = {
 	name = Ralasan
-	culture = sidhe #levantine_arabic
+	culture = high_elf #levantine_arabic
 }
 
 1725 = {
 	name = Kopusan
-	culture = sidhe #crimean_gothic
+	culture = high_elf #crimean_gothic
 }
 
 1726 = {
 	name = Rinavid
-	culture = sidhe #old_frankish
+	culture = high_elf #old_frankish
 }
 
 1727 = {
 	name = Naraut
-	culture = sidhe #scottish
+	culture = shadow_elf #scottish
 }
 
 1728 = {
 	name = Narona
-	culture = sidhe #dutch
+	culture = shadow_elf #dutch
 }
 
 1729 = {
 	name = Wauratko
-	culture = sidhe #bohemian
+	culture = shadow_elf #bohemian
 }
 
 1730 = {
 	name = Tyagahou
-	culture = sidhe #nepali
+	culture = shadow_elf #nepali
 }
 
 1731 = {
 	name = Qudana
-	culture = sidhe #arberian
+	culture = shadow_elf #arberian
 }
 
 1732 = {
 	name = Rasila
-	culture = sidhe #finnish
+	culture = shadow_elf #finnish
 }
 
 1733 = {
 	name = Kuradir
-	culture = sidhe #english
+	culture = shadow_elf #english
 }
 
 1734 = {
 	name = Nyee
-	culture = sidhe #welsh
+	culture = shadow_elf #welsh
 }
 
 1735 = {
 	name = Belodai
-	culture = sidhe #han
+	culture = shadow_elf #han
 }
 
 1736 = {
 	name = Ricelen
-	culture = sidhe #mordvin
+	culture = shadow_elf #mordvin
 }
 
 1737 = {
 	name = Simitya
-	culture = sidhe #oriya
+	culture = shadow_elf #oriya
 }
 
 1738 = {
 	name = Tisten
-	culture = sidhe #songhay
+	culture = shadow_elf #songhay
 }
 
 1739 = {
 	name = Qavina
-	culture = sidhe #prussian
+	culture = shadow_elf #prussian
 }
 
 1740 = {
 	name = Ticoñra
-	culture = sidhe #polish
+	culture = shadow_elf #polish
 }
 
 1741 = {
 	name = Wolisna
-	culture = sidhe #bulgarian
+	culture = shadow_elf #bulgarian
 }
 
 1742 = {
 	name = Kagusan
-	culture = sidhe #visigothic
+	culture = shadow_elf #visigothic
 }
 
 1743 = {
 	name = Sonoan
-	culture = sidhe #karluk
+	culture = shadow_elf #karluk
 }
 
 1744 = {
 	name = Kulgu
-	culture = sidhe #hausa
+	culture = shadow_elf #hausa
 }
 
 1745 = {
 	name = Bolusan
-	culture = sidhe #mordvin
+	culture = shadow_elf #mordvin
 }
 
 1746 = {
 	name = Qarvin
-	culture = sidhe #georgian
+	culture = shadow_elf #georgian
 }
 
 1747 = {
 	name = Ricuqa
-	culture = sidhe #nepali
+	culture = mountain_elf #nepali
 }
 
 1748 = {
 	name = Rakavid
-	culture = sidhe #komi
+	culture = mountain_elf #komi
 }
 
 1749 = {
 	name = Beyautt
-	culture = sidhe #avar
+	culture = mountain_elf #avar
 }
 
 1750 = {
 	name = Keirewan
-	culture = sidhe #frankish
+	culture = mountain_elf #frankish
 }
 
 1751 = {
 	name = Dualgu
-	culture = sidhe #mordvin
+	culture = mountain_elf #mordvin
 }
 
 1752 = {
 	name = Etapasan
-	culture = sidhe #old_frankish
+	culture = mountain_elf #old_frankish
 }
 
 1753 = {
 	name = Wekupta
-	culture = sidhe #khazar
+	culture = mountain_elf #khazar
 }
 
 1754 = {
 	name = Tuaide
-	culture = sidhe #nepali
+	culture = mountain_elf #nepali
 }
 
 1755 = {
 	name = Wakahu
-	culture = sidhe #avar
+	culture = mountain_elf #avar
 }
 
 1756 = {
 	name = Satila
-	culture = sidhe #ethiopian
+	culture = mountain_elf #ethiopian
 }
 
 1757 = {
 	name = Baurona
-	culture = sidhe #irish
+	culture = mountain_elf #irish
 }
 
 1758 = {
 	name = Kedirca
-	culture = sidhe #georgian
+	culture = mountain_elf #georgian
 }
 
 1759 = {
 	name = Taurirca
-	culture = sidhe #irish
+	culture = mountain_elf #irish
 }
 
 1760 = {
 	name = Ragolk
-	culture = sidhe #ugricbaltic
+	culture = mountain_elf #ugricbaltic
 }
 
 1761 = {
 	name = Denijah
-	culture = sidhe #catalan
+	culture = mountain_elf #catalan
 }
 
 1762 = {
 	name = Etibirca
-	culture = sidhe #mordvin
+	culture = mountain_elf #mordvin
 }
 
 1763 = {
 	name = Nelirca
-	culture = sidhe #serbian
+	culture = mountain_elf #serbian
 }
 
 1764 = {
 	name = Bunaide
-	culture = sidhe #dutch
+	culture = mountain_elf #dutch
 }
 
 1765 = {
 	name = Sarqan
-	culture = sidhe #kirghiz
+	culture = mountain_elf #kirghiz
 }
 
 1766 = {
 	name = Kedofan
-	culture = sidhe #nahuatl
+	culture = mountain_elf #nahuatl
 }
 
 1767 = {
 	name = Tahuifan
-	culture = sidhe #bodpa
+	culture = mountain_elf #bodpa
 }
 
 1768 = {
 	name = Napilja
-	culture = sidhe #bolghar
+	culture = mountain_elf #bolghar
 }
 
 1769 = {
 	name = Ryugahou
-	culture = sidhe #visigothic
+	culture = mountain_elf #visigothic
 }
 
 1770 = {
 	name = Navaçï
-	culture = sidhe #castillan
+	culture = mountain_elf #castillan
 }
 
 1771 = {
 	name = Tiutses
-	culture = sidhe #bolghar
+	culture = mountain_elf #bolghar
 }
 
 1772 = {
 	name = Ratosye
-	culture = sidhe #tangut
+	culture = mountain_elf #tangut
 }
 
 1773 = {
 	name = Lavulia
-	culture = sidhe #german
+	culture = mountain_elf #german
 }
 
 1774 = {
 	name = Acedimia
-	culture = sidhe #hungarian
+	culture = mountain_elf #hungarian
 }
 
 1775 = {
 	name = Watle
-	culture = sidhe #avar
+	culture = mountain_elf #avar
 }
 
 1776 = {
 	name = Etosye
-	culture = sidhe #daju
+	culture = mountain_elf #daju
 }
 
 1777 = {
 	name = Kudana
-	culture = sidhe #hungarian
+	culture = mountain_elf #hungarian
 }
 
 1778 = {
 	name = Qamenku
-	culture = sidhe #finnish
+	culture = mountain_elf #finnish
 }
 
 1779 = {
 	name = Rudana
-	culture = sidhe #persian
+	culture = mountain_elf #persian
 }
 
 1780 = {
 	name = Qacses
-	culture = sidhe #rajput
+	culture = mountain_elf #rajput
 }
 
 1781 = {
 	name = Qauloan
-	culture = sidhe #zhangzhung
+	culture = mountain_elf #zhangzhung
 }
 
 1782 = {
 	name = Kyasiata
-	culture = sidhe #castillan
+	culture = mountain_elf #castillan
 }
 
 1783 = {
 	name = Talirna
-	culture = sidhe #irish
+	culture = mountain_elf #irish
 }
 
 1784 = {
 	name = Kaomoka
-	culture = sidhe #basque
+	culture = mountain_elf #basque
 }
 
 1785 = {
 	name = Licuel
-	culture = sidhe #outremer
+	culture = mountain_elf #outremer
 }
 
 1786 = {
 	name = Dudahu
-	culture = sidhe #bohemian
+	culture = mountain_elf #bohemian
 }
 
 1787 = {
 	name = Budera
-	culture = sidhe #nubian
+	culture = mountain_elf #nubian
 }
 
 1788 = {
 	name = Arola
-	culture = sidhe #baloch
+	culture = mountain_elf #baloch
 }
 
 1789 = {
 	name = Nacofan
-	culture = sidhe #khitan
+	culture = mountain_elf #khitan
 }
 
 1790 = {
 	name = Ryaracob
-	culture = sidhe #hindustani
+	culture = mountain_elf #hindustani
 }
 
 1791 = {
 	name = Tengar
-	culture = sidhe #dutch
+	culture = mountain_elf #dutch
 }
 
 1792 = {
 	name = Narenku
-	culture = sidhe #castillan
+	culture = mountain_elf #castillan
 }
 
 1793 = {
 	name = Takang
-	culture = sidhe #manden
+	culture = mountain_elf #manden
 }
 
 1794 = {
 	name = Bocelen
-	culture = sidhe #kanuri
+	culture = mountain_elf #kanuri
 }
 
 1795 = {
 	name = Asakaud
-	culture = sidhe #saxon
+	culture = mountain_elf #saxon
 }
 
 1796 = {
 	name = Tarore
-	culture = sidhe #marathi
+	culture = mountain_elf #marathi
 }
 
 1797 = {
 	name = Nekat
-	culture = sidhe #hindustani
+	culture = mountain_elf #hindustani
 }
 
 1798 = {
 	name = Bamengar
-	culture = sidhe #polish
+	culture = mountain_elf #polish
 }
 
 1799 = {
 	name = Tocosye
-	culture = sidhe #han
+	culture = mountain_elf #han
 }
 
 1800 = {
 	name = Nabalan
-	culture = sidhe #hungarian
+	culture = mountain_elf #hungarian
 }
 
 1801 = {
 	name = Kinanka
-	culture = sidhe #persian
+	culture = mountain_elf #persian
 }
 
 1802 = {
 	name = Tigupta
-	culture = sidhe #kurdish
+	culture = mountain_elf #kurdish
 }
 
 1803 = {
 	name = Byia
-	culture = sidhe #danish
+	culture = mountain_elf #danish
 }
 
 1804 = {
 	name = Qinalan
-	culture = sidhe #afghan
+	culture = mountain_elf #afghan
 }
 
 1805 = {
 	name = Rabuid
-	culture = sidhe #pictish
+	culture = mountain_elf #pictish
 }
 
 1806 = {
 	name = Reikuda
-	culture = sidhe #nahuatl
+	culture = mountain_elf #nahuatl
 }
 
 1807 = {
 	name = Werida
-	culture = sidhe #afghan
+	culture = mountain_elf #afghan
 }
 
 1808 = {
 	name = Kiconia
-	culture = sidhe #uyghur
+	culture = mountain_elf #uyghur
 }
 
 1809 = {
 	name = Qanka
-	culture = sidhe #russian
+	culture = mountain_elf #russian
 }
 
 1810 = {
 	name = Qideva
-	culture = sidhe #ilmenian
+	culture = mountain_elf #ilmenian
 }
 
 1811 = {
 	name = Ratigh
-	culture = sidhe #kannada
+	culture = mountain_elf #kannada
 }
 
 1812 = {
 	name = Katigh
-	culture = sidhe #georgian
+	culture = mountain_elf #georgian
 }
 
 1813 = {
 	name = Delada
-	culture = sidhe #nahuatl
+	culture = mountain_elf #nahuatl
 }
 
 1814 = {
 	name = Edotigh
-	culture = sidhe #nahuatl
+	culture = mountain_elf #nahuatl
 }
 
 1815 = {
 	name = Enikadir
-	culture = sidhe #bosnian
+	culture = mountain_elf #bosnian
 }
 
 1816 = {
 	name = Wavina
-	culture = sidhe #nubian
+	culture = mountain_elf #nubian
 }
 
 1817 = {
 	name = Reçavid
-	culture = sidhe #georgian
+	culture = mountain_elf #georgian
 }
 
 1818 = {
 	name = Aprabdel
-	culture = sidhe #greek
+	culture = mountain_elf #greek
 }
 
 1819 = {
 	name = Burolm
-	culture = sidhe #crimean_gothic
+	culture = mountain_elf #crimean_gothic
 }
 
 1820 = {
 	name = Loratso
-	culture = sidhe #telugu
+	culture = mountain_elf #telugu
 }
 
 1821 = {
 	name = Duravid
-	culture = sidhe #romanian
+	culture = mountain_elf #romanian
 }
 
 1822 = {
 	name = Banah
-	culture = sidhe #bosnian
+	culture = mountain_elf #bosnian
 }
 
 1823 = {
 	name = Bofan
-	culture = sidhe #afghan
+	culture = mountain_elf #afghan
 }
 
 1824 = {
 	name = Turient
-	culture = sidhe #lithuanian
+	culture = mountain_elf #lithuanian
 }
 
 1825 = {
 	name = Rugacob
-	culture = sidhe #cuman
+	culture = mountain_elf #cuman
 }
 
 1826 = {
 	name = Dabesse
-	culture = sidhe #levantine_arabic
+	culture = mountain_elf #levantine_arabic
 }
 
 1827 = {
 	name = Sictor
-	culture = sidhe #swedish
+	culture = mountain_elf #swedish
 }
 
 1828 = {
 	name = Kinonka
-	culture = sidhe #pommeranian
+	culture = mountain_elf #pommeranian
 }
 
 1829 = {
 	name = Sasoka
-	culture = sidhe #rajput
+	culture = mountain_elf #rajput
 }
 
 1830 = {
 	name = Esuliata
-	culture = sidhe #maghreb_arabic
+	culture = mountain_elf #maghreb_arabic
 }
 
 1831 = {
 	name = Lonoñuz
-	culture = sidhe #saka
+	culture = mountain_elf #saka
 }
 
 1832 = {
 	name = Wagoño
-	culture = sidhe #samoyed
+	culture = mountain_elf #samoyed
 }
 
 1833 = {
 	name = Keiroño
-	culture = sidhe #bolghar
+	culture = mountain_elf #bolghar
 }
 
 1834 = {
 	name = Sapavya
-	culture = sidhe #frankish
+	culture = mountain_elf #frankish
 }
 
 1835 = {
 	name = Nusdan
-	culture = sidhe #egyptian_arabic
+	culture = mountain_elf #egyptian_arabic
 }
 
 1836 = {
 	name = Rauloño
-	culture = sidhe #sinhala
+	culture = mountain_elf #sinhala
 }
 
 1837 = {
 	name = Werand
-	culture = sidhe #tamil
+	culture = mountain_elf #tamil
 }
 
 1838 = {
 	name = Tacada
-	culture = sidhe #panjabi
+	culture = wood_elf #panjabi
 }
 
 1839 = {
 	name = Rolusan
-	culture = sidhe #greek
+	culture = wood_elf #greek
 }
 
 1840 = {
 	name = Balewan
-	culture = sidhe #somali
+	culture = wood_elf #somali
 }
 
 1841 = {
 	name = Keilinga
-	culture = sidhe #kannada
+	culture = wood_elf #kannada
 }
 
 1842 = {
 	name = Alopinga
-	culture = sidhe #lombard
+	culture = wood_elf #lombard
 }
 
 1843 = {
 	name = Baseas
-	culture = sidhe #alan
+	culture = wood_elf #alan
 }
 
 1844 = {
 	name = Keyautt
-	culture = sidhe #arberian
+	culture = wood_elf #arberian
 }
 
 1845 = {
 	name = Torise
-	culture = sidhe #ilmenian
+	culture = wood_elf #ilmenian
 }
 
 1846 = {
 	name = Ratançu
-	culture = sidhe #persian
+	culture = wood_elf #persian
 }
 
 1847 = {
 	name = Lutt
-	culture = sidhe #khitan
+	culture = wood_elf #khitan
 }
 
 1848 = {
 	name = Bekupta
-	culture = sidhe #mongol
+	culture = wood_elf #mongol
 }
 
 1849 = {
 	name = Nyahutt
-	culture = sidhe #marathi
+	culture = wood_elf #marathi
 }
 
 1850 = {
 	name = Dezaqraç
-	culture = sidhe #bolghar
+	culture = wood_elf #bolghar
 }
 
 1851 = {
 	name = Tanaaq
-	culture = sidhe #severian
+	culture = wood_elf #severian
 }
 
 1852 = {
 	name = Dorise
-	culture = sidhe #dutch
+	culture = wood_elf #dutch
 }
 
 1853 = {
 	name = Kalasan
-	culture = sidhe #frisian
+	culture = wood_elf #frisian
 }
 
 1854 = {
 	name = Bavid
-	culture = sidhe #nepali
+	culture = wood_elf #nepali
 }
 
 1855 = {
 	name = Kagoan
-	culture = sidhe #finnish
+	culture = wood_elf #finnish
 }
 
 1856 = {
 	name = Kuyañra
-	culture = sidhe #frisian
+	culture = wood_elf #frisian
 }
 
 1857 = {
 	name = Noninga
-	culture = sidhe #ugricbaltic
+	culture = wood_elf #ugricbaltic
 }
 
 1858 = {
 	name = Nicpa
-	culture = sidhe #lombard
+	culture = wood_elf #lombard
 }
 
 1859 = {
 	name = Qopusan
-	culture = sidhe #oriya
+	culture = wood_elf #oriya
 }
 
 1860 = {
 	name = Licevi
-	culture = sidhe #khitan
+	culture = wood_elf #khitan
 }
 
 1861 = {
 	name = Dutaqraç
-	culture = sidhe #soninke
+	culture = wood_elf #soninke
 }
 
 1862 = {
 	name = Ticevi
-	culture = sidhe #andalusian_arabic
+	culture = wood_elf #andalusian_arabic
 }
 
 1863 = {
 	name = Konançu
-	culture = sidhe #zaghawa
+	culture = wood_elf #zaghawa
 }
 
 1864 = {
 	name = Bapupta
-	culture = sidhe #castillan
+	culture = wood_elf #castillan
 }
 
 1865 = {
 	name = Adoñra
-	culture = sidhe #persian
+	culture = wood_elf #persian
 }
 
 1866 = {
 	name = Kicsa
-	culture = sidhe #rajput
+	culture = wood_elf #rajput
 }
 
 1867 = {
 	name = Nyaytaw
-	culture = sidhe #finnish
+	culture = wood_elf #finnish
 }
 
 1868 = {
 	name = Lapaaq
-	culture = sidhe #persian
+	culture = wood_elf #persian
 }
 
 1869 = {
 	name = Baipaaq
-	culture = sidhe #roman
+	culture = wood_elf #roman
 }
 
 1870 = {
 	name = Leyaulgu
-	culture = sidhe #severian
+	culture = wood_elf #severian
 }
 
 1871 = {
 	name = Torulgu
-	culture = sidhe #suebi
+	culture = wood_elf #suebi
 }
 
 1872 = {
 	name = Kanutt
-	culture = sidhe #croatian
+	culture = wood_elf #croatian
 }
 
 1873 = {
 	name = Tidulgu
-	culture = sidhe #lithuanian
+	culture = wood_elf #lithuanian
 }
 
 1874 = {
 	name = Kuattá
-	culture = sidhe #norman
+	culture = wood_elf #norman
 }
 
 1875 = {
 	name = Sarcas
-	culture = sidhe #croatian
+	culture = wood_elf #croatian
 }
 
 1876 = {
 	name = Nutt
-	culture = sidhe #rajput
+	culture = wood_elf #rajput
 }
 
 1877 = {
 	name = Lapulgu
-	culture = sidhe #castillan
+	culture = wood_elf #castillan
 }
 
 1878 = {
 	name = Tidaaq
-	culture = sidhe #zhangzhung
+	culture = wood_elf #zhangzhung
 }
 
 1879 = {
 	name = Ett
-	culture = sidhe #frisian
+	culture = wood_elf #frisian
 }
 
 1880 = {
 	name = Ravid
-	culture = sidhe #khitan
+	culture = wood_elf #khitan
 }
 
 1881 = {
 	name = Serand
-	culture = sidhe #frankish
+	culture = wood_elf #frankish
 }
 
 1882 = {
 	name = Kacirna
-	culture = sidhe #swedish
+	culture = wood_elf #swedish
 }
 
 1883 = {
 	name = Tamavid
-	culture = sidhe #hausa
+	culture = wood_elf #hausa
 }
 
 1884 = {
 	name = Rakulgu
-	culture = sidhe #english
+	culture = wood_elf #english
 }
 
 1885 = {
 	name = Teyautt
-	culture = sidhe #lappish
+	culture = wood_elf #lappish
 }
 
 1886 = {
 	name = Ahulgu
-	culture = sidhe #han
+	culture = wood_elf #han
 }
 
 1887 = {
 	name = Lutila
-	culture = sidhe #gujurati
+	culture = wood_elf #gujurati
 }
 
 1888 = {
 	name = Tacoan
-	culture = sidhe #greek
+	culture = wood_elf #greek
 }
 
 1889 = {
 	name = Qaurirca
-	culture = sidhe #sinhala
+	culture = wood_elf #sinhala
 }
 
 1890 = {
 	name = Nelirca
-	culture = sidhe #avar
+	culture = wood_elf #avar
 }
 
 1891 = {
 	name = Ruaaq
-	culture = sidhe #occitan
+	culture = wood_elf #occitan
 }
 
 1892 = {
 	name = Kulahu
-	culture = sidhe #tocharian
+	culture = wood_elf #tocharian
 }
 
 1893 = {
 	name = Esinise
-	culture = sidhe #sinhala
+	culture = wood_elf #sinhala
 }
 
 1894 = {
 	name = Saurirca
-	culture = sidhe #romanian
+	culture = wood_elf #romanian
 }
 
 1895 = {
 	name = Dagolk
-	culture = sidhe #panjabi
+	culture = wood_elf #panjabi
 }
 
 1896 = {
 	name = Disilen
-	culture = sidhe #roman
+	culture = wood_elf #roman
 }
 
 1897 = {
 	name = Qaraut
-	culture = sidhe #hindustani
+	culture = wood_elf #hindustani
 }
 
 1898 = {
 	name = Taludna
-	culture = sidhe #bedouin_arabic
+	culture = wood_elf #bedouin_arabic
 }
 
 1899 = {
 	name = Arecco
-	culture = sidhe #bohemian
+	culture = wood_elf #bohemian
 }
 
 1900 = {
 	name = Laurilen
-	culture = sidhe #georgian
+	culture = wood_elf #georgian
 }
 
 1901 = {
 	name = Asalaut
-	culture = sidhe #hungarian
+	culture = wood_elf #hungarian
 }
 
 1902 = {
 	name = Tedecco
-	culture = sidhe #sinhala
+	culture = wood_elf #sinhala
 }
 
 1903 = {
 	name = Kuacco
-	culture = sidhe #danish
+	culture = wood_elf #danish
 }
 
 1904 = {
 	name = Tisona
-	culture = sidhe #greek
+	culture = wood_elf #greek
 }
 
 1905 = {
 	name = Arirca
-	culture = sidhe #daju
+	culture = wood_elf #daju
 }
 
 1906 = {
 	name = Kaludna
-	culture = sidhe #ethiopian
+	culture = wood_elf #ethiopian
 }
 
 1907 = {
 	name = Warudna
-	culture = sidhe #khanty
+	culture = wood_elf #khanty
 }
 
 1908 = {
 	name = Risatko
-	culture = sidhe #bolghar
+	culture = wood_elf #bolghar
 }
 
 1909 = {
 	name = Ribaut
-	culture = sidhe #swedish
+	culture = wood_elf #swedish
 }
 
 1910 = {
 	name = Lusaar
-	culture = sidhe #kirghiz
+	culture = wood_elf #kirghiz
 }
 
 1911 = {
 	name = Tunikne
-	culture = sidhe #romanian
+	culture = wood_elf #romanian
 }
 
 1912 = {
 	name = Wuaide
-	culture = sidhe #panjabi
+	culture = wood_elf #panjabi
 }
 
 1913 = {
 	name = Tarael
-	culture = sidhe #somali
+	culture = wood_elf #somali
 }
 
 1914 = {
 	name = Bacelen
-	culture = sidhe #nepali
+	culture = wood_elf #nepali
 }
 
 1915 = {
 	name = Ludelen
-	culture = sidhe #occitan
+	culture = wood_elf #occitan
 }
 
 1916 = {

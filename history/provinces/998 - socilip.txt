@@ -1,6 +1,8 @@
 title = c_socilip
 max_settlements = 3
-culture = sidhe
+culture = high_elf
 religion = tree
 terrain = forest
 b_tadilip = castle
+b_locataw = city
+b_ryaywa = temple

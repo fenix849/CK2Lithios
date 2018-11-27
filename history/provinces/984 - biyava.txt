@@ -1,6 +1,7 @@
 title = c_biyava
-max_settlements = 3
-culture = sidhe
+max_settlements = 5
+culture = mountain_elf
 religion = tree
 terrain = forest
 b_leabu = castle
+b_navaide = city

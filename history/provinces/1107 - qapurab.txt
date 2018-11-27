@@ -1,6 +1,10 @@
 title = c_qapurab
-max_settlements = 3
-culture = sidhe
+max_settlements = 6
+culture = high_elf
 religion = tree
-terrain = forest
-b_wadumo = castle
+terrain = woods
+b_wadumo = city
+b_berumo = castle
+b_senaide = temple
+b_tamumo = castle
+b_emalefan = city

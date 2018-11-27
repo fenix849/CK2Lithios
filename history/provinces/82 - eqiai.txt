@@ -1,6 +1,8 @@
 title = c_eqiai
-max_settlements = 3
-culture = sidhe
+max_settlements = 5
+culture = high_elf
 religion = tree
-terrain = forest
+terrain = woods
 b_banaaq = castle
+b_ecaipaaq = city
+b_riai = temple

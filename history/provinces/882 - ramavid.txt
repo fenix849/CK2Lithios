@@ -1,6 +1,9 @@
 title = c_ramavid
-max_settlements = 3
-culture = sidhe
+max_settlements = 4
+culture = high_elf
 religion = tree
 terrain = forest
 b_dorutt = castle
+b_takalp = city
+b_nidulgu = temple
+b_esinalp = castle

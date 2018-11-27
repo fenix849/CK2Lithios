@@ -1,6 +1,6 @@
 title = c_retith
 max_settlements = 5
-culture = sidhe
+culture = shadow_elf
 religion = tree
 terrain = woods 
 b_reoyotl = castle

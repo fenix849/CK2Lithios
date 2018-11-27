@@ -1,6 +1,8 @@
 title = c_tapaide
-max_settlements = 3
-culture = sidhe
+max_settlements = 4
+culture = high_elf
 religion = tree
-terrain = forest
-b_emalumo = castle
+terrain = woods
+b_emalumo = city
+b_aeefan = castle
+b_kiyafan = temple

@@ -1,6 +1,6 @@
 title = c_bicuqa
 max_settlements = 3
-culture = sidhe
+culture = mountain_elf
 religion = tree
 terrain = forest
 b_salauq = castle

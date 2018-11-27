@@ -1,6 +1,6 @@
 title = c_ahjeka
 max_settlements = 6
-culture = sidhe
+culture = shadow_elf
 religion = tree
 terrain = woods 
 b_letoyotl = castle

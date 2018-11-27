@@ -1,6 +1,6 @@
 title = c_tahuila
 max_settlements = 6
-culture = sidhe
+culture = mountain_elf
 religion = tree
 terrain = mountain
 b_niyava = castle

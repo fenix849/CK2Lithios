@@ -1,6 +1,6 @@
 title = c_nudiho
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_esulev = castle
+terrain = desert
+b_esulev = tribal

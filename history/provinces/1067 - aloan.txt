@@ -1,6 +1,6 @@
 title = c_aloan
 max_settlements = 3
-culture = sidhe
+culture = shadow_elf
 religion = tree
 terrain = forest
 b_tonewan = castle

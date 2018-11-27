@@ -1,6 +1,6 @@
 title = c_daraut
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_wiwirca = castle
+terrain = desert
+b_wiwirca = tribal

@@ -1,6 +1,8 @@
 title = c_rorutt
 max_settlements = 3
-culture = sidhe
+culture = high_elf
 religion = tree
 terrain = forest
 b_kamutt = castle
+b_ahuatt = city
+b_nutt = temple

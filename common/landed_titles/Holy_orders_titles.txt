@@ -1,344 +1,353 @@
-
-# HOLY ORDERS THE SEVSEN
-
-
-
-d_paladins_gekagi= {
-
-    color={ 255 130 0 }
-
-    graphical_culture = holygfx
-
-    capital = 169 # ClearLake
-
-    title = "GRANDMASTER"
-    foa = "GRANDMASTER_FOA"
-
-    # Always exists
-    landless = yes
-
-    holy_order = yes
-
-    culture = clearlakian
-
-    # Parent Religion 
-    religion = seven	
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Extra income due to donations, etc
-    monthly_income = 6 # (Must be an integer between 1 and 512)
-
-    mercenary_type = paladins_gekagi_composition
-}
-
-
-d_paladins_wakfu= {
-
-    color={ 55 130 0 }
-
-    graphical_culture = holygfx
-
-    capital = 169 # ClearLake
-
-    title = "GRANDMASTER"
-    foa = "GRANDMASTER_FOA"
-
-    # Always exists
-    landless = yes
-
-    holy_order = yes
-
-    culture = clearlakian
-
-    # Parent Religion 
-    religion = seven	
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Extra income due to donations, etc
-    monthly_income = 6 # (Must be an integer between 1 and 512)
-
-    mercenary_type = paladins_wakfu_composition
-}
-
-
-d_paladins_anjos= {
-
-    color={ 255 30 0 }
-
-    graphical_culture = holygfx
-
-    capital = 169 # ClearLake
-
-    title = "GRANDMASTER"
-    foa = "GRANDMASTER_FOA"
-
-    # Always exists
-    landless = yes
-
-    holy_order = yes
-
-    culture = clearlakian
-
-    # Parent Religion 
-    religion = seven	
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Extra income due to donations, etc
-    monthly_income = 6 # (Must be an integer between 1 and 512)
-
-    mercenary_type = paladins_anjos_composition
-}
-
-
-
-
-# HOLY ORDERS THE TREE
-
-d_guardians_tree= {
-
-    color={ 255 155 200 }
-
-    graphical_culture = holygfx
-
-    capital = 169 # ClearLake
-
-    title = "GRANDMASTER"
-    foa = "GRANDMASTER_FOA"
-
-    # Always exists
-    landless = yes
-
-    holy_order = yes
-
-    culture = clearlakian
-
-    # Parent Religion 
-    religion = tree	
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Extra income due to donations, etc
-    monthly_income = 6 # (Must be an integer between 1 and 512)
-
-    mercenary_type = guardians_tree_composition
-}
-
-
-# HOLY ORDERS THE STONE	
-	
-	
-d_guardians_stone= {
-
-    color={ 255 30 80 }
-
-    graphical_culture = holygfx
-
-    capital = 169 # ClearLake
-
-    title = "GRANDMASTER"
-    foa = "GRANDMASTER_FOA"
-
-    # Always exists
-    landless = yes
-
-    holy_order = yes
-
-    culture = clearlakian
-
-    # Parent Religion 
-    religion = stone
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Extra income due to donations, etc
-    monthly_income = 6 # (Must be an integer between 1 and 512)
-
-    mercenary_type = guardians_stone_composition
-}	
-
-
-# Cat
-
-
-d_hidden_fangs= {
-
-    color={ 255 30 80 }
-
-    graphical_culture = holygfx
-
-    capital = 169 # ClearLake
-
-    title = "GRANDMASTER"
-    foa = "GRANDMASTER_FOA"
-
-    # Always exists
-    landless = yes
-
-    holy_order = yes
-
-    culture = clearlakian
-
-    # Parent Religion 
-    religion = cat_pagan
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Extra income due to donations, etc
-    monthly_income = 6 # (Must be an integer between 1 and 512)
-
-    mercenary_type = hidden_fangs_composition
-}
-
-#HAFLINGS
-
-d_seekers= {
-
-    color={ 255 30 80 }
-
-    graphical_culture = holygfx
-
-    capital = 169 # ClearLake
-
-    title = "GRANDMASTER"
-    foa = "GRANDMASTER_FOA"
-
-    # Always exists
-    landless = yes
-
-    holy_order = yes
-
-    culture = clearlakian
-
-    # Parent Religion 
-    religion = halfling_pagan
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Extra income due to donations, etc
-    monthly_income = 6 # (Must be an integer between 1 and 512)
-
-    mercenary_type = seekers_composition
-}
-
-#ORCS
-
-d_green_group= {
-
-    color={ 255 30 80 }
-
-    graphical_culture = holygfx
-
-    capital = 169 # ClearLake
-
-    title = "GRANDMASTER"
-    foa = "GRANDMASTER_FOA"
-
-    # Always exists
-    landless = yes
-
-    holy_order = yes
-
-    culture = clearlakian
-
-    # Parent Religion 
-    religion = orc_pagan
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Extra income due to donations, etc
-    monthly_income = 6 # (Must be an integer between 1 and 512)
-
-    mercenary_type = green_group_composition
-}
-
-# celestial_pagan
-
-d_protectors_perfection= {
-
-    color={ 255 30 80 }
-
-    graphical_culture = holygfx
-
-    capital = 169 # ClearLake
-
-    title = "GRANDMASTER"
-    foa = "GRANDMASTER_FOA"
-
-    # Always exists
-    landless = yes
-
-    holy_order = yes
-
-    culture = clearlakian
-
-    # Parent Religion 
-    religion =  celestial_pagan
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Extra income due to donations, etc
-    monthly_income = 6 # (Must be an integer between 1 and 512)
-
-    mercenary_type = protectors_perfection_composition
-}
-
-#demon_pagan
-
-d_order_disorder= {
-
-    color={ 255 30 80 }
-
-    graphical_culture = holygfx
-
-    capital = 169 # ClearLake
-
-    title = "GRANDMASTER"
-    foa = "GRANDMASTER_FOA"
-
-    # Always exists
-    landless = yes
-
-    holy_order = yes
-
-    culture = clearlakian
-
-    # Parent Religion 
-    religion =  demon_pagan
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Extra income due to donations, etc
-    monthly_income = 6 # (Must be an integer between 1 and 512)
-
-    mercenary_type = order_disorder_composition
-}
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
 
+# HOLY ORDERS THE SEVEN
+e_seven = {
+	color={ 255 255 255 }
+
+	graphical_culture = holygfx
+	capital = 1569 # ClearLake
+	
+	# Always exists
+	landless = yes
+	
+	culture = imperial
+	religion = seven
+	
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+	controls_religion = seven
+}
+d_paladins_gekagi= {
+
+	color={ 255 130 0 }
+
+	graphical_culture = holygfx
+
+	capital = 1569 # ClearLake
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+
+	holy_order = yes
+
+	culture = clearlakian
+
+	# Parent Religion 
+	religion = seven
+
+	# Cannot be held as a secondary title
+	primary = yes
+
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = paladins_gekagi_composition
+}
+d_paladins_wakfu= {
+
+	color={ 55 130 0 }
+
+	graphical_culture = holygfx
+
+	capital = 169 # ClearLake
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+
+	holy_order = yes
+
+	culture = watren
+
+	# Parent Religion 
+	religion = seven	
+
+	# Cannot be held as a secondary title
+	primary = yes
+
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = paladins_wakfu_composition
+}
+d_paladins_anjos= {
+
+	color={ 255 30 0 }
+
+	graphical_culture = holygfx
+
+	capital = 169 # ClearLake
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+
+	holy_order = yes
+
+	culture = korvallan
+
+	# Parent Religion 
+	religion = seven	
+
+	# Cannot be held as a secondary title
+	primary = yes
+
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = paladins_anjos_composition
+}
+
+d_free_forts = {
+	color={ 30 30 30 }
+
+	graphical_culture = holygfx
+
+	capital = 169 # ClearLake
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+
+	holy_order = yes
+
+	culture = clearlakian
+
+	# Parent Religion 
+	religion = seven	
+
+	# Cannot be held as a secondary title
+	primary = yes
+
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = paladins_wakfu_composition
+}
+
+# HOLY ORDERS THE TREE
+
+d_guardians_tree= {
+
+    color={ 255 155 200 }
+
+    graphical_culture = holygfx
+
+    capital = 169 # ClearLake
+
+    title = "GRANDMASTER"
+    foa = "GRANDMASTER_FOA"
+
+    # Always exists
+    landless = yes
+
+    holy_order = yes
+
+    culture = high_elf
+
+    # Parent Religion 
+    religion = tree	
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Extra income due to donations, etc
+    monthly_income = 6 # (Must be an integer between 1 and 512)
+
+    mercenary_type = guardians_tree_composition
+}
+
+
+# HOLY ORDERS THE STONE	
+d_guardians_stone= {
+
+    color={ 255 30 80 }
+
+    graphical_culture = holygfx
+
+    capital = 169 # ClearLake
+
+    title = "GRANDMASTER"
+    foa = "GRANDMASTER_FOA"
+
+    # Always exists
+    landless = yes
+
+    holy_order = yes
+
+    culture = dvort
+
+    # Parent Religion 
+    religion = stone
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Extra income due to donations, etc
+    monthly_income = 6 # (Must be an integer between 1 and 512)
+
+    mercenary_type = guardians_stone_composition
+}	
+
+
+# Cat
+d_hidden_fangs= {
+
+    color={ 255 30 80 }
+
+    graphical_culture = holygfx
+
+    capital = 169 # ClearLake
+
+    title = "GRANDMASTER"
+    foa = "GRANDMASTER_FOA"
+
+    # Always exists
+    landless = yes
+
+    holy_order = yes
+
+    culture = catfolk
+
+    # Parent Religion 
+    religion = cat_pagan
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Extra income due to donations, etc
+    monthly_income = 6 # (Must be an integer between 1 and 512)
+
+    mercenary_type = hidden_fangs_composition
+}
+
+#HAFLINGS
+d_seekers= {
+
+    color={ 255 30 80 }
+
+    graphical_culture = holygfx
+
+    capital = 169 # ClearLake
+
+    title = "GRANDMASTER"
+    foa = "GRANDMASTER_FOA"
+
+    # Always exists
+    landless = yes
+
+    holy_order = yes
+
+    culture = lightfoot
+
+    # Parent Religion 
+    religion = halfling_pagan
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Extra income due to donations, etc
+    monthly_income = 6 # (Must be an integer between 1 and 512)
+
+    mercenary_type = seekers_composition
+}
+
+#ORCS
+d_green_group= {
+
+    color={ 255 30 80 }
+
+    graphical_culture = holygfx
+
+    capital = 169 # ClearLake
+
+    title = "GRANDMASTER"
+    foa = "GRANDMASTER_FOA"
+
+    # Always exists
+    landless = yes
+
+    holy_order = yes
+
+    culture = clearlakian
+
+    # Parent Religion 
+    religion = orc_pagan
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Extra income due to donations, etc
+    monthly_income = 6 # (Must be an integer between 1 and 512)
+
+    mercenary_type = green_group_composition
+}
+
+# celestial_pagan
+d_protectors_perfection= {
+
+    color={ 255 30 80 }
+
+    graphical_culture = holygfx
+
+    capital = 169 # ClearLake
+
+    title = "GRANDMASTER"
+    foa = "GRANDMASTER_FOA"
+
+    # Always exists
+    landless = yes
+
+    holy_order = yes
+
+    culture = celestial
+
+    # Parent Religion 
+    religion =  celestial_pagan
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Extra income due to donations, etc
+    monthly_income = 6 # (Must be an integer between 1 and 512)
+
+    mercenary_type = protectors_perfection_composition
+}
+
+#demon_pagan
+d_order_disorder= {
+
+    color={ 255 30 80 }
+
+    graphical_culture = holygfx
+
+    capital = 169 # ClearLake
+
+    title = "GRANDMASTER"
+    foa = "GRANDMASTER_FOA"
+
+    # Always exists
+    landless = yes
+
+    holy_order = yes
+
+    culture = demon
+
+    # Parent Religion 
+    religion =  demon_pagan
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Extra income due to donations, etc
+    monthly_income = 6 # (Must be an integer between 1 and 512)
+
+    mercenary_type = order_disorder_composition
+}

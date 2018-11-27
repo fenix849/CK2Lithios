@@ -1,6 +1,9 @@
 title = c_nesani
-max_settlements = 3
-culture = sidhe
+max_settlements = 5
+culture = high_elf
 religion = tree
 terrain = forest
 b_etekibai = castle
+b_dogouz = city
+b_bitoja = temple
+b_wanda = castle

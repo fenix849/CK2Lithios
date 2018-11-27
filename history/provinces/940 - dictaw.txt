@@ -1,6 +1,9 @@
 title = c_dictaw
-max_settlements = 3
-culture = sidhe
+max_settlements = 5
+culture = high_elf
 religion = tree
 terrain = forest
 b_bicupta = castle
+b_rezauq = city
+b_enyaytaw = temple
+b_sapataw = castle

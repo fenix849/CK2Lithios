@@ -1,6 +1,9 @@
 title = c_epavaide
-max_settlements = 3
-culture = sidhe
+max_settlements = 6
+culture = mountain_elf
 religion = tree
 terrain = forest
 b_koyarab = castle
+b_lanaide = city
+b_edumo = temple
+b_duzaide = castle

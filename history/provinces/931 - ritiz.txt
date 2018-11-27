@@ -1,6 +1,8 @@
 title = c_ritiz
 max_settlements = 3
-culture = sidhe
+culture = high_elf
 religion = tree
 terrain = forest
 b_tyevori = castle
+b_eatibai = city
+b_qusani = temple

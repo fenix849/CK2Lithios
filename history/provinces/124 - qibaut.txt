@@ -1,6 +1,6 @@
 title = c_qibaut
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_nisirca = castle
+terrain = desert
+b_nisirca = tribal

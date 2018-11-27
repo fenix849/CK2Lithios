@@ -1,6 +1,7 @@
 title = c_qavurab
-max_settlements = 3
-culture = sidhe
-religion = tree
-terrain = forest
-b_laryen = castle
+max_settlements = 5
+culture = wandering_elf
+religion = elder_forest
+terrain = mountain
+b_laryen = tribal
+b_dicde = city

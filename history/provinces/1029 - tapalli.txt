@@ -1,6 +1,6 @@
 title = c_tapalli
-max_settlements = 3
-culture = sidhe
-religion = tree
+max_settlements = 4
+culture = wandering_elf
+religion = elder_forest
 terrain = forest
-b_damefan = castle
+b_damefan = tribal

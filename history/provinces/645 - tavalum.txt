@@ -1,6 +1,6 @@
 title = c_tavalum
 max_settlements = 4
-culture = sidhe
+culture = shadow_elf
 religion = tree
 terrain = woods
 b_ravilen = castle

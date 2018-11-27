@@ -1,6 +1,6 @@
 title = c_tukeeme
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_rudush = castle
+terrain = desert
+b_rudush = tribal

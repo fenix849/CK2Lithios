@@ -1,6 +1,8 @@
 title = c_winonia
-max_settlements = 3
-culture = sidhe
+max_settlements = 4
+culture = high_elf
 religion = tree
 terrain = forest
 b_terei = castle
+b_qalajan = city
+b_renard = temple

@@ -1,6 +1,7 @@
 title = c_ehuivya
-max_settlements = 3
-culture = sidhe
+max_settlements = 4
+culture = mountain_elf
 religion = tree
-terrain = forest
+terrain = mountain 
 b_lataw = castle
+b_qyaypa = city

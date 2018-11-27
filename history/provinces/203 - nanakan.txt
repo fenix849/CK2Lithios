@@ -1,6 +1,6 @@
 title = c_nanakan
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_ragaway = castle
+terrain = desert
+b_ragaway = tribal

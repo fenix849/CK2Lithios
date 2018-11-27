@@ -1,6 +1,11 @@
 title = c_aeyen
-max_settlements = 3
-culture = sidhe
+max_settlements = 6
+culture = high_elf
 religion = tree
-terrain = forest
-b_apavyen = castle
+terrain = woods
+b_apavyen = city
+b_neabu = castle
+b_kinabu = temple
+b_qapalli = castle
+b_taryen = city
+b_baditsa = city

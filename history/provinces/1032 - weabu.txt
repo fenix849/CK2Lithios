@@ -1,6 +1,8 @@
 title = c_weabu
-max_settlements = 3
-culture = sidhe
+max_settlements = 4
+culture = high_elf
 religion = tree
-terrain = forest
-b_ruzefan = castle
+terrain = woods
+b_ruzefan = city
+b_derabu = castle
+b_raditsa = temple

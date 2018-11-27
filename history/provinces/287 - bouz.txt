@@ -1,6 +1,9 @@
 title = c_bouz
-max_settlements = 3
-culture = sidhe
+max_settlements = 6
+culture = high_elf
 religion = tree
 terrain = forest
 b_tyaysan = castle
+b_ratasan = city
+b_wezuqa = temple
+b_rapupta = castle

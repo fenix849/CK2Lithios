@@ -1,740 +1,726 @@
-
-# Mercenary's
-
-
-d_reddo_saikuron = {
-    color={ 235 235 235 }
-    color2={ 255 255 255 }
-
-    capital = 1569 # ClearLake
-
-    
-
-    # Parent Religion 
-    religion = seven
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = reddo_saikuron_composition
-
-}
-
-
-d_shimotsuki = {
-    color={ 35 235 235 }
-    color2={ 255 255 55 }
-
-    capital = 1569 # ClearLake
-
-    
-
-    # Parent Religion 
-    religion = seven
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = shimotsuki_composition
-
-}
-
-# human
-
-d_hunters = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 1569 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = human
-    }
-
-    # Parent Religion 
-    religion = seven
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = hunters_composition
-}
-
-d_wolf = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 206 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = human
-    }
-
-    # Parent Religion 
-    religion = seven
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = wolf_composition
-}
-
-d_swords = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 206 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = human
-    }
-
-    # Parent Religion 
-    religion = seven
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = swords_composition
-}
-
-d_book = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 1569 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = human
-    }
-
-    # Parent Religion 
-    religion = seven
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = book_composition
-}
-
-d_force = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 206 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = human
-    }
-
-    # Parent Religion 
-    religion = seven
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = force_composition
-}
-
-
-# Elf
-
-
-d_green_baldes = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 1102 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = elvish
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = green_baldes_composition
-}
-
-
-d_son_gloryland = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 1102 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = elvish
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = son_gloryland_composition
-}
-
-
-d_true_gloryland = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 1102 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = elvish
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = true_gloryland_composition
-}
-
-
-d_black_knights = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 1102 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = elvish
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = black_knights_composition
-}
-
-
-d_moon_dance = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 1102 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = elvish
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = moon_dance_composition
-}
-
-#Dwarf
-
-d_gold_pick = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 166 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = dwarven
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = gold_pick_composition
-}
-
-
-d_rock_hounds = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 166 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = dwarven
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = rock_hounds_composition
-}
-
-d_stone_arms = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 166 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = dwarven
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = stone_arms_composition
-}
-
-
-d_mead_loves = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 166 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = dwarven
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = mead_loves_composition
-}
-
-
-d_battel_smith = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 166 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = dwarven
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = battel_smith_composition
-}
-
-
-
-#orc
-
-
-d_blood = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 215 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = greenskin
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = blood_composition
-}
-
-d_face = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 215 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = greenskin
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = face_composition
-}
-
-d_skull = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 215 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = greenskin
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = skull_composition
-}
-
-d_gut = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 215 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = greenskin
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = gut_composition
-}
-
-d_foot = {
-    color={ 235 35 235 }
-    color2={ 55 255 255 }
-
-    capital = 215 # ClearLake
-
-      # Hire Trigger
-    allow = {
-		culture_group = greenskin
-    }
-
-    # Parent Religion 
-    religion = tree
-    mercenary = yes
-
-    title = "CAPTAIN"
-    foa = "CAPTAIN_FOA"
-
-    # Always exists
-    landless = yes
-
-    # Cannot be held as a secondary title
-    primary = yes
-
-    # Cannot be vassalized
-    independent = yes
-
-    strength_growth_per_century = 1.0
-
-    mercenary_type = foot_composition
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
+# Mercenary's
+
+d_reddo_saikuron = {
+    color={ 235 235 235 }
+    color2={ 255 255 255 }
+
+    capital = 1569 # ClearLake
+
+    # Parent Religion 
+    religion = seven
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = reddo_saikuron_composition
+
+}
+
+d_shimotsuki = {
+    color={ 35 235 235 }
+    color2={ 255 255 55 }
+
+    capital = 1569 # ClearLake
+
+    
+
+    # Parent Religion 
+    religion = seven
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = shimotsuki_composition
+
+}
+
+# human
+
+d_hunters = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 1569 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = human
+    }
+
+    # Parent Religion 
+    religion = seven
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = hunters_composition
+}
+
+d_wolf = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 206 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = human
+    }
+
+    # Parent Religion 
+    religion = seven
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = wolf_composition
+}
+
+d_swords = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 206 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = human
+    }
+
+    # Parent Religion 
+    religion = seven
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = swords_composition
+}
+
+d_book = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 1569 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = human
+    }
+
+    # Parent Religion 
+    religion = seven
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = book_composition
+}
+
+d_force = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 206 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = human
+    }
+
+    # Parent Religion 
+    religion = seven
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = force_composition
+}
+
+
+# Elf
+
+
+d_green_baldes = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 1102 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = elvish
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = green_baldes_composition
+}
+
+
+d_son_gloryland = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 1102 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = elvish
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = son_gloryland_composition
+}
+
+
+d_true_gloryland = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 1102 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = elvish
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = true_gloryland_composition
+}
+
+
+d_black_knights = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 1102 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = elvish
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = black_knights_composition
+}
+
+
+d_moon_dance = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 1102 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = elvish
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = moon_dance_composition
+}
+
+#Dwarf
+
+d_gold_pick = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 166 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = dwarven
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = gold_pick_composition
+}
+
+
+d_rock_hounds = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 166 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = dwarven
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = rock_hounds_composition
+}
+
+d_stone_arms = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 166 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = dwarven
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = stone_arms_composition
+}
+
+
+d_mead_loves = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 166 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = dwarven
+    }
+
+    # Parent Religion 
+    religion = stone
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = mead_loves_composition
+}
+
+
+d_battel_smith = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 166 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = dwarven
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = battel_smith_composition
+}
+
+
+
+#orc
+
+
+d_blood = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 215 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = greenskin
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = blood_composition
+}
+
+d_face = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 215 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = greenskin
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = face_composition
+}
+
+d_skull = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 215 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = greenskin
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = skull_composition
+}
+
+d_gut = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 215 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = greenskin
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = gut_composition
+}
+
+d_foot = {
+    color={ 235 35 235 }
+    color2={ 55 255 255 }
+
+    capital = 215 # ClearLake
+
+      # Hire Trigger
+    allow = {
+		culture_group = greenskin
+    }
+
+    # Parent Religion 
+    religion = tree
+    mercenary = yes
+
+    title = "CAPTAIN"
+    foa = "CAPTAIN_FOA"
+
+    # Always exists
+    landless = yes
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    # Cannot be vassalized
+    independent = yes
+
+    strength_growth_per_century = 1.0
+
+    mercenary_type = foot_composition
+}
+
+
+
+
+
+
 

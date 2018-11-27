@@ -1,6 +1,8 @@
 title = c_kalodia
-max_settlements = 3
-culture = sidhe
-religion = tree
+max_settlements = 7
+culture = wandering_elf
+religion = elder_forest
 terrain = forest
-b_qecodia = castle
+b_qecodia = tribal
+b_recudor = castle
+b_tuzei = city

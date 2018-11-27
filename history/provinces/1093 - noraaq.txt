@@ -1,6 +1,9 @@
 title = c_noraaq
-max_settlements = 3
-culture = sidhe
+max_settlements = 5
+culture = high_elf
 religion = tree
 terrain = forest
 b_tyahulgu = castle
+b_ehaaq = city
+b_aridaaq = temple
+b_kaaq = castle

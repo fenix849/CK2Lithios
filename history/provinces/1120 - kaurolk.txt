@@ -1,6 +1,6 @@
 title = c_kaurolk
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_atibilen = castle
+terrain = desert
+b_atibilen = tribal

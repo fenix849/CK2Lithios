@@ -1,6 +1,6 @@
 title = c_rabona
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_runomo = castle
+terrain = desert
+b_runomo = tribal

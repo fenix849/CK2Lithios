@@ -1,6 +1,6 @@
 title = c_eliyade
-max_settlements = 3
-culture = sidhe
+max_settlements = 4
+culture = shadow_elf
 religion = tree
-terrain = forest
+terrain = hills 
 b_echicyen = castle

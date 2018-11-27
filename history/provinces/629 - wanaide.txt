@@ -1,6 +1,6 @@
 title = c_wanaide
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_tisirca = castle
+terrain = desert
+b_tisirca = tribal

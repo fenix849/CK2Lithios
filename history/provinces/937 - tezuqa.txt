@@ -1,6 +1,7 @@
 title = c_tezuqa
 max_settlements = 3
-culture = sidhe
+culture = wood_elf
 religion = tree
 terrain = forest
 b_kuyasan = castle
+

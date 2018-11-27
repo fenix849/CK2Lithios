@@ -1,6 +1,8 @@
 title = c_alakulgu
 max_settlements = 3
-culture = sidhe
+culture = high_elf
 religion = tree
-terrain = forest
+terrain = woods
 b_rorise = castle
+b_takulgu = city
+b_dapulgu = temple

@@ -1,6 +1,6 @@
 title = c_emarolk
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
-b_karikne = castle
+terrain = desert
+b_karikne = tribal

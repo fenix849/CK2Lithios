@@ -4,3 +4,5 @@ culture = high_elf
 religion = tree
 terrain = woods
 b_avlaznaz = castle
+b_akujiz = city
+b_qyevibai = temple

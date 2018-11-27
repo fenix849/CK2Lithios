@@ -4,3 +4,5 @@ culture = high_elf
 religion = tree
 terrain = woods
 b_kutt = castle
+b_buatt = city
+b_keyautt = temple

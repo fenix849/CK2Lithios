@@ -2747,6 +2747,7 @@ e_deeproots = { #Elves
 		capital = 1019
 		d_ett = {
 		#prov history done ~red
+		#better done
 			color = { 41 26 182 }
 			color2 = { 41 26 182 }
 			capital = 129
@@ -2957,6 +2958,7 @@ e_deeproots = { #Elves
 		}
 		d_wamavid = {
 		#prov history done ~red
+		#better done
 			color = { 95 133 112 }
 			color2 = { 95 133 112 }
 			capital = 1019
@@ -3166,6 +3168,7 @@ e_deeproots = { #Elves
 		}
 		d_ruatt = {
 		#prov history done ~red
+		#better done
 			color = { 236 212 54 }
 			color2 = { 236 212 54 }
 			capital = 1062
@@ -3295,6 +3298,7 @@ e_deeproots = { #Elves
 		}
 		d_radur = {
 		#prov history done ~red
+		#Better done
 			color = { 74 152 12 }
 			color2 = { 74 152 12 }
 			capital = 882
@@ -3424,6 +3428,7 @@ e_deeproots = { #Elves
 		}
 		d_navid = {
 		#prov history done ~red
+		#better done
 			color = { 204 211 215 }
 			color2 = { 204 211 215 }
 			capital = 1093
@@ -3593,6 +3598,7 @@ e_deeproots = { #Elves
 		}
 		d_dani = {
 		#prov history done ~red
+		#better done
 			color = { 60 130 131 }
 			color2 = { 60 130 131 }
 			capital = 814
@@ -3762,6 +3768,7 @@ e_deeproots = { #Elves
 		}
 		d_taurirca = {
 		#prov history done ~red
+		#Done beter
 			color = { 85 230 146 }
 			color2 = { 85 230 146 }
 			capital = 539

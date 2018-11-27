@@ -5,3 +5,4 @@ religion = tree
 terrain = woods
 b_eq = castle
 b_akhavid = city
+b_dise = temple

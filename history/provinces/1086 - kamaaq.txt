@@ -4,3 +4,5 @@ culture = high_elf
 religion = tree
 terrain = forest
 b_tiaaq = castle
+b_kidutt = city
+b_nanavid = temple

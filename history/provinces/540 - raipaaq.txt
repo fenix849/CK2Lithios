@@ -4,3 +4,5 @@ culture = high_elf
 religion = tree
 terrain = woods
 b_sapise = castle
+b_sualgu = city
+b_qyahaaq = temple

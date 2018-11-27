@@ -5,3 +5,5 @@ religion = tree
 terrain = forest
 b_dorutt = castle
 b_takalp = city
+b_nidulgu = temple
+b_esinalp = castle

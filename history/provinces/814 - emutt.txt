@@ -5,3 +5,5 @@ religion = tree
 terrain = forest
 b_tapulgu = castle
 b_ananaaq = city
+b_kuas = temple
+b_ramulgu = castle

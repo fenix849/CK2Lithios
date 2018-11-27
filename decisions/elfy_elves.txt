@@ -16,5 +16,8 @@ decisions = {
 		effect = {
 			e_deeproots = { gain_title = FROM }
 		}
+		ai_will_do = {
+			factor = 1
+		}
 	}
 }

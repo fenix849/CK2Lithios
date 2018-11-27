@@ -3,4 +3,4 @@ max_settlements = 3
 culture = sendan
 religion = seven
 terrain = desert
-b_lisomo = castle
+b_lisomo = tribal

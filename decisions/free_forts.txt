@@ -7,7 +7,7 @@ decisions = {
 		potential = {
 			culture_group = human
 			independent = yes
-			NOT = { higher_tier_than = COUNT }
+			NOT = { higher_tier_than = DUKE }
 			religion_group = pantheonic
 			any_neighbor_independent_ruler = {
 				OR = {
@@ -22,7 +22,7 @@ decisions = {
 			war = no
 		}
 		effect = {
-			set_defacto_liege = k_free_forts
+			set_defacto_liege = d_free_forts
 		}
 		ai_will_do = {
 			factor = 1

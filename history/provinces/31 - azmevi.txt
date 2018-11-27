@@ -1,6 +1,8 @@
 title = c_azmevi
-max_settlements = 3
+max_settlements = 4
 culture = high_elf
 religion = tree
 terrain = forest
 b_kekupta = castle
+b_sicuqa = city
+b_siyava = temple

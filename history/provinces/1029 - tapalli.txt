@@ -1,6 +1,6 @@
 title = c_tapalli
 max_settlements = 4
-culture = high_elf
+culture = wandering_elf
 religion = elder_forest
 terrain = forest
 b_damefan = temple

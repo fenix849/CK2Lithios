@@ -12580,6 +12580,7 @@ e_deeproots = { #Elves
 			color2 = { 139 154 90 }
 			capital = 945
 			c_tezuqa = {
+			#937
 				b_kuyasan = {
 					title = baron
 					title_female = baron
@@ -12619,6 +12620,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_donouz = {
+			#945
 				b_qatauq = {
 					title = baron
 					title_female = baron
@@ -12658,6 +12660,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_ricuqa = {
+			#718
 				b_ricataw = {
 					title = baron
 					title_female = baron
@@ -12697,6 +12700,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_wyayva = {
+			#881
 				b_banu = {
 					title = baron
 					title_female = baron
@@ -12736,6 +12740,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_natavati = {
+			#719
 				b_sekevi = {
 					title = baron
 					title_female = baron

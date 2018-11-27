@@ -4,3 +4,5 @@ culture = high_elf
 religion = tree
 terrain = woods
 b_beyen = city
+b_wavaide = castle
+b_saditsa = temple

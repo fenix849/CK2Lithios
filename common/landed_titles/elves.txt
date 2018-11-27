@@ -929,6 +929,7 @@ e_deeproots = { #Elves
 		capital = 1080
 		d_naditsa = {
 		#prov history done ~red
+		#better done
 			color = { 177 144 178 }
 			color2 = { 177 144 178 }
 			capital = 1004
@@ -1060,6 +1061,7 @@ e_deeproots = { #Elves
 		}
 		d_dinarn = {
 		#prov history done ~red
+		#better done
 			color = { 73 147 217 }
 			color2 = { 73 147 217 }
 			capital = 1063
@@ -1269,6 +1271,7 @@ e_deeproots = { #Elves
 		}
 		d_renabu = {
 		#prov history done ~red
+		#better done
 			color = { 165 196 248 }
 			color2 = { 165 196 248 }
 			capital = 1080
@@ -1398,6 +1401,7 @@ e_deeproots = { #Elves
 		}
 		d_quzefan = {
 		#prov history done ~red
+		#better done
 			color = { 202 236 197 }
 			color2 = { 202 236 197 }
 			capital = 1101
@@ -1567,6 +1571,7 @@ e_deeproots = { #Elves
 		}
 		d_neefan = {
 		#prov history done ~red
+		#better done
 			color = { 31 175 105 }
 			color2 = { 31 175 105 }
 			capital = 1107

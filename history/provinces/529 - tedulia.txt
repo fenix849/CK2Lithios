@@ -1,6 +1,6 @@
 title = c_tedulia
 max_settlements = 3
-culture = sedinan
+culture = sendan
 religion = seven
-terrain = farmlands
+terrain = desert
 b_dudulia = castle

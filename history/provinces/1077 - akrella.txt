@@ -3,4 +3,4 @@ max_settlements = 4
 culture = wandering_elf
 religion = elder_forest
 terrain = forest
-b_acanotei = temple
+b_acanotei = tribal

@@ -3,5 +3,5 @@ max_settlements = 5
 culture = wandering_elf
 religion = elder_forest
 terrain = mountain
-b_laryen = temple
+b_laryen = tribal
 b_dicde = city

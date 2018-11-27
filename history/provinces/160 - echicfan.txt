@@ -3,4 +3,4 @@ max_settlements = 3
 culture = wandering_elf
 religion = elder_forest
 terrain = woods
-b_qinabu = temple
+b_qinabu = tribal

@@ -1,6 +1,7 @@
 human;Human;;;;;;;;;;;;;
 imperial;Imperial;;;;;;;;;;;;;
 sedinan;Sedinan;;;;;;;;;;;;;
+sednan;Sednan;;;;;;;;;;;;;
 psatese;Psatese;;;;;;;;;;;;;
 korvallan;Korvallan;;;;;;;;;;;;;
 watren;Watren;;;;;;;;;;;;;
@@ -11,6 +12,7 @@ high_elf;High Elf;;;;;;;;;;;;;
 wood_elf;Wood Elf;;;;;;;;;;;;;
 shadow_elf;Shadow Elf;;;;;;;;;;;;;
 mountain_elf;Mountain Elf;;;;;;;;;;;;;
+wandering_elf;Wandering Elf;;;;;;;;;;;;;
 undead;Undead;;;;;;;;;;;;;
 vampire;Vampire;;;;;;;;;;;;;
 feline;Feline;;;;;;;;;;;;;

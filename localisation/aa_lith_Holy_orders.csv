@@ -32,5 +32,5 @@ k_izana;Church of Izana;;;;;;;;;;;;;
 k_izana_adj;Izana;;;;;;;;;;;;;
 k_barados;Church of Barados;;;;;;;;;;;;;
 k_barados_adj;Barados;;;;;;;;;;;;;
-k_free_forts;The Free Forts;;;;;;;;;;;;;
-k_free_forts_adj;Free Fort;;;;;;;;;;;;;
+d_free_forts;The Free Forts;;;;;;;;;;;;;
+d_free_forts_adj;Free Fort;;;;;;;;;;;;;

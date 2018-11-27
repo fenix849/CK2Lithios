@@ -1,223 +1,135 @@
 
 # HOLY ORDERS THE SEVEN
 e_seven = {
-	k_gekagi = {
-		color={ 255 130 0 }
+	color={ 255 255 255 }
 
-		graphical_culture = holygfx
-		capital = 1569 # ClearLake
-		
-		# Always exists
-		landless = yes
-		
-		culture = clearlakian
-		religion = seven
-		
-		monthly_income = 6 # (Must be an integer between 1 and 512)
-
-		d_paladins_gekagi= {
-
-			color={ 255 130 0 }
-
-			graphical_culture = holygfx
-
-			capital = 1569 # ClearLake
-
-			title = "GRANDMASTER"
-			foa = "GRANDMASTER_FOA"
-
-			# Always exists
-			landless = yes
-
-			holy_order = yes
-
-			culture = clearlakian
-
-			# Parent Religion 
-			religion = seven
-
-			# Cannot be held as a secondary title
-			primary = yes
-
-			# Extra income due to donations, etc
-			monthly_income = 6 # (Must be an integer between 1 and 512)
-
-			mercenary_type = paladins_gekagi_composition
-		}
-	}
-	k_wakfu = {
-		color={ 55 130 0 }
-
-		graphical_culture = holygfx
-		capital = 169 # ClearLake
-		
-		# Always exists
-		landless = yes
-		
-		culture = watren
-		religion = seven
-		
-		monthly_income = 6 # (Must be an integer between 1 and 512)
-		
-		d_paladins_wakfu= {
-
-			color={ 55 130 0 }
-
-			graphical_culture = holygfx
-
-			capital = 169 # ClearLake
-
-			title = "GRANDMASTER"
-			foa = "GRANDMASTER_FOA"
-
-			# Always exists
-			landless = yes
-
-			holy_order = yes
-
-			culture = watren
-
-			# Parent Religion 
-			religion = seven	
-
-			# Cannot be held as a secondary title
-			primary = yes
-
-			# Extra income due to donations, etc
-			monthly_income = 6 # (Must be an integer between 1 and 512)
-
-			mercenary_type = paladins_wakfu_composition
-		}
-	}
-	k_anjos = {
-		color={ 255 30 0 }
-
-		graphical_culture = holygfx
-		capital = 169 # ClearLake
-		
-		# Always exists
-		landless = yes
-		
-		culture = korvallan
-		religion = seven
-		
-		monthly_income = 6 # (Must be an integer between 1 and 512)
-		
-		d_paladins_anjos= {
-
-			color={ 255 30 0 }
-
-			graphical_culture = holygfx
-
-			capital = 169 # ClearLake
-
-			title = "GRANDMASTER"
-			foa = "GRANDMASTER_FOA"
-
-			# Always exists
-			landless = yes
-
-			holy_order = yes
-
-			culture = korvallan
-
-			# Parent Religion 
-			religion = seven	
-
-			# Cannot be held as a secondary title
-			primary = yes
-
-			# Extra income due to donations, etc
-			monthly_income = 6 # (Must be an integer between 1 and 512)
-
-			mercenary_type = paladins_anjos_composition
-		}
-	}
-	k_aurora = {
-		color={ 255 130 0 }
-
-		graphical_culture = holygfx
-		capital = 1569 # ClearLake
-		
-		# Always exists
-		landless = yes
-		
-		culture = southporter
-		religion = seven
-		
-		monthly_income = 6 # (Must be an integer between 1 and 512)
-	}
-	k_xienta = {
-		color={ 255 130 0 }
-
-		graphical_culture = holygfx
-		capital = 1569 # ClearLake
-		
-		# Always exists
-		landless = yes
-		
-		culture = sendan
-		religion = seven
-		
-		monthly_income = 6 # (Must be an integer between 1 and 512)
-	}
-	k_izana = {
-		color={ 255 130 0 }
-
-		graphical_culture = holygfx
-		capital = 1569 # ClearLake
-		
-		# Always exists
-		landless = yes
-		
-		culture = psatese
-		religion = seven
-		
-		monthly_income = 6 # (Must be an integer between 1 and 512)
-	}
-	k_barados = {
-		color={ 255 130 0 }
-
-		graphical_culture = holygfx
-		capital = 1569 # ClearLake
-		
-		# Always exists
-		landless = yes
-		
-		culture = imperial
-		religion = seven
-		
-		monthly_income = 6 # (Must be an integer between 1 and 512)
-	}
+	graphical_culture = holygfx
+	capital = 1569 # ClearLake
 	
-	k_free_forts = {
-		color={ 30 30 30 }
+	# Always exists
+	landless = yes
+	
+	culture = imperial
+	religion = seven
+	
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+	controls_religion = seven
+}
+d_paladins_gekagi= {
 
-		graphical_culture = holygfx
+	color={ 255 130 0 }
 
-		capital = 169 # ClearLake
+	graphical_culture = holygfx
 
-		title = "GRANDMASTER"
-		foa = "GRANDMASTER_FOA"
+	capital = 1569 # ClearLake
 
-		# Always exists
-		landless = yes
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
 
-		holy_order = yes
+	# Always exists
+	landless = yes
 
-		culture = clearlakian
+	holy_order = yes
 
-		# Parent Religion 
-		religion = seven	
+	culture = clearlakian
 
-		# Cannot be held as a secondary title
-		primary = yes
+	# Parent Religion 
+	religion = seven
 
-		# Extra income due to donations, etc
-		monthly_income = 6 # (Must be an integer between 1 and 512)
+	# Cannot be held as a secondary title
+	primary = yes
 
-		mercenary_type = paladins_wakfu_composition
-	}
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = paladins_gekagi_composition
+}
+d_paladins_wakfu= {
+
+	color={ 55 130 0 }
+
+	graphical_culture = holygfx
+
+	capital = 169 # ClearLake
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+
+	holy_order = yes
+
+	culture = watren
+
+	# Parent Religion 
+	religion = seven	
+
+	# Cannot be held as a secondary title
+	primary = yes
+
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = paladins_wakfu_composition
+}
+d_paladins_anjos= {
+
+	color={ 255 30 0 }
+
+	graphical_culture = holygfx
+
+	capital = 169 # ClearLake
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+
+	holy_order = yes
+
+	culture = korvallan
+
+	# Parent Religion 
+	religion = seven	
+
+	# Cannot be held as a secondary title
+	primary = yes
+
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = paladins_anjos_composition
+}
+
+d_free_forts = {
+	color={ 30 30 30 }
+
+	graphical_culture = holygfx
+
+	capital = 169 # ClearLake
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+
+	holy_order = yes
+
+	culture = clearlakian
+
+	# Parent Religion 
+	religion = seven	
+
+	# Cannot be held as a secondary title
+	primary = yes
+
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = paladins_wakfu_composition
 }
 
 # HOLY ORDERS THE TREE

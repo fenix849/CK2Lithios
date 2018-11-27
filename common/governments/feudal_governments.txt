@@ -23,6 +23,7 @@ feudal_governments = {
 			NOR = {
 				religion = tree
 				religion = elder_forest
+				primary_title = { title = e_seven }
 			}
 			NAND = { 
 				tier = EMPEROR
@@ -74,6 +75,7 @@ feudal_governments = {
 				religion = tree
 				religion = elder_forest
 				has_religion_feature = religion_temporal_head
+				primary_title = { title = e_seven }
 			}
 			NOT = { is_government_potential = roman_imperial_government }
 			NOT = { is_government_potential = order_government }
@@ -239,6 +241,7 @@ feudal_governments = {
 		can_usurp_kingdoms_and_empires = no
 		can_grant_kingdoms_and_empires_to_other_government = no
 		can_be_granted_kingdoms_and_empires_by_other_government = no
+		can_build_tribal = no
 		can_inherit = no
 		free_retract_vassalage = yes
 	}

@@ -73,7 +73,7 @@ human = {
 		modifier = default_culture_modifier
 	}
 	
-	sendnan = {
+	sendan = {
 		graphical_cultures = { muslimgfx }
 		
 		color = { 0.1 0.6 0.6 }

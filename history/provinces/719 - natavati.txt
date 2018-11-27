@@ -1,5 +1,5 @@
 title = c_natavati
-max_settlements = 3
+max_settlements = 4
 culture = wood_elf
 religion = tree
 terrain = forest
